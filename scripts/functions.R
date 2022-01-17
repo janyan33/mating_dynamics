@@ -141,7 +141,7 @@ func_matrix_to_igraph <- function(matrix){
   igraph <- graph_from_adjacency_matrix(matrix, diag = FALSE, weighted = TRUE, mode = "directed")
   igraph <- set_vertex_attr(igraph, "sex", 
                             value = ifelse(V(igraph)$name %in% LETTERS[1:12], "Male", "Female"))
-  strength <- strength(igraph, mode = "in")
+  strength <- strength(igraph, mode = "all")
   igraph <- set_vertex_attr(igraph, "matings", value = strength)
   V(igraph)$color <- ifelse(V(igraph)$sex == "Female", "red", "blue")
   V(igraph)$label.color <- "white"
@@ -157,7 +157,7 @@ func_matrix_to_igraph <- function(matrix){
 func_permute_igraph_females <- function(matrix) { 
   #shuffle names 
   names <- colnames(matrix)
-  m_names <- subset(names, names %in% LETTERS[1:12])
+  m_names <- sample(subset(names, names %in% LETTERS[1:12]))
   f_names <- sample(subset(names, names %in% LETTERS[13:24]))
   new_names <- c(m_names, f_names)
   colnames(matrix) <- new_names; rownames(matrix) <- new_names
@@ -165,8 +165,14 @@ func_permute_igraph_females <- function(matrix) {
   igraph <- graph_from_adjacency_matrix(matrix, diag = FALSE, weighted = TRUE, mode = "directed")
   igraph <- set_vertex_attr(igraph, "sex", 
                             value = ifelse(V(igraph)$name %in% LETTERS[1:12], "Male", "Female"))
-  strength <- strength(igraph, mode = "in")
+  strength <- strength(igraph, mode = "all")
   igraph <- set_vertex_attr(igraph, "matings", value = strength)
+  
+  V(igraph)$color <- ifelse(V(igraph)$sex == "Female", "red", "blue")
+  V(igraph)$label.color <- "white"
+  V(igraph)$size <- V(igraph)$matings*3.5
+  E(igraph)$width <- E(igraph)$weight*1.5
+  plot(igraph, edge.color = "dimgrey", layout = layout_nicely(igraph))
   return(igraph)
 }  
 

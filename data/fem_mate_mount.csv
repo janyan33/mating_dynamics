@@ -1,0 +1,2164 @@
+,network,block,treatment,day,time_hour_abs,focal_individual,behaviour,social_partner,partner_response,notes,partner_sex,mating_recency
+1,1,1,twelve,1,8.53,J,mating,U,N/A,,female,N/A
+2,1,1,twelve,1,8.55,F,mating,N,N/A,,female,N/A
+3,1,1,twelve,1,8.57,B,mount,Q,Ran away,,female,N/A
+4,1,1,twelve,1,8.58,H,mating,T,N/A,,female,N/A
+5,1,1,twelve,1,8.6,C,mating,P,N/A,,female,N/A
+6,1,1,twelve,1,8.62,D,mount,N,Pressing firmly against shelter wall,,female,0.07
+7,1,1,twelve,1,8.67,C,mount,P,Ran away,,female,0.07
+8,1,1,twelve,1,8.67,D,mount,N,Pressing firmly against shelter wall,,female,0.12
+9,1,1,twelve,1,8.75,D,mount,N,Pressing firmly against shelter wall,,female,0.2
+10,1,1,twelve,1,8.8,D,mount,N,Pressing firmly against shelter wall,,female,0.25
+11,1,1,twelve,1,8.82,C,mount,P,Ran away,,female,0.22
+12,1,1,twelve,1,8.82,J,mating,X,N/A,,female,N/A
+13,1,1,twelve,1,8.83,A,mating,W,Walked around,,female,N/A
+14,1,1,twelve,1,8.92,unknown,mount,W,Ran away,,female,0.09
+15,1,1,twelve,1,9.08,E,mating,S,Left 2 with .4 on her,,female,N/A
+16,1,1,twelve,1,9.2,H,mating,O,N/A,,female,N/A
+17,1,1,twelve,1,9.22,I,mount,V,Pressing firmly against shelter wall,,female,N/A
+18,1,1,twelve,1,9.32,I,mount,T,Walk around,,female,0.74
+19,1,1,twelve,1,9.57,K,mating,Q,Running around,,female,N/A
+20,1,1,twelve,1,9.82,H,mount,T,Ran away,,female,1.24
+21,1,1,twelve,1,10.35,B,mating,W,"Running around, left 4",,female,1.52
+22,1,1,twelve,1,10.83,D,mount,N,,,female,2.28
+23,1,1,twelve,1,11.2,F,mating,X,"Walking around, entered 8",,female,2.38
+24,1,1,twelve,1,12.3,E,mount,V,Ran away,,female,N/A
+25,1,1,twelve,1,12.38,A,mount,P,Ran away,,female,3.78
+26,1,1,twelve,1,12.4,A,mount,S,Ran away,,female,3.32
+27,1,1,twelve,1,12.43,K,mating,X,Running around,,female,1.23
+28,1,1,twelve,1,12.68,A,mount,S,Ran away,,female,3.6
+29,1,1,twelve,1,12.77,B,mating,V,"Running around, entered 2",,female,N/A
+30,1,1,twelve,1,12.78,C,mount,V,,Tried to mount 9. while .1 was mating with her which ended the mating,female,0.01
+31,1,1,twelve,1,13.13,B,mount,N,Ran away into 2,,female,4.58
+32,1,1,twelve,1,13.15,A,mount,T,Ran away,,female,4.57
+33,1,1,twelve,1,13.4,H,mount,U,Shake and ran away,,female,4.87
+34,1,1,twelve,1,13.47,D,mating,M,Walked around,,female,N/A
+35,1,1,twelve,1,13.48,A,mount,R,Ran away,,female,N/A
+36,1,1,twelve,1,13.57,I,mount,Q,Ran away,,female,4
+37,1,1,twelve,1,13.77,K,mount,U,Ran away,,female,5.24
+38,1,1,twelve,1,13.77,E,mating,R,,,female,N/A
+39,1,1,twelve,1,13.8,B,mount,X,1: is tightly against wall,,female,2.6
+40,1,1,twelve,1,13.8,J,mount,U,,,female,5.27
+41,1,1,twelve,1,14.17,L,mating,S,Walk around,,female,5.09
+42,1,1,twelve,1,14.28,B,mount,U,Ran away,.9 also mounted them which broke up the mounting,female,5.75
+43,1,1,twelve,1,14.3,L,mount,X,Ran away,0,female,3.1
+44,1,1,twelve,1,14.58,B,mount,T,Continued feeding,,female,6
+45,1,1,twelve,1,14.7,H,mating,U,,,female,6.17
+46,1,1,twelve,1,15.1,B,mating,R,Walking around,,female,1.33
+47,1,1,twelve,1,15.15,U,mount,X,Pushed against wall,,female,3.95
+48,1,1,twelve,1,15.5,J,mount,P,Ran away,,female,6.9
+49,1,1,twelve,1,15.52,G,mating,M,Walking around,,female,2.05
+50,1,1,twelve,1,15.55,J,mount,O,Ran away,,female,6.35
+51,1,1,twelve,1,15.55,D,mating,U,Walking around,,female,0.85
+52,1,1,twelve,1,15.62,D,mount,V,Ran away,,female,2.85
+53,1,1,twelve,1,15.77,J,mount,M,Ran away,,female,2.3
+54,1,1,twelve,1,16.22,J,mount,U,Ran away,,female,1.52
+55,1,1,twelve,1,16.27,B,mount,T,,,female,7.69
+56,1,1,twelve,1,16.52,K,mount,V,Both ran away and exited 10,,female,3.75
+57,1,1,twelve,1,16.52,K,mount,P,Both ran away and exited 10,,female,7.92
+58,1,1,twelve,1,16.82,O,mount,S,,,female,2.65
+59,1,1,twelve,1,17.64,N,mount,M,moved away,,female,4.17
+60,1,1,twelve,1,17.94,U,mount,M,ran out of shelter,,female,4.47
+61,1,1,twelve,2,35.45,L,mating,N,Run around,Ran into 0: and 7. (all remained together after),female,26.9
+62,1,1,twelve,2,36.68,K,mount,S,Ran away,,female,22.51
+63,1,1,twelve,2,35.22,C,mount,M,Staying still,,female,21.75
+64,1,1,twelve,2,37.05,J,mating,O,N/A,,female,27.85
+65,1,1,twelve,2,37.63,K,mount,N,N/A,,female,2.18
+66,1,1,twelve,2,37.67,E,mount,N,Ran away,,female,2.22
+67,1,1,twelve,2,37.75,H,mating,X,N/A,,female,26.55
+68,1,1,twelve,2,37.82,L,mount,R,Ran away and exited 12,,female,24.05
+69,1,1,twelve,2,38.22,E,mount,R,Nothing,.4 looked like it was going to mate and then just stopped and left,female,24.45
+70,1,1,twelve,2,38.27,E,mount,O,Ran away and exited 7,,female,1.22
+71,1,1,twelve,2,38.43,K,mount,T,Ran away,,female,29.85
+72,1,1,twelve,2,39.32,D,mating,U,N/A,,female,24.62
+73,1,1,twelve,2,41,M,mount,S,n/A,,female,26.83
+74,1,1,twelve,3,59.15,E,mating,S,Running around,,female,44.98
+75,1,1,twelve,3,59.28,I,mating,S,Ran away,Running around with .8 on her and pushed .4 out of the shelter and .2 out of aggregation,female,0.13
+76,1,1,twelve,3,60.28,D,mount,U,Ran away,Looked like mating but ended after ~15-20 seconds,female,20.96
+77,1,1,twelve,3,60.4,C,mating,O,N/A,,female,23.35
+78,1,1,twelve,3,60.58,E,mount,Q,N/A,4. Likely dead or messed up,female,51.01
+79,1,1,twelve,3,60.68,E,mount,U,Ran away,,female,21.36
+80,1,1,twelve,3,60.78,K,mount,R,Ran away,,female,47.01
+81,1,1,twelve,3,61.45,G,mating,U,Ran and entered 8,.0 tried to get on top too abd caused 6. to dismount,female,22.13
+82,1,1,twelve,3,61.48,A,mount,U,Running away,,female,0.03
+83,1,1,twelve,3,62.07,H,mount,X,Ran away,,female,24.32
+84,1,1,twelve,3,62.18,I,mount,N,Ran away into :0 who mounted her ,,female,26.73
+85,1,1,twelve,3,62.2,K,mount,N,Ran away,,female,26.75
+86,1,1,twelve,3,62.32,I,mount,U,Ran away and pinched against wall,,female,0.87
+87,1,1,twelve,3,60.23,I,mount,S,Ran away,,female,1.08
+88,1,1,twelve,2,35.23,C,mount,M,Move away a little,,female,21.76
+89,1,1,twelve,3,62.65,B,mating,U,N/A,,female,1.2
+90,1,1,twelve,3,62.67,D,mount,X,Ran away and into 11,,female,24.92
+91,1,1,twelve,3,62.42,E,mount,S,Ran away and out of shelter,,female,3.27
+92,1,1,twelve,3,62.73,L,mount,S,Pressed against wall,,female,3.58
+93,1,1,twelve,3,62.78,F,mating,X,Pressed against wall,"Pinched into corner, hard to tell if this was a successful mating but it did last >30 seconds",female,25.03
+94,1,1,twelve,3,63.08,B,mount,U,Pressed against wall,,female,0.43
+95,1,1,twelve,3,63.08,B,mount,U,Ran away,Pressed against another wall,female,0.43
+96,1,1,twelve,3,63.27,K,mount,N,Pinched against arena wall then ran away,,female,27.82
+97,1,1,twelve,3,63.32,H,mount,W,Ran away,,female,52.97
+98,1,1,twelve,3,63.33,E,mount,unknown,Quickly got off,,female,N/A
+99,1,1,twelve,3,63.42,K,mount,N,Walking around,:0 seems to be struggling to curl under 1.,female,27.97
+100,1,1,twelve,3,63.45,K,mount,N,Ran away,,female,28
+101,1,1,twelve,3,63.67,G,mount,W,Firmly pressed against wall,,female,53.32
+102,1,1,twelve,2,36.78,A,mating,M,N/A,,female,23.31
+103,1,1,twelve,3,62.5,L,mount,M,Ran away,,female,25.72
+104,1,1,twelve,3,63.7,G,mount,M,Running around,"the female ran in 7, got mounted by :1 who replaced .6",female,26.92
+105,1,1,twelve,3,64.32,J,mount,O,Ran away,2. was trying to enter 10 but ran away,female,3.92
+106,1,1,twelve,3,64.33,H,mating,P,Walking around,,female,55.73
+107,1,1,twelve,3,62.75,L,mount,S,Still firmly pressed against wall,,female,3.6
+108,1,1,twelve,3,64.67,K,mating,U,Walking around,,female,2.02
+109,1,1,twelve,3,65.02,B,mating,P,,,female,0.69
+110,1,1,twelve,3,65.42,G,mating,P,na,,female,0.4
+111,1,1,twelve,3,65.58,G,mount,N,ran away towards aggregate ,now in aggregate ,female,30.13
+112,1,1,twelve,4,82.22,G,mount,V,9. shaking,,female,69.45
+113,1,1,twelve,4,82.42,G,mount,X,1: ran away into corner,,female,19.64
+114,1,1,twelve,4,83.08,I,mating,V,N/A,,female,70.31
+115,1,1,twelve,4,83.12,G,mount,V,N/A,,female,0.04
+116,1,1,twelve,4,81.42,B,mating,P,ran into group of bugs,could not see if .1 was in mating position ,female,16
+117,1,1,twelve,4,83.37,I,mount,P,ran into group of bugs,,female,1.95
+118,1,1,twelve,3,65.7,G,mount,N,NA,NA,female,30.25
+119,1,1,twelve,3,65.87,G,mount,N,ran away towards exit ,,female,30.42
+120,1,1,twelve,4,83.43,I,mount,P,N/A,run into corner of 10 away from everyone else,female,2.01
+121,1,1,twelve,4,84.62,I,mount,X,N/A,,female,21.84
+122,1,1,twelve,4,84.63,G,mount,X,N/A,,female,21.85
+123,1,1,twelve,4,84.63,B,mount,X,N/A,,female,21.85
+124,1,1,twelve,4,84.68,B,mount,T,N/A,.1 stopped quickly,female,76.1
+125,1,1,twelve,4,84.77,G,mount,X,unknown,Caused the big group to move slightly away,female,21.99
+126,1,1,twelve,4,86.35,I,mating,V,Walked into group of bugs,,female,3.27
+127,1,1,twelve,4,81.65,G,mount,N,ran into group of bugs,,female,46.2
+128,1,1,twelve,4,84.1,H,mount,P,Ran away,caused .7 to exit 8,female,2.68
+129,1,1,twelve,4,88.1,F,mating,P,Walking around,,female,6.68
+130,1,1,twelve,4,88.17,E,mating,P,Running around,"Got mounted by .2 too, left 2 while on 3.",female,0.07
+131,1,1,twelve,5,105.22,G,mating,T,7. moved towards the cluster of other bugs,,female,96.64
+132,1,1,twelve,5,107.38,J,mount,V,ran away,,female,21.03
+133,1,1,twelve,5,107.38,J,mount,V,pressed against wall,,female,21.03
+134,1,1,twelve,4,83.45,D,mount,N,run away,,female,48
+135,1,1,twelve,4,88.18,C,mount,P,,Mounted 3. while .4 was mating with her,female,0.08
+136,1,1,twelve,3,63.75,L,mating,M,N/A,Pushed .6 off,female,26.97
+137,1,1,twelve,5,107.68,I,mount,V,ran away,,female,21.33
+138,1,1,twelve,3,64.23,J,mount,M,Ran away,0. was approaching 10 but ran away,female,0.48
+139,1,1,twelve,5,108.1,D,mount,X,ran away,,female,45.32
+140,1,1,twelve,4,83.47,D,mount,N,ran away,"ran out of shelter really fast,",female,48.02
+141,1,1,twelve,5,101.25,L,mount,M,na,,female,37.5
+142,1,1,twelve,5,107.65,B,mount,M,pinned against wall,,female,43.9
+143,1,1,twelve,5,108.05,E,mount,M,ran away,0. was going to enter 8 but ran away,female,44.3
+144,1,1,twelve,5,108.53,J,mount,V,N/A,stopped shortly,female,22.18
+145,1,1,twelve,5,108.55,I,mount,W,pinned against wall,right side of body pressed firmly to wall,female,98.2
+146,1,1,twelve,5,108.67,B,mating,W,walking around,,female,98.32
+147,1,1,twelve,5,108.22,E,mating,M,walking around,,female,44.47
+148,1,1,twelve,5,109.12,G,mating,W,Walking around,,female,0.45
+149,1,1,twelve,5,109.12,B,mount,W,N/A,Tried mounting 0: while .6 was mating with her,female,0.45
+150,1,1,twelve,4,86.75,M,mount,N,ran away,1. approached entering 8 but ran away after mount,female,51.3
+151,1,1,twelve,5,109.57,F,mount,W,Run around,,female,0.9
+152,1,1,twelve,5,109.6,F,mount,W,N/A,,female,0.93
+153,1,1,twelve,5,109.6,A,mount,X,Ran away and out of shelter,,female,46.82
+154,1,1,twelve,5,109.65,I,mount,V,Ran away,,female,23.3
+155,1,1,twelve,5,100.24,L,mating,P,tried to move away ,,female,12.14
+156,1,1,twelve,5,109.77,A,mating,T,Staying still,I accidentally kicked the table and may have prematurely ended this,female,4.55
+157,1,1,twelve,5,109.8,I,mount,V,Staying still,Got off quickly,female,23.45
+158,1,1,twelve,5,108.23,H,mount,M,walking around,Mounted to 0. while .4 was mating with her,female,44.48
+159,1,1,twelve,5,109.93,F,mating,V,Walking around,,female,23.58
+160,1,1,twelve,5,110.07,D,mount,W,N/A,stopped shortly,female,1.4
+161,1,1,twelve,5,108.23,H,mating,M,Entered shelter1,Displaced .4,female,44.48
+162,1,1,twelve,5,108.72,F,mount,M,Ran away and out of shelter,,female,0.49
+163,1,1,twelve,5,110.48,D,mount,X,Ran away and left shelter,,female,47.7
+164,1,1,twelve,5,110.55,J,mount,X,Ran away,,female,47.77
+165,1,1,twelve,5,111.27,F,mount,W,Ran away and into shelter 5,,female,2.6
+166,1,1,twelve,5,111.47,F,mount,X,N/A,,female,48.69
+167,1,1,twelve,5,111.62,J,mount,X,Ran away,.9 re-entered 12,female,48.84
+168,1,1,twelve,5,111.8,C,mating,W,walking around,,female,3.13
+169,1,1,twelve,5,111.82,B,mating,T,N/A,,female,2.05
+170,1,1,twelve,5,112.03,H,mating,T,N/A,,female,0.21
+171,1,1,twelve,5,112.22,J,mount,T,Ran away and out of shelter,,female,0.4
+172,1,1,twelve,5,112.47,D,mating,W,Ran away after,,female,0.67
+173,1,1,twelve,5,112.73,G,mount,W,firmly pressed against wall,,female,0.93
+174,1,1,twelve,6,129.8,A,mating,V,ran away,".0 stayed on top after, 9. got away after",female,19.87
+175,1,1,twelve,6,130.38,B,mating,T,7. ran into wall,,female,18.56
+176,1,1,twelve,6,130.52,B,mount,T,N/A,,female,0.14
+177,1,1,twelve,5,105.18,J,mount,O,na,,female,44.78
+178,1,1,twelve,6,130.68,J,mount,U,8. pushed their back into wall,,female,66.01
+179,1,1,twelve,6,130.75,J,mount,U,N/A,,female,66.08
+180,1,1,twelve,6,130.77,J,mating,U,N/A,"8. bumped .9 before .9 jumped on, .9 rearranged  a few times and stayed on",female,66.1
+181,1,1,twelve,6,130.82,J,mount,U,8. pushed back into the wall,,female,0.05
+182,1,1,twelve,6,131.37,J,mount,U,N/A,.9 stopped shortly,female,0.6
+183,1,1,twelve,3,64.6,L,mount,S,Ran away,,female,5.45
+184,1,1,twelve,6,132.28,C,mount,V,unknown,,female,22.35
+185,1,1,twelve,6,132.3,C,mating,V,N/A,,female,22.37
+186,1,1,twelve,6,132.38,L,mount,V,ran away,,female,0.08
+187,1,1,twelve,6,132.4,A,mount,V,ran away,,female,0.1
+188,1,1,twelve,6,132.57,H,mount,X,Ran away and left shelter 1,,female,69.79
+189,1,1,twelve,3,65.06,K,mount,S,,,female,5.91
+190,1,1,twelve,6,131.65,K,mount,S,N/A,stopped quickly,female,72.5
+191,1,1,twelve,6,132.62,I,mount,S,Tried to run away,Looked like mating but .8 got off after around 10 seconds,female,73.47
+192,1,1,twelve,6,132.7,B,mating,X,walking around,,female,69.92
+193,1,1,twelve,6,132.7,F,mount,X,N/A,trying to mount multiple times while .1 and 1: are mating,female,0
+194,1,1,twelve,6,132.72,F,mount,X,N/A,,female,0.02
+195,1,1,twelve,6,132.75,F,mating,T,N/A,,female,2.37
+196,1,1,twelve,6,132.75,D,mount,T,N/A,trying to mount while .5 was mating with 7.,female,0
+197,1,1,twelve,6,132.78,G,mount,T,pinned against wall,,female,0.03
+198,1,1,twelve,6,132.83,C,mating,X,N/A,,female,0.13
+199,1,1,twelve,6,133.55,G,mating,V,N/A,,female,1.25
+200,1,1,twelve,6,133.62,D,mount,V,N/A,Looked like mating but less than 30 seconds,female,0.07
+201,1,1,twelve,6,132.62,K,mount,S,N/A,tried to mount 6. while .8 was mounting her,female,73.47
+202,1,1,twelve,6,133.8,D,mount,X,ran away from bit group,,female,0.97
+203,1,1,twelve,5,109.83,D,mount,M,Ran out of shelter,Trying to mate but seems like he's to big to get under her,female,1.6
+204,1,1,twelve,5,110.23,D,mount,M,Ran away,,female,2
+205,1,1,twelve,6,132.67,I,mount,S,pinned against wall,,female,73.52
+206,1,1,twelve,5,110.27,D,mount,M,Run around,Looks like .3 can't get under her,female,2.04
+207,1,1,twelve,6,133.78,I,mount,S,ran away and joined :0,,female,74.63
+208,1,1,twelve,6,134.33,B,mount,S,ran away,,female,75.18
+209,1,1,twelve,6,134.72,J,mount,S,pressed against wall,,female,75.57
+210,1,1,twelve,6,136.8,E,mount,V,Run away ,,female,3.25
+211,1,1,twelve,5,113.64,L,mount,M,na,,female,5.41
+212,1,1,twelve,6,134.2,H,mating,M,N/A,,female,25.97
+213,1,1,twelve,6,135.35,J,mount,S,N/A,Looked like he was going to mate and then just stopped?,female,76.2
+214,1,1,twelve,6,135.43,D,mount,S,N/A,,female,76.28
+215,1,1,twelve,3,65.18,J,mount,unknown,run away ,,female,N/A
+216,1,1,twelve,5,107.58,L,mating,P,tried to run and pin against wall,exited 7 while :1 was on her,female,7.34
+217,1,1,twelve,5,107.55,Q,mount,N,ran away,1. was gonna enter 8 but then didn't,female,72.1
+218,1,1,twelve,5,108.17,A,mating,N,"walked around, ran out of shelter",,female,72.72
+219,1,1,twelve,5,109.3,C,mating,N,N/A,,female,1.13
+220,1,1,twelve,4,78.98,unknown,mount,X,,,female,16.2
+221,1,1,twelve,4,78.57,D,mount,X,N/A,,female,15.79
+222,1,1,twelve,6,134.2,E,mount,M,N/A,mounting 0. while .7 was mating with her,female,0
+223,1,1,twelve,5,109.65,F,mating,P,,,female,2.07
+224,1,1,twelve,6,134.38,E,mating,M,walking around,,female,0.18
+225,1,1,twelve,6,130.68,J,mount,O,2. ran away,,female,70.28
+226,2,1,two,1,8.67,I,mating,Q,,,female,N/A
+227,2,1,two,1,8.68,C,mating,T,,,female,N/A
+228,2,1,two,1,8.68,A,mating,S,,,female,N/A
+229,2,1,two,1,8.7,E,mount,O,,,female,N/A
+230,2,1,two,1,8.7,E,mount,T,,,female,0.02
+231,2,1,two,1,8.7,H,mating,R,Walking around in shelter,,female,N/A
+232,2,1,two,1,8.78,G,mount,X,,,female,N/A
+233,2,1,two,1,8.8,L,mount,X,Ran away,,female,N/A
+234,2,1,two,1,8.8,G,mating,X,,,female,N/A
+235,2,1,two,1,8.82,J,mating,U,,,female,N/A
+236,2,1,two,1,8.87,K,mating,S,,,female,0.19
+237,2,1,two,1,8.88,I,mating,Q,,,female,0.21
+238,2,1,two,1,8.9,N,mount,P,Pressed against wall,,female,N/A
+239,2,1,two,1,8.93,B,mating,Q,,,female,0.05
+240,2,1,two,1,8.98,E,mount,X,Ran away,,female,0.18
+241,2,1,two,1,8.98,I,mount,O,Pressed against wall,.8 trying to mate,female,N/A
+242,2,1,two,1,9.03,I,mating,O,,,female,N/A
+243,2,1,two,1,9.03,J,mount,O,unknown,,female,0
+244,2,1,two,1,9.1,L,mount,V,,,female,N/A
+245,2,1,two,1,9.12,F,mating,N,,,female,N/A
+246,2,1,two,1,9.15,I,mount,O,,,female,0.12
+247,2,1,two,1,9.18,I,mount,O,,,female,0.15
+248,2,1,two,1,9.2,K,mount,Q,,,female,0.32
+249,2,1,two,1,9.22,I,mount,O,,,female,0.19
+250,2,1,two,1,9.28,I,mount,O,,,female,0.25
+251,2,1,two,1,9.32,U,mount,O,,,female,0.29
+252,2,1,two,1,9.33,I,mating,O,,Maybe mating??,female,0.3
+253,2,1,two,1,9.35,B,mount,O,unknown,,female,0.02
+254,2,1,two,1,9.43,F,mount,W,,,female,N/A
+255,2,1,two,1,9.43,I,mount,Q,Ran away,,female,0.55
+256,2,1,two,1,9.47,I,mount,Q,Ran away in shelter,,female,0.59
+257,2,1,two,1,9.88,B,mount,O,NA,,female,0.55
+258,2,1,two,1,9.93,B,mount,O,,,female,0.6
+259,2,1,two,1,9.95,I,mount,Q,Walking around in shelter,Prolonged mount,female,1.07
+260,2,1,two,1,10.15,A,mount,T,,,female,1.47
+261,2,1,two,1,10.15,I,mating,T,Walk out of shelter 1 with .8 on her,,female,1.47
+262,2,1,two,1,10.17,H,mount,Q,Left shelter,,female,1.29
+263,2,1,two,1,10.2,H,mount,O,unknown,,female,0.87
+264,2,1,two,1,10.22,E,mount,U,Ran away in shelter,,female,1.4
+265,2,1,two,1,10.22,G,mating,W,N/A,,female,N/A
+266,2,1,two,1,10.25,I,mount,U,Ran away,,female,1.43
+267,2,1,two,1,10.27,I,mount,Q,,,female,1.39
+268,2,1,two,1,10.3,A,mount,T,,,female,0.15
+269,2,1,two,1,10.33,I,mating,Q,Walk around,,female,1.45
+270,2,1,two,1,10.4,I,mount,U,Ran away,,female,1.58
+271,2,1,two,1,10.47,K,mount,U,Running around,Prolonged mount,female,1.65
+272,2,1,two,1,10.62,I,mount,Q,Run around,Prolonged mount,female,0.29
+273,2,1,two,1,10.63,I,mount,O,Walk around,Prolonged mount,female,1.3
+274,2,1,two,1,10.67,I,mount,V,Ran away,Prolonged mount,female,N/A
+275,2,1,two,1,10.77,J,mount,S,Ran away,,female,1.9
+276,2,1,two,1,10.78,I,mount,Q,Ran away,,female,0.45
+277,2,1,two,1,10.8,I,mount,N,Walked away,Prolonged mount,female,1.68
+278,2,1,two,1,11.17,E,mount,U,Ran away,,female,2.35
+279,2,1,two,1,11.2,J,mating,V,N/A,,female,N/A
+280,2,1,two,1,11.25,E,mount,Q,Ran away,,female,0.92
+281,2,1,two,1,11.28,I,mount,V,N/A,,female,0.08
+282,2,1,two,1,11.35,I,mount,U,Ran away,"Prolonged mount but after .8 got off, 8. ran away",female,2.53
+283,2,1,two,1,11.38,I,mount,T,Ran away,,female,1.23
+284,2,1,two,1,11.48,F,mount,S,,,female,2.61
+285,2,1,two,1,11.53,F,mating,T,Walk around,,female,1.38
+286,2,1,two,1,11.7,F,mount,X,Ran away,,female,2.9
+287,2,1,two,1,11.7,E,mating,U,,,female,2.88
+288,2,1,two,1,11.73,K,mount,X,Ran away and out of shelter,,female,2.93
+289,2,1,two,1,12.13,I,mount,Q,Ran away,,female,1.8
+290,2,1,two,1,12.2,H,mount,U,Ran away,,female,0.5
+291,2,1,two,1,12.23,H,mount,V,Ran away,,female,1.03
+292,2,1,two,1,12.33,I,mount,P,N/A,,female,N/A
+293,2,1,two,1,12.4,E,mount,V,Ran away,,female,1.2
+294,2,1,two,1,12.55,I,mount,S,Ran away,,female,3.68
+295,2,1,two,1,12.62,D,mount,P,Ran away,Ran into 1,female,N/A
+296,2,1,two,1,12.63,E,mount,U,Ran away,,female,0.93
+297,2,1,two,1,12.75,D,mating,V,N/A,,female,1.55
+298,2,1,two,1,12.82,D,mount,T,Ran away,,female,1.29
+299,2,1,two,1,13.05,H,mount,R,Ran around,,female,4.35
+300,2,1,two,1,13.13,G,mount,W,Ran away,,female,2.91
+301,2,1,two,1,13.15,E,mount,V,Ran away,,female,0.4
+302,2,1,two,1,13.2,G,mount,S,Ran away and out of shelter,,female,4.33
+303,2,1,two,1,13.43,C,mating,Q,N/A,,female,3.1
+304,2,1,two,1,13.43,D,mating,V,N/A,,female,0.68
+305,2,1,two,1,13.58,L,mount,R,Ran away,,female,4.88
+306,2,1,two,1,13.62,E,mount,V,N/A,,female,0.19
+307,2,1,two,1,13.77,F,mount,S,,,female,4.9
+308,2,1,two,1,14.15,G,mount,V,,,female,0.72
+309,2,1,two,1,14.15,C,mount,V,unknown,,female,0.72
+310,2,1,two,1,14.22,B,mating,M,N/A,,female,N/A
+311,2,1,two,1,14.33,A,mount,M,Ran away,,female,0.11
+312,2,1,two,1,14.57,B,mount,P,Ran away,,female,N/A
+313,2,1,two,1,14.6,B,mount,Q,,,female,1.17
+314,2,1,two,1,14.63,A,mount,M,,,female,0.41
+315,2,1,two,1,14.77,H,mount,R,,,female,6.07
+316,2,1,two,1,15.22,E,mount,W,,,female,5
+317,2,1,two,1,15.22,H,mount,V,,,female,1.79
+318,2,1,two,1,15.25,H,mount,N,Ran away,,female,6.13
+319,2,1,two,1,15.58,F,mating,P,N/A,,female,N/A
+320,2,1,two,1,16.08,H,mount,W,,,female,5.86
+321,2,1,two,1,16.18,G,mount,S,,,female,7.31
+322,2,1,two,1,16.2,G,mount,V,,,female,2.77
+323,2,1,two,1,16.33,G,mount,O,,,female,7
+324,2,1,two,1,16.35,H,mount,O,,,female,7.02
+325,2,1,two,1,16.37,G,mount,O,Ran away,,female,7.04
+326,2,1,two,1,16.37,H,mount,X,N/A,Was already against wall tightly,female,7.57
+327,2,1,two,1,16.42,G,mount,O,,,female,7.09
+328,2,1,two,1,16.43,G,mount,M,,,female,2.21
+329,2,1,two,1,16.5,G,mount,Q,,Got off quickly,female,3.07
+330,2,1,two,1,16.57,E,mount,M,,,female,2.35
+331,2,1,two,1,16.63,G,mount,V,Ran away,,female,3.2
+332,2,1,two,1,17.03,J,mount,U,8. flipped .9 over to be on top then ran away,8. approached enterance and touched .9 ,female,5.33
+333,2,1,two,1,17,I,mount,S,6. walked into enterance and exited,,female,8.13
+334,2,1,two,1,17.41,M,mount,R,moved out of group away from 0.,5. returned at 17:05,female,8.71
+335,2,1,two,2,34.83,I,mount,U,run away ,,female,23.13
+336,2,1,two,2,37.17,C,mating,U,,,female,25.47
+337,2,1,two,2,37.63,E,mount,U,was against shelter wall so .4 couldn't get under,,female,0.46
+338,2,1,two,2,37.65,J,mount,U,8. ran away and into shelter 2,,female,0.48
+339,2,1,two,2,37.73,D,mount,U,ran away and squished herself under shelter,,female,0.56
+340,2,1,two,2,38.3,F,mount,Q,,was already pressed against wall but curved body more against wall,female,24.87
+341,2,1,two,2,37.8,D,mount,U,ran away and out of shelter,,female,0.63
+342,2,1,two,1,17.08,I,mount,X,"moved on top of unknown bug in top right corner, touched .6 who moved away",,female,8.28
+343,2,1,two,2,38.47,L,mount,Q,ran away and out of shelter,,female,25.04
+344,2,1,two,2,38.37,E,mount,U,,,female,1.2
+345,2,1,two,2,38.67,E,mount,Q,,,female,25.24
+346,2,1,two,2,38.53,E,mount,U,ran away,,female,1.36
+347,2,1,two,2,38.72,B,mating,Q,,,female,25.29
+348,2,1,two,2,38.68,E,mount,U,ran against arena wall,,female,1.51
+349,2,1,two,2,38.73,E,mount,U,pinned tightly against wall,very long mating attempt but .4 could get under 8.,female,1.56
+350,2,1,two,2,39.18,B,mount,Q,ran away,,female,0.46
+351,2,1,two,2,38.8,J,mount,U,ran away,,female,1.63
+352,2,1,two,2,39.3,E,mount,U,curled body then ran away,,female,2.13
+353,2,1,two,2,39.5,E,mount,Q,walked away after,,female,0.78
+354,2,1,two,2,39.65,B,mount,Q,ran away,,female,0.93
+355,2,1,two,2,39.65,E,mount,Q,pressed against wall,,female,0.93
+356,2,1,two,2,39.73,B,mount,Q,curled body then ran away,,female,1.01
+357,2,1,two,2,39.45,B,mount,U,curled body then ran away,,female,2.28
+358,2,1,two,2,40.18,E,mount,Q,curled body then ran away,,female,1.46
+359,2,1,two,2,40.42,E,mount,Q,curled body,,female,1.7
+360,2,1,two,1,18.83,N,mount,T,7. ran away,,female,7.3
+361,2,1,two,2,40.45,F,mating,T,,,female,28.92
+362,2,1,two,2,40.7,H,mount,Q,ran away and left shelter,,female,1.98
+363,2,1,two,1,17.15,M,mount,W,NA,,female,6.93
+364,2,1,two,3,60.4,B,mating,W,na,,female,50.18
+365,2,1,two,3,60.63,E,mount,W,na,,female,0.23
+366,2,1,two,3,61.48,C,mount,Q,ran away,,female,22.76
+367,2,1,two,2,38.42,D,mount,X,"ran away, vigorously shook .3 off",no longer in aggregation,female,29.62
+368,2,1,two,3,61.52,H,mount,X,,looked like it was going to be mating,female,52.72
+369,2,1,two,3,61.53,D,mount,X,1: tried to run,,female,52.73
+370,2,1,two,3,61.53,G,mount,X,unknown,,female,52.73
+371,2,1,two,3,61.57,J,mating,Q,NA,,female,22.85
+372,2,1,two,3,61.55,E,mount,X,:1 pushed against wall,,female,52.75
+373,2,1,two,3,61.57,E,mating,X,,,female,52.77
+374,2,1,two,3,61.68,F,mount,Q,walked away,,female,0.11
+375,2,1,two,2,40.15,F,mating,U,,,female,2.98
+376,2,1,two,3,61.93,B,mating,N,walking around,,female,52.81
+377,2,1,two,3,62.02,H,mating,Q,,,female,0.45
+378,2,1,two,3,62.57,F,mount,N,shook body and ran around,prolonged mount,female,0.64
+379,2,1,two,3,61.58,H,mount,X,NA,on top of 1: but not in mating position because .4 is there,female,0.01
+380,2,1,two,3,61.23,L,mating,W,na,,female,0.83
+381,2,1,two,1,17.32,E,mount,O,,,female,7.99
+382,2,1,two,3,63.33,J,mount,Q,ran away,,female,1.31
+383,2,1,two,3,63.15,I,mating,W,NA,,female,1.92
+384,2,1,two,3,63.73,D,mount,V,,,female,50.3
+385,2,1,two,3,61.8,G,mating,U,walking around,,female,21.65
+386,2,1,two,3,63.57,I,mating,W,walking around,,female,0.42
+387,2,1,two,3,64.28,J,mount,U,ran away,,female,24.13
+388,2,1,two,3,64.43,L,mount,U,ran away,,female,24.28
+389,2,1,two,3,64.48,I,mount,U,ran away,,female,24.33
+390,2,1,two,3,64.32,H,mount,W,ran away,,female,0.75
+391,2,1,two,3,64.77,F,mount,N,ran away ,,female,2.84
+392,2,1,two,4,81.52,J,mount,N,N/A,".9 mounted but could not get in position, 1. was pressed against wall",female,19.59
+393,2,1,two,1,17.08,E,mount,S,6. exited shelter,,female,8.21
+394,2,1,two,3,64.67,F,mating,W,walked around,,female,1.1
+395,2,1,two,4,82.3,F,mount,P,tried to run away,,female,66.72
+396,2,1,two,4,82.37,I,mount,P,3. exited with .8 on back,,female,66.79
+397,2,1,two,4,82.38,I,mount,P,3. ran onto side of shelter,,female,66.8
+398,2,1,two,2,35.45,H,mating,S,na,,female,26.58
+399,2,1,two,4,81.58,H,mount,S,6. walked around with .7 on top,,female,46.13
+400,2,1,two,4,82.68,I,mount,S,N/A,,female,47.23
+401,2,1,two,4,82.15,F,mount,W,ran away,,female,17.48
+402,2,1,two,4,83.33,I,mount,W,0: moved around shelter,,female,18.66
+403,2,1,two,2,40.45,A,mount,T,unknown,,female,0
+404,2,1,two,4,82.77,I,mating,S,N/A then walked,"6. moved to enterance of 2, .5 jumped on",female,47.32
+405,2,1,two,4,82.77,F,mount,S,unknown,,female,0
+406,2,1,two,4,84.45,G,mount,N,1. walked with .6 on back,,female,22.52
+407,2,1,two,4,84.52,J,mount,N,1. ran away,,female,22.59
+408,2,1,two,4,83.38,I,mount,W,N/A,,female,18.71
+409,2,1,two,4,83.72,H,mount,T,7. ran away,,female,43.27
+410,2,1,two,4,84.62,G,mount,V,9. ran away,,female,71.19
+411,2,1,two,4,84.57,G,mount,T,7. walked and pushed into wall,,female,44.12
+412,2,1,two,4,84.65,U,mount,V,8. stayed on 9.,,female,71.22
+413,2,1,two,4,85.1,D,mount,V,Na,,female,71.67
+414,2,1,two,4,85.28,I,mount,V,ran away,9. was going to enter 2 but then ran away,female,71.85
+415,2,1,two,4,84.53,B,mount,W,N/A,.1 remained on 0:,female,19.86
+416,2,1,two,4,85.6,H,mount,N,walked away,prolonged mount (10-15 seconds),female,23.67
+417,2,1,two,4,85.75,I,mount,V,pressed against arena wall,,female,72.32
+418,2,1,two,3,64.5,I,mating,U,ran around and out of shelter,,female,24.35
+419,2,1,two,4,84.63,G,mount,T,7. ran away,,female,44.18
+420,2,1,two,4,86.37,H,mount,N,na,prolonged mount (10-15 seconds),female,24.44
+421,2,1,two,4,86.2,B,mount,T,walked around,prolonged mount (10-15 seconds),female,45.75
+422,2,1,two,1,17.1,N,mount,M,NA,*difficult to see as they are on the wall but it looks like a successful mount,female,2.88
+423,2,1,two,4,86.38,G,mount,T,walked away,,female,45.93
+424,2,1,two,4,86.62,G,mount,T,ran away,,female,46.17
+425,2,1,two,4,85.77,E,mount,U,ran away ,,female,21.27
+426,2,1,two,4,86.63,B,mount,T,ran away,,female,46.18
+427,2,1,two,3,63.15,K,mount,X,running around shelter,,female,1.58
+428,2,1,two,4,86.8,A,mount,T,ran away,,female,46.35
+429,2,1,two,4,87.77,K,mount,V,pushed against the arena wall,,female,74.34
+430,2,1,two,4,88.3,D,mount,V,ran away,was going to enter 1,female,74.87
+431,2,1,two,1,17.63,C,mount,R,5. moved away towards 2 unknowns at bottom,,female,8.93
+432,2,1,two,4,84.22,J,mount,S,shaking,"6. was on their back, .9 flipped to be on their back at the end",female,1.45
+433,2,1,two,5,105.25,F,mount,N,N/A,".1 jumped on 6., .5 jumped on .1 then returned to 1., .5 was stacked right on top",female,43.32
+434,2,1,two,5,105.33,B,mount,N,N/A,1. ran away after being out from under .1,female,43.4
+435,2,1,two,5,105.47,J,mount,N,N/A,,female,43.54
+436,2,1,two,5,105.5,B,mating,N,N/A,,female,43.57
+437,2,1,two,5,105.53,D,mating,V,N/A,.3 remained on 9.,female,92.1
+438,2,1,two,5,105.65,B,mount,N,ran away,,female,0.15
+439,2,1,two,4,87.45,B,mount,T,na,,female,47
+440,2,1,two,4,84.4,B,mount,S,N/A,.9 also mounted .1,female,1.63
+441,2,1,two,5,105.78,R,mount,unknown,N/A,5. stayed on top so could not see bug,female,N/A
+442,2,1,two,4,85.55,B,mount,W,walked away,prolonged mount,female,20.88
+443,2,1,two,5,106.28,B,mating,N,N/A,,female,0.78
+444,2,1,two,5,106.43,E,mount,N,N/A,.4 jumped from on top shelter,female,0.15
+445,2,1,two,2,35.67,F,mount,R,na,,female,26.97
+446,2,1,two,5,106.53,B,mount,N,N/A,.9 jumped on .1,female,0.25
+447,2,1,two,5,106.65,A,mount,V,9. ran away onto wall,,female,1.12
+448,2,1,two,5,106.78,D,mount,V,N/A,,female,1.25
+449,2,1,two,5,100.99,C,mount,S,NA,,female,18.22
+450,2,1,two,4,75.31,I,mount,X,pushed against shelter wall,,female,13.74
+451,2,1,two,5,107.42,G,mount,P,N/A,,female,91.84
+452,2,1,two,5,107.68,E,mount,N,1. shook,,female,1.4
+453,2,1,two,4,87.25,A,mating,X,na,,female,25.68
+454,2,1,two,4,88.47,K,mount,R,ran away,,female,79.77
+455,2,1,two,4,86.7,G,mating,U,stayed still then walked away after,,female,22.2
+456,2,1,two,5,108.22,K,mount,unknown,walked into shelter 2,.7 jumped on back,female,N/A
+457,2,1,two,5,106.48,A,mount,R,,,female,97.78
+458,2,1,two,5,105.67,B,mount,T,N/A,,female,65.22
+459,2,1,two,5,108.43,K,mount,Q,ran into entrance,".7 jumped on, could not see if mating was successful",female,46.41
+460,2,1,two,5,108.53,B,mount,N,ran away,,female,2.25
+461,2,1,two,5,108.62,F,mating,P,walked around,,female,93.04
+462,2,1,two,5,108.65,F,mount,N,ran away,,female,2.37
+463,2,1,two,3,63.27,D,mating,O,,,female,53.94
+464,2,1,two,5,107.73,B,mount,R,N/A,,female,99.03
+465,2,1,two,5,101.15,F,mount,U,NA,"stayed on until male got off at 09:33, possibly mating",female,14.45
+466,2,1,two,5,106.17,F,mount,W,unknown,,female,41.5
+467,2,1,two,5,105.25,B,mount,S,unknown,,female,22.48
+468,2,1,two,5,109.42,I,mount,P,,,female,0.8
+469,2,1,two,5,108.07,F,mount,U,walked around,,female,21.37
+470,2,1,two,5,110.03,L,mount,Q,ran away,,female,48.01
+471,2,1,two,5,110.22,A,mount,V,,,female,4.69
+472,2,1,two,4,72.12,R,mount,M,shook,,female,57.9
+473,2,1,two,5,109.2,B,mount,U,ran away,,female,22.5
+474,2,1,two,5,110.45,A,mount,P,,,female,1.83
+475,2,1,two,5,109.27,H,mount,W,walked away after,,female,44.6
+476,2,1,two,5,110.58,F,mount,Q,stayed still,,female,48.56
+477,2,1,two,5,108.68,F,mating,O,walked around,,female,45.41
+478,2,1,two,5,110.55,J,mount,W,,,female,45.88
+479,2,1,two,5,105.78,A,mount,S,walked with .0 on back,,female,23.01
+480,2,1,two,5,110.7,G,mount,W,,,female,46.03
+481,2,1,two,5,111.2,F,mount,Q,,,female,49.18
+482,2,1,two,5,111.25,G,mount,N,walked away,,female,4.97
+483,2,1,two,5,111.33,H,mount,P,walked away after,,female,2.71
+484,2,1,two,5,109.72,B,mount,U,,,female,23.02
+485,2,1,two,5,108.37,B,mating,T,N/A,,female,67.92
+486,2,1,two,5,111.5,J,mating,T,,,female,3.13
+487,2,1,two,5,107.28,B,mount,X,1: ran away,,female,20.03
+488,2,1,two,5,107.7,F,mount,X,N/A,,female,20.45
+489,2,1,two,5,110.67,B,mating,O,,,female,1.99
+490,2,1,two,5,111.82,G,mount,Q,,,female,49.8
+491,2,1,two,5,112.35,H,mount,P,ran away,,female,3.73
+492,2,1,two,5,111.57,C,mount,X,stayed still,,female,24.32
+493,2,1,two,5,112.47,H,mount,P,stayed still then ran away after,,female,3.85
+494,2,1,two,5,108.3,B,mount,R,,,female,99.6
+495,2,1,two,5,111.6,G,mount,X,ran away,,female,24.35
+496,2,1,two,5,111.57,H,mating,T,stayed still,,female,0.07
+497,2,1,two,5,112.43,G,mount,X,stayed still,,female,25.18
+498,2,1,two,5,112.53,G,mount,X,stayed still then ran away after,,female,25.28
+499,2,1,two,5,112.63,F,mount,T,stayed still but is already pressed against wall,,female,1.13
+500,2,1,two,5,110.45,H,mount,U,,,female,23.75
+501,2,1,two,6,130.6,F,mount,unknown,many bugs move away in response,.5 mounted multiple unknowns,female,N/A
+502,2,1,two,5,111.37,H,mount,U,na,,female,24.67
+503,2,1,two,5,111.62,H,mount,O,,,female,2.94
+504,2,1,two,5,111.17,J,mount,W,walked around,,female,46.5
+505,2,1,two,5,107.12,B,mount,S,N/A,,female,24.35
+506,2,1,two,6,120.7,C,mating,U,walked around into .0 and group,,female,34
+507,2,1,two,6,131.27,C,mount,P,run away ,,female,22.65
+508,2,1,two,6,131.6,A,mount,V,na ,,female,26.07
+509,2,1,two,6,131.62,A,mount,P,na ,,female,23
+510,2,1,two,6,132.25,G,mount,P,na ,,female,23.63
+511,2,1,two,6,130.73,A,mount,O,N/A,,female,22.05
+512,2,1,two,6,132.62,A,mating,V,na ,,female,27.09
+513,2,1,two,6,132.75,I,mount,V,na ,,female,0.13
+514,2,1,two,6,130.43,F,mount,U,8. walked forward,,female,9.73
+515,2,1,two,5,109.38,G,mount,S,ran away,,female,26.61
+516,2,1,two,6,132.37,I,mount,O,na ,,female,23.69
+517,2,1,two,6,133.02,F,mating,O,,,female,24.34
+518,2,1,two,6,133.37,C,mount,V,na ,,female,0.75
+519,2,1,two,6,133.43,H,mount,unknown,,,female,N/A
+520,2,1,two,5,108.72,B,mating,R,N/A,,female,100.02
+521,2,1,two,6,133.33,C,mount,O,,,female,0.31
+522,2,1,two,6,133.7,F,mating,V,,,female,1.08
+523,2,1,two,6,130.73,A,mount,W,N/A,,female,66.06
+524,2,1,two,6,135.3,G,mount,unknown,,,female,N/A
+525,2,1,two,5,112.68,H,mount,X,,,female,25.43
+526,2,1,two,5,112.72,H,mating,X,,,female,25.47
+527,2,1,two,5,110.72,F,mount,S,ran away,,female,27.95
+528,2,1,two,6,124.86,K,mount,X,"walked into corner by .7, all 3 stayed grouped together",,female,12.14
+529,2,1,two,6,130.62,G,mount,U,N/A,,female,9.92
+530,2,1,two,6,130.8,D,mount,S,N/A,,female,48.03
+531,2,1,two,4,86.58,G,mount,M,ran away,,female,72.36
+532,2,1,two,6,134.75,H,mating,W,na,,female,70.08
+533,2,1,two,6,133.63,A,mount,O,na,,female,0.61
+534,2,1,two,5,112.5,H,mount,R,stayed still,,female,3.78
+535,2,1,two,5,113.32,A,mount,R,NA,got off pretty quickly (at 19:03),female,4.6
+536,2,1,two,5,112.72,F,mount,T,na,,female,1.22
+537,2,1,two,2,44.78,unknown,mount,unknown,"bug in front shakes, bug at the back turns away then touches",,female,N/A
+538,2,1,two,2,44.82,unknown,mount,unknown,NA,,female,N/A
+539,2,1,two,2,45.1,unknown,mount,unknown,,,female,N/A
+540,2,1,two,2,46.56,unknown,mount,unknown,NA,"*unknown bug in the back looks like .9 or .4, front bug possibly .3",female,N/A
+541,2,1,two,2,26.05,unknown,mount,unknown,NA,,female,N/A
+542,2,1,two,2,26.07,unknown,mating,unknown,front bug shook,,female,N/A
+543,2,1,two,5,110.28,J,mating,M,,,female,96.06
+544,2,1,two,6,125.12,K,mount,X,NA,,female,12.4
+545,2,1,two,5,114.76,F,mount,unknown,NA,,female,N/A
+546,2,1,two,6,132.83,G,mount,S,8. continued to run in 1 ,,female,50.06
+547,2,1,two,6,130.83,M,mount,U,na ,,female,10.13
+548,2,1,two,5,113.32,F,mount,R,"ran into corner, by 8.",walked into .1 and group in top left at 19:31,female,4.6
+549,2,1,two,6,133.55,F,mount,R,"na, was shaking at the time",,female,24.83
+550,2,1,two,6,143.23,C,mount,T,ran away into group of bugs on right,,female,31.73
+551,2,1,two,6,143.65,D,mount,T,turned around in spot,looked like 7. might have got under but went fully underneath and 7. turned their body to the ground,female,32.15
+552,2,1,two,6,132.82,A,mount,U,ran into 1 ,,female,12.12
+553,2,1,two,6,125.24,H,mount,X,NA,,female,12.52
+554,2,1,two,6,135.5,K,mating,X,staying still,,female,22.78
+555,2,1,two,6,135.62,B,mating,X,,,female,0.12
+556,3,2,twelve,1,8.53,G,mating,W,stayed still,,female,N/A
+557,3,2,twelve,1,8.53,D,mating,N,stayed still,,female,N/A
+558,3,2,twelve,1,8.53,K,mating,P,stayed still,,female,N/A
+559,3,2,twelve,1,8.58,H,mount,W,pressed against wall,,female,0.05
+560,3,2,twelve,1,8.62,H,mount,W,pressed against wall,,female,0.09
+561,3,2,twelve,1,8.63,H,mount,W,pressed against wall,,female,0.1
+562,3,2,twelve,1,8.63,G,mating,R,stayed still,,female,N/A
+563,3,2,twelve,1,8.68,H,mount,W,pressed against wall,,female,0.15
+564,3,2,twelve,1,8.72,B,mating,U,stayed still,,female,N/A
+565,3,2,twelve,1,8.75,E,mating,W,stayed still,,female,0.22
+566,3,2,twelve,1,8.93,H,mount,W,stayed still,7. can't get under 0:,female,0.18
+567,3,2,twelve,1,8.97,D,mount,M,stayed still,,female,N/A
+568,3,2,twelve,1,9.07,L,mount,O,,,female,N/A
+569,3,2,twelve,1,10.62,J,mating,M,,,female,N/A
+570,3,2,twelve,1,10.73,J,mount,N,,,female,2.2
+571,3,2,twelve,1,10.77,C,mount,M,ran away,,female,0.15
+572,3,2,twelve,1,10.82,L,mating,M,walk around a little,,female,0.2
+573,3,2,twelve,1,11.32,E,mount,N,ran away,,female,2.79
+574,3,2,twelve,1,12.23,I,mating,T,"walked around and into 11, then ran back out; shaking a lot, entered 5 ",,female,N/A
+575,3,2,twelve,1,12.35,E,mount,V,ran away,,female,N/A
+576,3,2,twelve,1,12.37,D,mount,P,ran away and out of sheter,,female,3.84
+577,3,2,twelve,1,12.37,H,mount,T,,,female,0.14
+578,3,2,twelve,1,12.38,D,mount,M,ran away,,female,1.56
+579,3,2,twelve,1,12.47,H,mount,V,walking around and shaking while .7 on her,.7 continued to ride on her for several minutes as she walked around the arena,female,N/A
+580,3,2,twelve,1,12.57,L,mating,W,stayed still,,female,3.82
+581,3,2,twelve,1,13.02,L,mount,Q,ran away,,female,N/A
+582,3,2,twelve,1,13.02,Q,mount,P,ran away,,female,4.49
+583,3,2,twelve,1,13.27,H,mating,R,running around and shaking vigorously,continued riding on 5. for several minutes after mating finished,female,4.64
+584,3,2,twelve,1,13.35,I,mating,X,,,female,N/A
+585,3,2,twelve,1,13.4,H,mount,T,ran away and into shelter 8,,female,1.17
+586,3,2,twelve,1,13.53,H,mount,S,running around and shaking vigorously,,female,N/A
+587,3,2,twelve,1,13.57,H,mount,U,,,female,4.85
+588,3,2,twelve,1,13.58,G,mating,Q,walked around,,female,N/A
+589,3,2,twelve,1,13.62,H,mount,V,,,female,N/A
+590,3,2,twelve,1,13.7,H,mount,R,ran away,,female,0.43
+591,3,2,twelve,1,13.83,D,mount,Q,stayed still,,female,0.25
+592,3,2,twelve,1,14.15,H,mount,M,ran away,,female,3.33
+593,3,2,twelve,1,14.2,L,mount,N,ran away,,female,5.67
+594,3,2,twelve,1,14.28,B,mount,R,,,female,1.01
+595,3,2,twelve,1,14.32,B,mount,R,ran around until .1 fell off,,female,1.05
+596,3,2,twelve,1,14.42,D,mating,Q,walked around,,female,0.84
+597,3,2,twelve,1,14.48,G,mount,S,ran away,,female,N/A
+598,3,2,twelve,1,14.57,D,mount,V,ran away,,female,N/A
+599,3,2,twelve,1,14.63,B,mount,O,pressed against wall,,female,N/A
+600,3,2,twelve,1,14.67,B,mating,N,,,female,6.14
+601,3,2,twelve,1,15.03,L,mount,Q,,,female,0.61
+602,3,2,twelve,1,15.07,J,mount,R,,,female,1.8
+603,3,2,twelve,1,15.08,L,mount,P,ran away,,female,6.55
+604,3,2,twelve,1,15.45,E,mount,R,ran away,,female,2.18
+605,3,2,twelve,1,15.58,D,mount,P,,,female,7.05
+606,3,2,twelve,1,16.23,B,mount,P,walked away,.1 spent a while trying to get under but couldn't ,female,7.7
+607,3,2,twelve,1,16.35,B,mount,M,ran away ,stayed mounted for a while (~5 sec) ,female,5.53
+608,3,2,twelve,1,16.4,E,mount,P,walking around,,female,7.87
+609,3,2,twelve,1,16.42,C,mount,P,was being mounted by .4,,female,7.89
+610,3,2,twelve,1,16.45,L,mount,Q,stayed still,prolonged mount but male couldn't get under,female,2.03
+611,3,2,twelve,1,16.5,L,mount,Q,walking around,prolonged mount; male just riding on 4. for about a minute,female,2.08
+612,3,2,twelve,1,16.52,L,mount,U,stayed still,,female,7.8
+613,3,2,twelve,1,16.63,L,mount,R,"ran away first, then when 5. got on her she was pressed against the wall under :1 left then she ran away",,female,3.36
+614,3,2,twelve,1,16.77,C,mating,W,walked around and into shelter 5,,female,4.2
+615,3,2,twelve,2,34.58,L,mount,N,N/A,:1 stayed on 1.,female,19.91
+616,3,2,twelve,2,34.65,H,mating,Q,N/A,"4. started walking around at 10:40, tried to climb up wall at 10:41, fully climbed on wall at 10:43",female,20.23
+617,3,2,twelve,2,34.78,H,mount,O,N/A,".7 shake on top, 2. started walking at 10:48",female,N/A
+618,3,2,twelve,2,35.28,H,mating,Q,N/A,"4. started walking at 11:18 AM, climbed up on shelter 11 at 11:20 AM, climbed on wall at 11:24 AM, stopped walking at 11:26 AM, started again at 11:27 AM, stopped at 11:30 AM, seperated at 11:31 AM",female,0.63
+619,3,2,twelve,2,35.6,H,mating,Q,walked,,female,0.32
+620,3,2,twelve,2,35.62,H,mount,T,N/A,,female,23.39
+621,3,2,twelve,1,17.03,X,mount,P,NA,,female,8.5
+622,3,2,twelve,2,36.28,F,mount,V,9. ran to enterance of shelter,,female,N/A
+623,3,2,twelve,2,36.37,H,mount,Q,N/A,,female,1.09
+624,3,2,twelve,2,36.38,H,mount,Q,N/A,,female,1.1
+625,3,2,twelve,2,36,H,mount,P,N/A,,female,27.47
+626,3,2,twelve,2,36.4,H,mount,P,walked with .7 on top,,female,27.87
+627,3,2,twelve,2,36.5,H,mount,Q,walked around with .7 on top,,female,1.22
+628,3,2,twelve,2,36.42,H,mount,P,N/A,,female,27.89
+629,3,2,twelve,2,36.55,H,mount,P,walked around with .7 on top,,female,28.02
+630,3,2,twelve,2,36.63,H,mount,P,N/A,,female,28.1
+631,3,2,twelve,2,36.67,H,mount,P,walked around with .7 on top,likely mated as .7 was on top until12:45 PM,female,28.14
+632,3,2,twelve,2,36.8,H,mount,P,N/A,,female,28.27
+633,3,2,twelve,2,37.08,H,mount,unknown,,,female,N/A
+634,3,2,twelve,2,37.3,H,mount,Q,running around until .7 got off,,female,2.02
+635,3,2,twelve,2,37.33,H,mount,Q,na,,female,2.05
+636,3,2,twelve,2,37.38,I,mating,Q,stayed still then walked around,,female,2.1
+637,3,2,twelve,2,37.42,H,mating,N,walked around a bit,,female,22.75
+638,3,2,twelve,2,37.48,H,mount,P,walking around,jumped onto wall to mount 3. who was on the wall,female,28.95
+639,3,2,twelve,2,37.55,B,mount,Q,ran away and out of shelter,,female,0.17
+640,3,2,twelve,2,37.6,H,mount,P,walking around,.7 on 3. as she walks around for a while,female,29.07
+641,3,2,twelve,2,37.68,K,mount,W,pressed against wall,,female,25.11
+642,3,2,twelve,2,37.73,I,mount,P,ran away,,female,29.2
+643,3,2,twelve,2,37.75,H,mount,P,stayed still,,female,29.22
+644,3,2,twelve,2,37.75,H,mount,Q,,.7 was mounting 3. and then jumped to mount 4.,female,0.37
+645,3,2,twelve,2,38.08,K,mount,P,ran away and then pressed against wall,,female,29.55
+646,3,2,twelve,2,38.12,H,mount,P,,,female,29.59
+647,3,2,twelve,2,38.25,H,mount,Q,ran away,,female,0.87
+648,3,2,twelve,2,38.53,F,mount,P,ran away,,female,30
+649,3,2,twelve,2,38.58,B,mating,T,na,,female,26.35
+650,3,2,twelve,2,38.63,I,mount,V,stayed still,,female,N/A
+651,3,2,twelve,2,38.78,K,mount,Q,ran away and pressed against wall,,female,1.4
+652,3,2,twelve,2,39.08,H,mount,Q,ran around and out of shelter,,female,1.7
+653,3,2,twelve,2,39.1,H,mount,P,,,female,30.57
+654,3,2,twelve,2,39.22,F,mount,T,ran away,,female,0.64
+655,3,2,twelve,2,39.27,D,mating,Q,stayed still,,female,1.89
+656,3,2,twelve,2,39.32,H,mount,P,stayed still then ran away,,female,30.79
+657,3,2,twelve,2,39.37,H,mount,Q,stayed still,.7 can't get under; 4. kinda flat against floor,female,0.1
+658,3,2,twelve,2,39.4,H,mating,Q,walked around,,female,0.13
+659,3,2,twelve,2,39.42,I,mount,P,ran away,.7 continued riding on 4. for several minutes,female,30.89
+660,3,2,twelve,2,39.52,I,mount,P,ran away,,female,30.99
+661,3,2,twelve,2,39.77,H,mount,P,stayed still,,female,31.24
+662,3,2,twelve,2,40.1,H,mating,W,walking around,,female,27.53
+663,3,2,twelve,2,40.53,I,mount,Q,,,female,1.13
+664,3,2,twelve,2,40.75,G,mating,O,na,,female,N/A
+665,3,2,twelve,2,41.41,K,mount,W,NA,,female,1.31
+666,3,2,twelve,3,58.7,H,mount,W,N/A,,female,18.6
+667,3,2,twelve,3,59.2,H,mount,N,N/A,got off at 11:14 AM,female,21.78
+668,3,2,twelve,3,59.25,K,mount,P,ran away,3. bumped and :0 jumped on 3. and exited shelter,female,50.72
+669,3,2,twelve,3,59.25,H,mount,N,N/A,got off at 11:16 AM,female,21.83
+670,3,2,twelve,2,41.19,B,mating,Q,moved around,,female,1.79
+671,3,2,twelve,3,59.42,H,mount,P,,seperated at 11:26 AM,female,50.89
+672,3,2,twelve,3,59.6,G,mount,O,N/A,stayed on top,female,18.85
+673,3,2,twelve,2,41.25,B,mount,Q,ran away,,female,0.06
+674,3,2,twelve,3,59.72,G,mount,O,N/A,,female,18.97
+675,3,2,twelve,3,59.75,G,mount,O,N/A,,female,19
+676,3,2,twelve,3,59.3,H,mount,Q,N/A,"4. approached .7 and .7 jumped on, 4. started walking at 11:19 AM, stopped at 11:21 AM, started again at 11:23 AM, got off at 11:24 AM",female,18.11
+677,3,2,twelve,1,17.36,G,mount,M,moved into corner,,female,6.54
+678,3,2,twelve,3,60.38,H,mount,O,N/A,,female,19.63
+679,3,2,twelve,3,59.67,H,mount,Q,walked with .7 on top,got off at 11:41 AM,female,18.48
+680,3,2,twelve,3,60.32,E,mount,M,N/A,,female,49.5
+681,3,2,twelve,3,60.12,L,mount,Q,N/A,4. had approached,female,18.93
+682,3,2,twelve,3,60.6,F,mount,P,N/A,got off at 12:36 PM,female,52.07
+683,3,2,twelve,3,60.5,J,mount,M,N/A,stayed on until 12:35 PM,female,49.68
+684,3,2,twelve,3,60.68,E,mount,P,N/A,"much acitvity, many bugs moved out of area",female,52.15
+685,3,2,twelve,3,61.08,J,mount,O,ran away,,female,20.33
+686,3,2,twelve,3,60.38,K,mount,Q,walked into 3,".4 jumped on :0, then .9 jumped on .4, both got off but :0 stayed on then .9 jumped on, touched 0. who moved away, :0 got off at 12:30 PM",female,19.19
+687,3,2,twelve,3,60.63,H,mount,M,N/A,,female,49.81
+688,3,2,twelve,3,60.53,H,mount,Q,N/A,,female,19.34
+689,3,2,twelve,3,61.55,L,mating,O,"stayed still for a bit, then entered shelter 7",,female,20.8
+690,3,2,twelve,1,18.03,L,mount,U,NA,,female,9.31
+691,3,2,twelve,3,61.62,F,mount,P,ran away,,female,53.09
+692,3,2,twelve,3,61.63,K,mount,O,walked away,,female,0.08
+693,3,2,twelve,3,61.15,K,mount,M,stayed still,,female,50.33
+694,3,2,twelve,3,61.65,C,mount,M,ran away,,female,50.83
+695,3,2,twelve,1,17.27,K,mating,X,started walking around and pushing :0 into wall at 17:23,male got off at 20:25,female,3.92
+696,3,2,twelve,3,58.72,H,mount,W,N/A,,female,18.62
+697,3,2,twelve,3,61.75,F,mount,P,ran away,,female,53.22
+698,3,2,twelve,1,17.76,K,mount,X,NA then moved and started shaking at 13:02,* possibly a mating *Male got off at 13:22,female,4.41
+699,3,2,twelve,3,61.8,L,mount,P,,,female,53.27
+700,3,2,twelve,3,61.67,L,mount,M,ran away,,female,50.85
+701,3,2,twelve,3,61.58,B,mount,U,ran around and entered 9,,female,52.86
+702,3,2,twelve,3,62.08,K,mount,P,"running around, flipped upside down",,female,53.55
+703,3,2,twelve,3,61.1,L,mount,Q,ran away,,female,19.91
+704,3,2,twelve,3,62.02,E,mount,U,ran away,,female,53.3
+705,3,2,twelve,3,62.28,G,mount,O,ran away and out of shelter,,female,0.73
+706,3,2,twelve,3,62.28,K,mount,O,stayed still then ran away,,female,0.73
+707,3,2,twelve,3,61.25,D,mating,Q,,,female,20.06
+708,3,2,twelve,3,62.12,E,mount,Q,ran away,,female,0.87
+709,3,2,twelve,3,62.38,K,mount,Q,stayed still,,female,1.13
+710,3,2,twelve,3,61.7,E,mating,X,stayed still,,female,48.35
+711,3,2,twelve,3,62.4,K,mount,Q,stayed still,:0 couldn't get under,female,1.15
+712,3,2,twelve,1,17.46,G,mount,S,ran away,,female,N/A
+713,3,2,twelve,3,62.7,K,mating,P,walking around,,female,54.17
+714,3,2,twelve,1,17.38,G,mating,R,NA,male got off at 23:52,female,4.11
+715,3,2,twelve,3,62.43,E,mount,Q,ran inside shelter 7,,female,1.18
+716,3,2,twelve,3,62.82,H,mount,P,stayed still,.7 couldn't bend body to get under(fed),female,0.12
+717,3,2,twelve,3,61.77,E,mount,X,walked away,,female,0.07
+718,3,2,twelve,3,63.45,G,mount,T,walking around; entered 1,.6 just stayed on for several minutes,female,24.87
+719,3,2,twelve,3,63.48,G,mount,T,pressed against wall,male can't get under,female,24.9
+720,3,2,twelve,1,18.19,L,mount,R,NA,,female,0.81
+721,3,2,twelve,3,62.72,E,mount,R,stayed still,,female,45.34
+722,3,2,twelve,3,61.72,G,mount,W,ran away,,female,21.62
+723,3,2,twelve,3,62.55,K,mount,Q,walked around,,female,1.3
+724,3,2,twelve,4,85.28,E,mount,P,ran away and into shelter 7,,female,22.58
+725,3,2,twelve,3,62.75,K,mount,Q,ran away,,female,1.5
+726,3,2,twelve,4,86.67,I,mount,P,stayed still for a bit then ran away,,female,23.97
+727,3,2,twelve,4,85.23,E,mount,Q,stayed still for a bit then ran away,.4 seemed to just get off on his own after a few seconds,female,23.98
+728,3,2,twelve,4,86.82,J,mount,P,ran away and into shelter 2,,female,24.12
+729,3,2,twelve,4,86.42,D,mount,Q,ran away,,female,25.17
+730,3,2,twelve,4,86.75,K,mating,Q,stayed still then walked around for a bit,,female,25.5
+731,3,2,twelve,4,87.3,K,mount,V,na,,female,N/A
+732,3,2,twelve,4,87.1,K,mount,Q,stayed still for a bit then ran away,,female,0.35
+733,3,2,twelve,4,87.15,K,mount,Q,ran away,,female,0.4
+734,3,2,twelve,4,87.3,I,mount,Q,walked away after,,female,0.55
+735,3,2,twelve,3,64.82,L,mating,W,stayed still,,female,24.72
+736,3,2,twelve,4,80.41,J,mount,W,NA,,female,15.59
+737,3,2,twelve,4,74.87,J,mount,T,NA,,female,36.29
+738,3,2,twelve,5,106.57,J,mating,P,3. ran away but .9 stayed on 3.'s back ,,female,43.87
+739,3,2,twelve,3,63.77,K,mating,R,walked around; then stayed still for a while,,female,46.39
+740,3,2,twelve,5,105.23,J,mount,T,na,,female,66.65
+741,3,2,twelve,4,87.58,J,mount,Q,tried to run away and pressed against wall,,female,0.83
+742,3,2,twelve,3,64.63,F,mount,R,stayed still,,female,0.86
+743,3,2,twelve,3,62.17,B,mount,U,was against a shelter wall,male couldn't get under,female,53.45
+744,3,2,twelve,4,88.17,B,mount,W,na,,female,23.35
+745,3,2,twelve,5,108.28,J,mating,T,na,,female,69.7
+746,3,2,twelve,5,109.25,K,mating,V,walking around,,female,N/A
+747,3,2,twelve,3,65.13,K,mating,R,NA,,female,1.36
+748,3,2,twelve,5,109.32,H,mount,V,ran away and into shelter 11,,female,0.07
+749,3,2,twelve,5,109.2,D,mount,T,pressed against wall then ran away,,female,0.92
+750,3,2,twelve,5,109.42,I,mating,P,,,female,2.85
+751,3,2,twelve,4,73.89,K,mating,N,NA,,female,36.47
+752,3,2,twelve,4,87.63,L,mount,Q,ran away,,female,0.88
+753,3,2,twelve,4,89.05,L,mating,R,tried running away,,female,23.92
+754,3,2,twelve,5,109.77,G,mount,V,ran away,,female,0.52
+755,3,2,twelve,5,107.65,J,mating,R,na,stayed In contact ,female,18.6
+756,3,2,twelve,5,110,B,mount,V,run away,,female,0.75
+757,3,2,twelve,1,17.94,L,mount,S,ran away,,female,N/A
+758,3,2,twelve,3,62.62,C,mating,S,"stayed still for about a minute, then started running around and entered 10",,female,N/A
+759,3,2,twelve,3,65.22,D,mating,S,ran away,,female,2.6
+760,3,2,twelve,3,61.8,H,mount,M,ran away,,female,50.98
+761,3,2,twelve,3,65.3,H,mount,M,moved away,,female,54.48
+762,3,2,twelve,3,65.05,K,mount,U,NA,,female,56.33
+763,3,2,twelve,5,110.35,B,mount,V,shaking vigorously ,,female,1.1
+764,3,2,twelve,5,110.53,E,mount,V,shook him off,,female,1.28
+765,3,2,twelve,5,110.53,E,mating,V,stayed still against wall,,female,1.28
+766,3,2,twelve,5,110.13,G,mount,S,ran away,,female,47.51
+767,3,2,twelve,5,110.15,G,mount,S,stayed still then ran away,.6 got off on his own then 6. ran away,female,47.53
+768,3,2,twelve,5,110.68,B,mount,P,na,,female,1.26
+769,3,2,twelve,3,65.42,H,mating,M,started walking at 25:49,,female,54.6
+770,3,2,twelve,5,109.02,I,mount,R,ran away,,female,19.97
+771,3,2,twelve,5,96.69,F,mount,Q,NA,male got off at 26:58,female,9.94
+772,3,2,twelve,5,109.27,J,mount,R,ran away,,female,20.22
+773,3,2,twelve,5,109,H,mating,Q,walking around then left shelter after,,female,22.25
+774,3,2,twelve,5,109.57,J,mount,R,ran away,,female,20.52
+775,3,2,twelve,5,109.5,H,mating,Q,"ran around, tried to climb wall, flipped upside down",,female,0.5
+776,3,2,twelve,4,88.78,I,mount,W,ran away and into corner,,female,23.96
+777,3,2,twelve,3,62.52,H,mount,X,running around frantically,.7 couldn't bend body to get under(fed),female,0.82
+778,3,2,twelve,3,63.43,H,mount,X,stayed still,.7 couldn't get under,female,1.73
+779,3,2,twelve,3,65.06,J,mount,X,ran away,,female,3.36
+780,3,2,twelve,5,109.18,E,mount,W,,,female,44.36
+781,3,2,twelve,5,112.43,J,mount,W,"stayed still, then reentered shelter 9",,female,47.61
+782,3,2,twelve,5,109.8,E,mount,R,pressed against wall,looks like .4 couldn't get under cause he was fed,female,20.75
+783,3,2,twelve,5,111.35,L,mating,Q,,,female,1.85
+784,3,2,twelve,6,133.33,G,mount,W,stayed still,,female,68.51
+785,3,2,twelve,6,133.52,G,mating,W,walking around,,female,68.7
+786,3,2,twelve,6,133.82,E,mating,W,,,female,0.3
+787,3,2,twelve,3,65.18,B,mount,X,NA,,female,3.48
+788,3,2,twelve,6,134.7,K,mating,W,running around,,female,0.88
+789,3,2,twelve,5,112.15,F,mount,Q,stayed still then ran away,,female,2.65
+790,3,2,twelve,5,112.33,E,mount,Q,stayed still,looked like .4 couldn't get under,female,2.83
+791,3,2,twelve,6,135.18,C,mount,W,,,female,0.48
+792,3,2,twelve,3,65.24,B,mount,X,ran out from under,,female,3.54
+793,3,2,twelve,5,110.23,J,mount,M,ran away,looked like .9 couldn't get under but he was trying to pin 0. down,female,44.81
+794,3,2,twelve,5,111.2,E,mating,R,walking around a bit,,female,22.15
+795,3,2,twelve,2,#VALUE!,H,mount,P,N/A,,female,N/A
+796,3,2,twelve,5,110.17,F,mount,S,,,female,47.55
+797,3,2,twelve,5,113.22,H,mount,X,NA,"possible mating, male got off at 14:03 on his own",female,51.52
+798,3,2,twelve,5,110.57,H,mount,S,na,.7 got off on his own,female,47.95
+799,3,2,twelve,5,109.17,G,mating,U,,,female,100.45
+800,3,2,twelve,5,111.53,F,mount,R,na,looked like .5 couldn't get under,female,0.33
+801,3,2,twelve,5,113.13,F,mating,Q,moved away slightly but remained under,,female,3.63
+802,3,2,twelve,5,118.39,F,mating,Q,NA,*difficult to see if female is 4.,female,5.26
+803,3,2,twelve,6,135.32,G,mount,W,ran away and out of shelter,,female,0.62
+804,3,2,twelve,6,130.02,H,mount,X,N/A,,female,68.32
+805,3,2,twelve,6,130.8,D,mount,X,N/A,,female,69.1
+806,3,2,twelve,6,130.82,D,mount,X,N/A,,female,69.12
+807,3,2,twelve,5,110.27,B,mount,M,pushed against arena wall,,female,44.85
+808,3,2,twelve,5,110.8,E,mating,M,,,female,45.38
+809,3,2,twelve,5,110.6,H,mount,S,na,.7 got off on his own,female,47.98
+810,3,2,twelve,5,110.33,F,mount,U,,,female,1.16
+811,3,2,twelve,5,112.27,D,mount,R,ran away,,female,1.07
+812,3,2,twelve,4,89.04,K,mating,N,NA,,female,15.15
+813,3,2,twelve,6,133.55,J,mating,R,"tried to run away at first, then stayed still",,female,22.35
+814,3,2,twelve,5,109.47,F,mating,N,,,female,20.43
+815,3,2,twelve,5,109.33,F,mating,T,,,female,1.05
+816,3,2,twelve,6,136.53,I,mating,W,na,,female,1.83
+817,3,2,twelve,6,135.23,D,mount,X,ran away into another corner of the shelter,,female,73.53
+818,3,2,twelve,6,133.68,F,mount,Q,pressed against wall,,female,20.55
+819,3,2,twelve,6,136.1,F,mount,Q,ran away and out of shelter,,female,22.97
+820,3,2,twelve,6,136.43,H,mount,Q,ran into corner,,female,23.3
+821,3,2,twelve,6,137.11,B,mount,V,Moved around,,female,26.58
+822,3,2,twelve,6,138.13,G,mount,X,shook,,female,76.43
+823,4,2,two,1,8.53,E,mating,N,stayed still,,female,N/A
+824,4,2,two,1,8.55,G,mating,P,walked around and into shelter 1,,female,N/A
+825,4,2,two,1,8.57,L,mating,U,stayed still in big group of bedbugs at corner of arena,,female,N/A
+826,4,2,two,1,8.57,D,mating,X,stayed still,,female,N/A
+827,4,2,two,1,8.6,K,mating,T,walking around,,female,N/A
+828,4,2,two,1,8.62,L,mating,R,,,female,N/A
+829,4,2,two,1,8.62,C,mating,P,stayed still,,female,0.07
+830,4,2,two,1,8.65,K,mating,T,"tried to run away at first, then walked around during mating",,female,0.05
+831,4,2,two,1,8.7,L,mating,O,,,female,N/A
+832,4,2,two,1,8.72,H,mating,N,stayed still,,female,0.19
+833,4,2,two,1,8.73,I,mating,T,walking around,.2 tried to mount 7. while .8 was mating with her,female,0.08
+834,4,2,two,1,8.73,C,mount,T,unknown,,female,0
+835,4,2,two,1,8.75,G,mating,Q,stayed still,,female,N/A
+836,4,2,two,1,8.77,F,mating,R,stayed still,,female,0.15
+837,4,2,two,1,8.78,C,mating,T,walking around,,female,0.05
+838,4,2,two,1,8.8,L,mount,W,walking around,,female,N/A
+839,4,2,two,1,8.95,K,mount,V,ran away,9. approached and bumped :0 first ,female,N/A
+840,4,2,two,1,8.97,I,mating,Q,"upside down, staying still",,female,0.22
+841,4,2,two,1,9.13,D,mating,W,staying still,,female,N/A
+842,4,2,two,1,9.23,F,mating,W,walking around,,female,0.1
+843,4,2,two,1,9.3,B,mating,X,walking around,,female,0.73
+844,4,2,two,1,9.38,C,mating,V,stayed still,,female,N/A
+845,4,2,two,1,9.43,G,mating,O,stayed still,,female,0.73
+846,4,2,two,1,9.43,J,mount,P,ran away,,female,0.81
+847,4,2,two,1,9.47,J,mount,W,ran away,,female,0.24
+848,4,2,two,1,9.57,J,mating,M,walking around and entered shelter 1,,female,N/A
+849,4,2,two,1,9.72,C,mount,W,ran away,,female,0.49
+850,4,2,two,1,9.77,J,mount,S,stayed still,"looked like .9 couldn't get under, didn't seem like he was trying really hard tho",female,N/A
+851,4,2,two,1,10.4,D,mount,W,"ran away, flipped upside down, frantically trying to flip backk over",,female,1.17
+852,4,2,two,1,10.47,D,mount,V,ran away,,female,1.09
+853,4,2,two,1,10.5,H,mount,P,ran away,,female,1.88
+854,4,2,two,1,10.53,D,mount,P,ran away,"prolonged mount but .3 couldn't get under, 3. was walking and shaking quite a bit",female,1.91
+855,4,2,two,1,10.62,K,mount,P,ran around very fast,prolonged mount,female,2
+856,4,2,two,1,10.67,H,mount,U,ran away,,female,2.1
+857,4,2,two,1,10.7,L,mount,X,,,female,1.4
+858,4,2,two,1,11.07,H,mating,V,stayed still,,female,1.69
+859,4,2,two,1,11.1,B,mating,O,stayed still in corner of arena,,female,1.67
+860,4,2,two,1,11.18,D,mount,W,ran around then into shelter 1 where .3 fell off,,female,1.95
+861,4,2,two,1,11.32,L,mount,O,stayed still,,female,0.22
+862,4,2,two,1,11.48,B,mount,V,ran away,,female,0.41
+863,4,2,two,1,12.17,A,mount,O,,,female,1.07
+864,4,2,two,1,12.25,J,mount,U,,,female,3.68
+865,4,2,two,1,12.28,F,mount,N,running around vigorously ,".5 very large from feeding, can't seem to get under",female,3.56
+866,4,2,two,1,12.28,J,mount,M,running all over arena,,female,2.71
+867,4,2,two,1,12.33,C,mount,W,,.2 couldn't get under,female,3.1
+868,4,2,two,1,12.35,F,mount,U,,.5 couldn't get under,female,3.78
+869,4,2,two,1,12.38,G,mount,M,ran away,,female,2.81
+870,4,2,two,1,12.43,F,mount,Q,stayed still,seemed like .5 couldn't get under,female,3.46
+871,4,2,two,1,12.43,A,mount,Q,stayed still then ran away,seemed like .0 couldn't get under,female,3.46
+872,4,2,two,1,12.45,C,mount,P,,,female,3.83
+873,4,2,two,1,12.48,C,mount,P,walked around,male couldn't get under,female,3.86
+874,4,2,two,1,12.48,F,mount,U,"pressed against wall, then ran away",,female,3.91
+875,4,2,two,1,12.5,C,mount,Q,stayed still then ran away,male couldn't get under,female,3.53
+876,4,2,two,1,12.55,B,mount,Q,,,female,3.58
+877,4,2,two,1,12.57,A,mount,P,ran away and out of shelter,,female,3.95
+878,4,2,two,1,12.62,C,mount,T,ran away,,female,3.84
+879,4,2,two,1,12.63,F,mount,N,,male couldn't get under,female,3.91
+880,4,2,two,1,12.65,F,mount,S,ran away,,female,N/A
+881,4,2,two,1,12.67,F,mount,U,walked away,,female,4.1
+882,4,2,two,1,12.68,F,mount,U,ran away,,female,4.11
+883,4,2,two,1,12.7,H,mount,P,stayed still,.7 couldn't get under,female,4.08
+884,4,2,two,1,12.73,F,mount,R,stayed still then ran away,.5 couldn't get under,female,3.96
+885,4,2,two,1,12.73,C,mating,N,ran around,,female,4.01
+886,4,2,two,1,12.77,F,mount,T,"curled against wall, then ran away when .5 stopped",,female,3.99
+887,4,2,two,1,12.8,H,mount,M,staysed still then ran away,male couldn't get under,female,3.23
+888,4,2,two,1,13.17,E,mount,P,ran away to other side of shetler,,female,4.55
+889,4,2,two,1,13.18,E,mount,U,ran away and out of shelter,,female,4.61
+890,4,2,two,1,13.2,H,mount,N,ran away,,female,0.47
+891,4,2,two,1,13.2,F,mating,M,stayed still,,female,3.63
+892,4,2,two,1,13.27,J,mount,P,pressed against the arena wall,,female,4.65
+893,4,2,two,1,13.33,F,mount,O,,,female,2.23
+894,4,2,two,1,13.33,H,mount,O,,,female,2.23
+895,4,2,two,1,13.37,F,mount,X,ran away,,female,4.07
+896,4,2,two,1,13.38,J,mount,V,walking around then walked away,couldn't get under,female,2.31
+897,4,2,two,1,13.4,H,mount,P,ran away,,female,4.78
+898,4,2,two,1,13.55,J,mount,U,,,female,4.98
+899,4,2,two,1,13.63,J,mount,Q,stayed still,male couldn't get under,female,4.66
+900,4,2,two,1,13.67,H,mount,T,running around,male couldn't get under,female,4.89
+901,4,2,two,1,13.7,E,mount,U,,,female,5.13
+902,4,2,two,1,14.1,H,mount,O,na,,female,3
+903,4,2,two,1,14.13,I,mount,Q,shaking and walking around,,female,5.16
+904,4,2,two,1,14.2,J,mount,M,,,female,1
+905,4,2,two,1,14.22,H,mount,X,ran away,,female,4.92
+906,4,2,two,1,14.23,H,mount,R,,,female,5.46
+907,4,2,two,1,14.3,F,mating,S,walking around,,female,N/A
+908,4,2,two,1,14.38,H,mating,Q,,,female,5.41
+909,4,2,two,1,14.52,J,mount,P,stayed still,,female,5.9
+910,4,2,two,1,14.62,G,mount,unknown,ran away,,female,N/A
+911,4,2,two,1,14.77,F,mount,Q,stayed still against arena wall,,female,0.39
+912,4,2,two,1,14.8,G,mount,P,stayed still,male couldn't get under,female,6.18
+913,4,2,two,1,15.05,H,mount,S,na,,female,0.75
+914,4,2,two,1,15.07,G,mount,W,mount,,female,5.84
+915,4,2,two,1,15.08,G,mount,P,walked away after,,female,6.46
+916,4,2,two,1,15.1,D,mount,Q,ran away,,female,0.72
+917,4,2,two,1,15.17,I,mount,N,,,female,2.44
+918,4,2,two,1,15.2,J,mount,N,,,female,2.47
+919,4,2,two,1,15.3,I,mount,Q,stayed still,,female,0.92
+920,4,2,two,1,15.35,J,mount,M,,,female,2.15
+921,4,2,two,1,15.5,J,mount,P,,,female,6.88
+922,4,2,two,1,15.58,A,mount,N,,,female,2.85
+923,4,2,two,1,15.65,I,mount,W,,,female,6.42
+924,4,2,two,1,15.7,A,mount,T,,,female,6.92
+925,4,2,two,1,15.73,H,mount,O,na,,female,4.63
+926,4,2,two,1,15.75,I,mount,V,ran away,,female,4.68
+927,4,2,two,1,15.82,A,mount,Q,na,male couldn't get under,female,1.44
+928,4,2,two,1,16.08,H,mating,P,walking around,,female,7.46
+929,4,2,two,1,16.35,F,mount,P,na,,female,0.27
+930,4,2,two,1,16.48,G,mount,M,walking around and into corner,,female,3.28
+931,4,2,two,1,16.55,L,mount,Q,,,female,2.17
+932,4,2,two,1,16.57,A,mating,P,shaking and walking around,,female,0.49
+933,4,2,two,1,16.82,D,mount,Q,ran away,,female,2.44
+934,4,2,two,1,17.15,J,mount,X,shook,,female,7.85
+935,4,2,two,1,17.06,D,mount,Q,NA,,female,2.68
+936,4,2,two,1,17.08,J,mount,R,NA,,female,8.31
+937,4,2,two,1,17.44,J,mating,R,ran into corner,,female,8.67
+938,4,2,two,1,17.08,F,mount,U,NA,,female,8.51
+939,4,2,two,2,36.52,B,mount,T,ran out of shelter ,,female,27.74
+940,4,2,two,1,17.13,J,mount,U,moved away,,female,8.56
+941,4,2,two,2,35.58,D,mount,R,ran away ,,female,18.14
+942,4,2,two,2,37.1,L,mating,T,ran out of shelter ,,female,28.32
+943,4,2,two,2,37.12,F,mount,T,,,female,0.02
+944,4,2,two,1,17.26,G,mount,U,shook,,female,8.69
+945,4,2,two,1,17.24,G,mount,O,NA,male got off very fast,female,6.14
+946,4,2,two,1,17.5,E,mount,X,NA,,female,8.2
+947,4,2,two,1,17.98,J,mount,O,NA,male got off very fast,female,6.88
+948,4,2,two,2,33.92,D,mating,X,1: ran out of the shelter with .3 clinging unto her back ,,female,24.62
+949,4,2,two,2,38.58,H,mating,X,running around,,female,4.66
+950,4,2,two,2,38.72,B,mount,X,ran away ,,female,0.14
+951,4,2,two,2,39.05,C,mount,X,walking around,,female,0.47
+952,4,2,two,1,17.48,K,mating,S,NA,male got off at 29:32,female,3.18
+953,4,2,two,2,36.43,B,mating,U,tried to move around shelter,.1 clung on ,female,27.86
+954,4,2,two,1,18.41,H,mount,O,NA,male got off very fast,female,7.31
+955,4,2,two,2,39.8,B,mount,T,curled body? Then walked away,,female,2.7
+956,4,2,two,2,38.45,H,mating,O,stayed still,,female,27.35
+957,4,2,two,2,36.6,D,mating,U,"was pressed up against glass, tried to move away but couldn’t ",,female,0.17
+958,4,2,two,1,17.55,F,mating,N,moved away,,female,4.82
+959,4,2,two,2,38.35,H,mating,U,,,female,1.75
+960,4,2,two,2,35.63,J,mount,R,5. moved away ,,female,18.19
+961,4,2,two,1,17.27,J,mount,P,NA,male got off very fast,female,0.7
+962,4,2,two,1,17.71,J,mount,S,NA,.9 stayed in group,female,0.23
+963,4,2,two,2,36.67,I,mating,R,"tried to move around shelter, .8 clung on ",,female,19.23
+964,4,2,two,2,39.07,B,mount,X,"walking around, running away",,female,0.49
+965,4,2,two,2,39.55,H,mount,U,,,female,1.2
+966,4,2,two,2,42.59,E,mount,R,moved around,,female,5.92
+967,4,2,two,3,59.5,B,mating,T,ran away . But male stayed on her back ,,female,22.4
+968,4,2,two,2,42.63,E,mount,R,moved around,,female,5.96
+969,4,2,two,3,58.4,B,mount,R,ran away ,,female,21.73
+970,4,2,two,2,39.82,B,mount,U,ran away ,,female,1.47
+971,4,2,two,3,57.5,G,mount,U,ran away ,,female,19.15
+972,4,2,two,3,60.28,E,mount,T,tried to run but male hung on ,,female,0.78
+973,4,2,two,1,18.47,J,mount,N,NA,,female,0.92
+974,4,2,two,2,39.08,B,mount,X,ran away ,,female,0.5
+975,4,2,two,3,59.22,E,mating,U,tried to move with .4 on her back ,Stayed on top of her as she ran for over a minute ,female,20.87
+976,4,2,two,3,60.7,L,mating,T,tried to run away but :1 held on ,,female,1.2
+977,4,2,two,3,58.63,B,mount,R,na,now in contact ,female,21.96
+978,4,2,two,1,17.27,J,mount,P,shook,,female,0.7
+979,4,2,two,3,61.25,L,mount,unknown,,missed who the partner was; ran into 1 with :1 on top,female,N/A
+980,4,2,two,3,59.62,D,mount,U,moved away ,,female,0.4
+981,4,2,two,3,59.47,E,mount,R,noved away,,female,22.8
+982,4,2,two,3,58.68,B,mount,X,na ,,female,20.1
+983,4,2,two,3,60.02,E,mating,U,"tried to move, male clung on ",,female,0.8
+984,4,2,two,3,60.4,L,mount,X,moved away ,,female,21.82
+985,4,2,two,2,25.67,E,mating,N,shook,,female,8.12
+986,4,2,two,1,17.68,J,mount,W,ran into corner,0: was trying to enter before they were mounted,female,8.45
+987,4,2,two,3,60.47,B,mount,U,tried to move,,female,0.45
+988,4,2,two,1,17.77,J,mount,S,NA,,female,0.29
+989,4,2,two,3,61.77,C,mount,X,na,male can't get under,female,23.19
+990,4,2,two,1,17.82,H,mount,P,NA,,female,1.25
+991,4,2,two,1,17.29,G,mount,V,NA,male got off very fast,female,6.22
+992,4,2,two,2,39.1,E,mount,S,,,female,21.62
+993,4,2,two,1,18.18,J,mount,P,NA,,female,1.61
+994,4,2,two,3,59.52,E,mount,R,ran away ,,female,22.85
+995,4,2,two,1,18.38,F,mating,P,shook slightly,,female,1.81
+996,4,2,two,1,18.05,F,mount,Q,NA,mounted at the same time .9 mounted but got off first,female,3.67
+997,4,2,two,3,55,I,mount,P,NA,"difficult to see if it's a mating or mount, male stayed stacked for a long time",female,36.62
+998,4,2,two,2,41.01,F,mount,S,nothing initially then ran away,,female,23.53
+999,4,2,two,3,58.43,G,mount,P,na,,female,40.05
+1000,4,2,two,1,18.05,J,mount,Q,NA,,female,3.67
+1001,4,2,two,3,61.18,J,mount,P,ran away,,female,42.8
+1002,4,2,two,3,62.3,C,mount,W,ran around in shelter,,female,53.07
+1003,4,2,two,1,17.06,J,mount,M,NA,,female,3.86
+1004,4,2,two,3,62.65,B,mating,P,walked around into corner,,female,44.27
+1005,4,2,two,3,59.6,E,mating,R,tried to move but was trapped against glass ,.4 stayed on top as she tried to move for around 5 minutes ,female,22.93
+1006,4,2,two,1,17.52,A,mount,V,NA,male got off very fast,female,6.45
+1007,4,2,two,3,63.08,C,mount,P,,male can't get under,female,0.43
+1008,4,2,two,2,41.01,F,mating,S,moved around,.5 re mounted 6. after it ran away,female,23.53
+1009,4,2,two,3,63.67,D,mount,W,ran away,,female,54.44
+1010,4,2,two,1,18.39,J,mount,Q,burrowed into group,,female,4.01
+1011,4,2,two,1,17.72,F,mount,V,NA,male got off very fast,female,6.65
+1012,4,2,two,2,26.13,E,mount,N,NA,,female,0.46
+1013,4,2,two,3,63.77,H,mount,M,pressed against wall,,female,50.57
+1014,4,2,two,3,64.62,J,mount,W,ran away in the shelter and then rejoined the large aggregation,,female,55.39
+1015,4,2,two,1,17.88,J,mount,V,NA,male got off very fast,female,6.81
+1016,4,2,two,1,17.95,J,mount,V,NA,male got off very fast,female,6.88
+1017,4,2,two,1,17.97,J,mount,V,NA,male got off very fast,female,6.9
+1018,4,2,two,2,41.05,F,mount,V,NA,,female,29.98
+1019,4,2,two,4,82.43,F,mount,M,N/A,,female,69.23
+1020,4,2,two,4,82.6,B,mount,unknown,N/A,,female,N/A
+1021,4,2,two,4,83.18,J,mount,unknown,N/A,,female,N/A
+1022,4,2,two,1,18.49,J,mount,Q,moved away,,female,4.11
+1023,4,2,two,3,63.22,B,mount,Q,walking around,,female,48.84
+1024,4,2,two,3,62.7,F,mount,V,ran away,male can't get under,female,51.63
+1025,4,2,two,4,82.58,G,mount,M,N/A,,female,69.38
+1026,4,2,two,4,83.47,L,mount,unknown,N/A,,female,N/A
+1027,4,2,two,3,57.48,H,mating,N,moved around shelter,,female,31.81
+1028,4,2,two,4,83.32,I,mount,M,N/A,,female,70.12
+1029,4,2,two,4,83.73,I,mount,M,ran away,,female,70.53
+1030,4,2,two,4,84.03,F,mount,M,N/A,,female,70.83
+1031,4,2,two,3,60.35,E,mating,N,tried to run but male hung on ,,female,2.87
+1032,4,2,two,4,77.39,F,mount,W,shook,,female,68.16
+1033,4,2,two,3,62.25,C,mount,N,stayed still,,female,1.9
+1034,4,2,two,4,84.08,F,mount,M,unknown,,female,70.88
+1035,4,2,two,4,82.45,L,mount,W,N/A,,female,73.22
+1036,4,2,two,4,84.4,H,mount,M,walked around with .7 on top,,female,71.2
+1037,4,2,two,4,82.27,L,mount,N,N/A,,female,21.92
+1038,4,2,two,4,83.7,G,mating,N,N/A,,female,23.35
+1039,4,2,two,4,84.58,A,mating,M,N/A,,female,71.38
+1040,4,2,two,3,61.03,K,mount,R,ran away and left shelter,,female,1.43
+1041,4,2,two,4,84.17,K,mount,W,ran away,,female,74.94
+1042,4,2,two,3,64.17,C,mount,V,ran away,,female,53.1
+1043,4,2,two,4,84.75,K,mount,M,unknown,,female,0.17
+1044,4,2,two,3,63.43,C,mount,Q,ran away,,female,49.05
+1045,4,2,two,3,63.17,A,mount,P,walked around,,female,0.52
+1046,4,2,two,3,63.32,F,mount,P,walked away,,female,0.67
+1047,4,2,two,4,84.15,G,mount,N,N/A,,female,0.45
+1048,4,2,two,4,84.38,I,mount,N,N/A,,female,0.68
+1049,4,2,two,4,84.42,J,mount,W,walked around,stayed on until,female,75.19
+1050,4,2,two,4,84.78,H,mount,W,climbed onto wall,,female,75.55
+1051,4,2,two,4,84.6,H,mount,N,N/A,,female,0.9
+1052,4,2,two,2,38.68,B,mount,O,ran away ,,female,0.23
+1053,4,2,two,3,61.6,C,mount,R,,,female,2
+1054,4,2,two,2,39.68,B,mount,O,stayed still,,female,1.23
+1055,4,2,two,4,84.63,G,mount,N,N/A,,female,0.93
+1056,4,2,two,4,82.03,E,mount,Q,walked with .4 on top,,female,67.65
+1057,4,2,two,3,58.43,L,mount,S,move away,,female,17.42
+1058,4,2,two,3,63.12,G,mount,R,walked around a bit,,female,3.52
+1059,4,2,two,4,83.2,L,mount,Q,N/A,.5 mounted :1,female,68.82
+1060,4,2,two,3,61.83,C,mount,X,na,male can't get under,female,23.25
+1061,4,2,two,3,62.65,I,mount,X,,,female,24.07
+1062,4,2,two,4,84.82,I,mount,M,N/A,,female,0.24
+1063,4,2,two,4,87.03,D,mount,W,,,female,77.8
+1064,4,2,two,5,105.58,H,mount,unknown,ran out of shelter into enterance,,female,N/A
+1065,4,2,two,4,85.58,I,mount,N,went to corner of the arena,,female,1.88
+1066,4,2,two,3,63.38,B,mating,P,walked around a bit,,female,0.73
+1067,4,2,two,3,63.58,C,mount,P,ran away,,female,0.2
+1068,4,2,two,3,63.8,J,mount,R,walked back into shelter,,female,4.2
+1069,4,2,two,3,63.77,G,mount,P,,,female,0.39
+1070,4,2,two,4,87.67,H,mating,W,running around,,female,78.44
+1071,4,2,two,4,89.2,G,mount,W,NA,,female,1.53
+1072,4,2,two,4,85.65,A,mount,N,ran away and out of shelter,,female,1.95
+1073,4,2,two,4,84.77,J,mount,R,walked further into group of bugs,,female,25.17
+1074,4,2,two,2,39.82,B,mount,O,ran away ,,female,1.37
+1075,4,2,two,3,62.58,D,mating,S,,,female,21.57
+1076,4,2,two,4,88.07,J,mount,R,walking around in shelter,,female,28.47
+1077,4,2,two,3,63.08,B,mount,S,,male can't get under,female,0.5
+1078,4,2,two,3,63.37,D,mount,S,na,,female,0.79
+1079,4,2,two,5,105.48,F,mount,X,walked around,,female,66.9
+1080,4,2,two,3,64.3,D,mount,S,ran away and left shelter,,female,1.72
+1081,4,2,two,4,79.16,F,mount,S,shook,was shaking before mount,female,16.58
+1082,4,2,two,5,105.55,B,mount,M,N/A,,female,20.97
+1083,4,2,two,4,83.23,B,mount,Q,walked around,,female,68.85
+1084,4,2,two,5,105.52,H,mount,X,"walked around, shook, pressed .7 into wall and floor",got off at 9:33 AM,female,66.94
+1085,4,2,two,5,107.63,H,mating,M,N/A,got off at 11:39 AM,female,23.05
+1086,4,2,two,4,88.05,B,mount,O,,,female,49.6
+1087,4,2,two,5,98.51,A,mount,R,shook,,female,38.91
+1088,4,2,two,4,85.13,C,mating,Q,,,female,70.75
+1089,4,2,two,3,65.1,B,mount,V,NA,,female,54.03
+1090,4,2,two,5,107.42,D,mating,X,ran away with .3 on top,,female,68.84
+1091,4,2,two,5,108.08,H,mating,M,walked around with .7 on top,,female,0.45
+1092,4,2,two,5,105.42,B,mount,R,,,female,45.82
+1093,4,2,two,5,106.48,P,mount,R,N/A,,female,46.88
+1094,4,2,two,4,87.72,A,mount,N,walking around in shelter,,female,4.02
+1095,4,2,two,3,61.37,C,mount,U,,,female,1.35
+1096,4,2,two,4,88.57,B,mating,N,walking around,,female,4.87
+1097,4,2,two,5,108.45,H,mount,M,walked around,,female,0.82
+1098,4,2,two,5,98.36,I,mount,W,NA,difficult to see if it's :0 or 0:,female,10.69
+1099,4,2,two,5,107.73,D,mount,X,N/A,,female,0.31
+1100,4,2,two,3,61.8,G,mating,U,,,female,1.78
+1101,4,2,two,4,88.47,B,mating,O,stayed still,,female,50.02
+1102,4,2,two,4,88.63,B,mount,Q,stayed still,,female,3.5
+1103,4,2,two,4,89.14,J,mating,Q,NA,,female,4.01
+1104,4,2,two,3,62.55,G,mount,U,ran into corner and pressed against wall,,female,0.75
+1105,4,2,two,5,107.08,C,mount,R,5. shook .2 off,,female,47.48
+1106,4,2,two,5,108.6,H,mount,U,N/A,,female,46.8
+1107,4,2,two,4,73.27,E,mount,V,NA,,female,62.2
+1108,4,2,two,3,64.25,D,mount,P,ran away and left shelter,,female,0.87
+1109,4,2,two,5,107.32,L,mount,R,ran into corner,,female,47.72
+1110,4,2,two,5,98.04,I,mount,N,NA,,female,9.47
+1111,4,2,two,4,85.45,F,mating,P,,,female,22.07
+1112,4,2,two,4,79.16,E,mount,S,shook,still was shaking,female,16.58
+1113,4,2,two,5,109.72,I,mount,T,ran away,,female,49.02
+1114,4,2,two,5,108.33,H,mount,X,N/A,,female,0.91
+1115,4,2,two,5,110,D,mount,T,,,female,49.3
+1116,4,2,two,5,109.18,E,mount,U,ran away,,female,47.38
+1117,4,2,two,4,82.2,G,mount,V,moved away,,female,71.13
+1118,4,2,two,5,108.77,A,mating,M,N/A,,female,1.14
+1119,4,2,two,5,110.2,I,mount,M,,,female,1.43
+1120,4,2,two,5,108.8,H,mount,X,N/A,,female,1.38
+1121,4,2,two,5,105.47,H,mount,Q,N/A,,female,16.33
+1122,4,2,two,5,98.04,K,mount,N,NA,,female,9.47
+1123,4,2,two,5,108.17,K,mount,R,N/A,,female,48.57
+1124,4,2,two,4,82.47,G,mount,V,N/A,,female,71.4
+1125,4,2,two,4,82.48,F,mount,V,N/A,9. had mounted .2,female,71.41
+1126,4,2,two,4,82.52,L,mount,V,N/A,,female,71.45
+1127,4,2,two,5,109.78,I,mount,X,ran away,,female,2.36
+1128,4,2,two,5,98.68,A,mount,O,,,female,10.21
+1129,4,2,two,4,82.55,G,mount,V,N/A,,female,71.48
+1130,4,2,two,5,102.61,A,mount,O,ran away and shook,,female,14.14
+1131,4,2,two,5,99.56,I,mount,W,NA,,female,11.89
+1132,4,2,two,5,105.58,H,mount,W,ran to other side of shelter and shook,,female,17.91
+1133,4,2,two,5,107.7,K,mount,Q,N/A,,female,18.56
+1134,4,2,two,4,85.47,E,mount,P,was still getting mated with by .5,,female,0.02
+1135,4,2,two,5,106.32,C,mating,P,turned around in place,stayed mounted till 10:22 AM,female,20.87
+1136,4,2,two,5,106.45,F,mount,P,walked into wall ,,female,0.13
+1137,4,2,two,5,108.55,F,mount,R,N/A,,female,48.95
+1138,4,2,two,5,108.57,L,mount,R,N/A,.5 still on 5.,female,48.97
+1139,4,2,two,4,79.16,H,mount,S,shook,still was shaking,female,16.58
+1140,4,2,two,5,110.55,H,mount,X,,,female,3.13
+1141,4,2,two,5,111.32,H,mating,X,stayed still,,female,3.9
+1142,4,2,two,6,129.35,I,mount,unknown,unknown,,female,N/A
+1143,4,2,two,5,105.32,H,mount,S,N/A,,female,42.74
+1144,4,2,two,5,106.53,F,mount,P,pressed into corner,,female,0.21
+1145,4,2,two,5,109.35,H,mount,P,,,female,3.03
+1146,4,2,two,5,109.27,J,mount,R,shaking,,female,49.67
+1147,4,2,two,5,110.42,I,mount,M,,,female,1.65
+1148,4,2,two,5,109.53,H,mount,P,,,female,3.21
+1149,4,2,two,6,130.18,L,mount,M,ran into group of bugs In top right corner,,female,21.41
+1150,4,2,two,5,113.03,J,mount,X,ran away into shelter,,female,1.71
+1151,4,2,two,5,98.25,J,mating,N,walked around,male got off at 22:36,female,9.68
+1152,4,2,two,5,112.27,A,mount,P,,,female,5.95
+1153,4,2,two,5,112.4,I,mount,P,pressed against arena wall,,female,6.08
+1154,4,2,two,5,112.43,I,mount,P,,,female,6.11
+1155,4,2,two,5,113.1,J,mount,P,shook,may have been shaking before,female,6.78
+1156,4,2,two,5,113.11,A,mount,P,,,female,6.79
+1157,4,2,two,5,98.3,L,mount,N,NA,,female,0.05
+1158,4,2,two,5,109.25,J,mount,U,pressed against wall,,female,47.45
+1159,4,2,two,5,109.28,J,mount,U,pressed against wall,,female,47.48
+1160,4,2,two,5,109.42,J,mating,R,walked out of shelter,walked back into shelter about 5 min later,female,49.82
+1161,4,2,two,5,111.23,I,mount,R,,,female,1.81
+1162,4,2,two,5,112.68,H,mating,R,was on wall,,female,3.26
+1163,4,2,two,6,129.65,G,mount,P,walked into shelter then shook,".2 mounted .6, got off then 3. shook .6 off",female,23.33
+1164,4,2,two,6,129.67,I,mount,P,NA,,female,23.35
+1165,4,2,two,6,130.25,I,mount,P,moved into top right corner,,female,23.93
+1166,4,2,two,5,113.03,J,mating,R,,,female,0.35
+1167,4,2,two,6,130.1,C,mount,R,unknown,.4 mounted  and then .0,female,17.07
+1168,4,2,two,6,133.38,J,mount,R,,,female,20.35
+1169,4,2,two,5,110.03,I,mount,U,,male can't get under,female,48.23
+1170,4,2,two,6,132.8,I,mount,U,move away ,,female,71
+1171,4,2,two,6,133.12,I,mount,U,ran deeper into big group,,female,71.32
+1172,4,2,two,5,98.61,G,mount,N,NA,"male got off at 8:52, could be mating",female,0.36
+1173,4,2,two,4,83.3,B,mount,V,N/A,,female,72.23
+1174,4,2,two,6,130.48,J,mount,P,NA,,female,24.16
+1175,4,2,two,5,108.25,H,mount,Q,N/A,,female,19.11
+1176,4,2,two,6,130.25,L,mount,M,Na,0. was shaking before,female,21.48
+1177,4,2,two,6,133.42,J,mount,R,,,female,20.39
+1178,4,2,two,5,113.03,J,mount,X,ran out of shelter,,female,1.71
+1179,4,2,two,5,107.23,G,mount,O,N/A,,female,18.76
+1180,4,2,two,6,130.5,J,mount,P,NA,,female,24.18
+1181,4,2,two,4,84.8,F,mount,V,,,female,73.73
+1182,4,2,two,5,107.3,E,mount,S,N/A,,female,44.72
+1183,4,2,two,5,113.04,I,mount,X,shook,,female,1.72
+1184,4,2,two,5,106.62,L,mount,W,moved into corner,,female,18.95
+1185,4,2,two,5,107.33,E,mount,S,N/A,,female,44.75
+1186,4,2,two,5,107.33,E,mount,S,N/A,,female,44.75
+1187,4,2,two,5,97.22,I,mount,V,NA,,female,86.15
+1188,4,2,two,6,130.78,E,mount,P,walked with .4 on top,.9 mounted,female,24.46
+1189,4,2,two,5,97.9,A,mount,V,burrowed into group,,female,86.83
+1190,4,2,two,5,98.36,I,mount,V,NA,male got off quickly,female,87.29
+1191,4,2,two,5,98.38,I,mount,V,walked around,,female,87.31
+1192,4,2,two,5,108.15,W,mount,O,N/A,,female,19.68
+1193,4,2,two,5,109.2,L,mount,Q,ran away,,female,20.06
+1194,4,2,two,5,109.2,C,mount,Q,ran away,,female,20.06
+1195,4,2,two,5,110.63,A,mount,Q,walking aroind in shetler,,female,21.49
+1196,4,2,two,5,98.97,I,mount,N,shook and walked into group,"possible mating, male seemed to rearrange and stayed on until 33:25",female,0.72
+1197,4,2,two,5,112.05,H,mating,Q,walking around in shelter,,female,22.91
+1198,4,2,two,6,130.8,J,mount,P,NA,got off at 10:49 AM,female,24.48
+1199,4,2,two,6,130.83,J,mount,P,NA,,female,24.51
+1200,4,2,two,5,109.18,A,mount,O,,,female,20.71
+1201,4,2,two,5,107.6,E,mount,S,N/A,,female,45.02
+1202,4,2,two,5,107.6,E,mating,S,ran into corner,,female,45.02
+1203,4,2,two,5,98.47,I,mount,V,NA,"difficult to see if it's a mating or mount, male stayed stacked for a long time",female,87.4
+1204,4,2,two,6,133.67,J,mount,R,walking around,,female,20.64
+1205,4,2,two,6,135.07,G,mount,R,,,female,22.04
+1206,4,2,two,5,99.29,I,mating,N,moved into group,,female,1.04
+1207,4,2,two,5,105.7,L,mount,N,N/A,,female,6.41
+1208,4,2,two,5,100.17,I,mating,V,,,female,89.1
+1209,4,2,two,6,134.12,G,mount,P,running around and shaking,,female,27.8
+1210,4,2,two,2,#VALUE!,G,mating,Q,moved around but .6 held on ,,female,N/A
+1211,4,2,two,5,106.75,E,mount,W,ran into enterance,,female,19.08
+1212,4,2,two,5,108.3,H,mount,V,N/A,,female,8.13
+1213,4,2,two,5,108.8,H,mount,W,N/A,,female,21.13
+1214,4,2,two,5,109.7,J,mount,S,"running around, went to corner of shelter; pressed against corner",,female,2.1
+1215,4,2,two,6,129.07,A,mount,S,N/A,"stayed on top, 6. started shaking at 9:06 AM got off at 9:06 AM, possibly a mating at 9:06",female,21.47
+1216,4,2,two,6,129.38,B,mount,S,NA,,female,21.78
+1217,4,2,two,5,111.43,L,mount,O,stayed still,,female,22.96
+1218,4,2,two,6,129.18,A,mount,X,ran into corner .0 got off at 9:12 AM,,female,17.86
+1219,4,2,two,6,129.23,H,mount,X,NA,,female,17.91
+1220,4,2,two,6,134.32,G,mount,P,,,female,28
+1221,4,2,two,6,134.6,G,mount,P,walking around arena,,female,28.28
+1222,4,2,two,5,111.55,L,mount,O,,,female,23.08
+1223,4,2,two,5,109.33,H,mount,V,ran away,,female,9.16
+1224,4,2,two,5,106.78,H,mating,N,walked around,,female,7.49
+1225,4,2,two,5,111.68,I,mount,W,walking around,seems like .8 can't get under,female,24.01
+1226,4,2,two,5,110.03,K,mount,V,pressed against wall,,female,9.86
+1227,4,2,two,6,136.33,D,mount,R,ran and pressed against shelter wall,,female,23.3
+1228,4,2,two,5,108.57,K,mount,N,N/A,,female,1.79
+1229,4,2,two,5,113.03,J,mount,O,ran away,,female,24.56
+1230,4,2,two,5,108.7,X,mount,N,N/A,"they were on wall, started shaking at 12:43 PM",female,1.92
+1231,4,2,two,6,130.42,H,mount,X,1: ran into group of bugs,,female,19.1
+1232,4,2,two,5,111.28,G,mount,V,ran away,,female,11.11
+1233,4,2,two,5,111.28,I,mount,V,ran away,,female,11.11
+1234,4,2,two,5,111.3,G,mount,V,walking around,,female,11.13
+1235,4,2,two,5,109.5,D,mount,N,walked into shelter 1,male not getting under,female,2.72
+1236,4,2,two,5,110.73,I,mount,N,walking around,male can't get under,female,3.95
+1237,4,2,two,6,120.85,H,mount,N,NA,shook,female,14.07
+1238,4,2,two,6,130.42,A,mount,N,NA,,female,23.64
+1239,4,2,two,5,111.47,I,mount,V,stayed still,,female,11.3
+1240,4,2,two,5,111.75,I,mount,W,walking aound,,female,24.08
+1241,4,2,two,5,114.06,I,mount,V,NA,,female,13.89
+1242,4,2,two,6,138.65,F,mating,X,NA,was shaking before mount,female,27.33
+1243,4,2,two,6,132.28,I,mating,N,na,remained in contact after,female,25.5
+1244,4,2,two,6,121.18,I,mount,T,NA,,female,60.48
+1245,4,2,two,6,121.99,I,mount,unknown,NA,*either 6. or 8.,female,N/A
+1246,4,2,two,6,127.29,I,mating,T,NA,,female,66.59
+1247,4,2,two,6,127.35,J,mating,T,shook,,female,0.06
+1248,4,2,two,6,127.64,I,mount,T,moved around,,female,0.29
+1249,5,3,two,1,8.55,L,mating,U,staying still,,female,N/A
+1250,5,3,two,1,8.55,K,mating,M,staying still,,female,N/A
+1251,5,3,two,1,8.58,F,mating,V,,,female,N/A
+1252,5,3,two,1,8.58,D,mating,S,,,female,N/A
+1253,5,3,two,1,8.58,H,mating,T,,,female,N/A
+1254,5,3,two,1,8.58,I,mount,X,walking around,male can't get under,female,N/A
+1255,5,3,two,1,8.67,E,mount,T,walked around and entered 1,,female,0.09
+1256,5,3,two,1,8.68,C,mount,T,ran away and against wall,,female,0.1
+1257,5,3,two,1,1.11,I,mount,W,NA,,female,N/A
+1258,5,3,two,1,8.73,I,mount,X,pressed against floor,male can't get under,female,N/A
+1259,5,3,two,1,3.67,I,mount,W,NA,,female,N/A
+1260,5,3,two,1,8.8,I,mount,X,pressed against floor,,female,N/A
+1261,5,3,two,1,8.85,B,mount,R,,,female,N/A
+1262,5,3,two,1,8.88,I,mount,X,ran away and out of shelter,,female,N/A
+1263,5,3,two,1,9.08,J,mating,N,staying still,,female,N/A
+1264,5,3,two,1,9.15,I,mount,X,ran away,,female,N/A
+1265,5,3,two,1,9.17,L,mating,O,staying still,,female,N/A
+1266,5,3,two,1,9.18,C,mating,M,,,female,0.63
+1267,5,3,two,1,9.22,J,mating,O,,,female,0.05
+1268,5,3,two,1,9.37,J,mount,N,ran away,,female,0.29
+1269,5,3,two,1,9.42,D,mating,X,staying still,,female,N/A
+1270,5,3,two,1,9.48,D,mount,S,running around until .3 fell off,,female,0.9
+1271,5,3,two,1,9.52,A,mount,N,ran away,,female,0.44
+1272,5,3,two,1,9.58,I,mount,P,staying still,trying to mate from left side,female,N/A
+1273,5,3,two,1,9.62,I,mount,P,running around,trying to mate from left side; now trying on right side but can't get under,female,N/A
+1274,5,3,two,1,9.63,L,mount,Q,,,female,N/A
+1275,5,3,two,1,9.65,B,mating,Q,staying still,,female,N/A
+1276,5,3,two,1,9.7,J,mount,S,running around,.9 struggling to hang on/get under,female,1.12
+1277,5,3,two,1,9.75,G,mating,R,,,female,N/A
+1278,5,3,two,1,9.8,L,mount,P,,,female,N/A
+1279,5,3,two,1,10.08,H,mount,R,ran away,,female,0.33
+1280,5,3,two,1,3.69,E,mount,W,ran away,,female,N/A
+1281,5,3,two,1,10.17,L,mount,N,ran away,,female,1.09
+1282,5,3,two,1,10.2,H,mount,P,ran away,,female,N/A
+1283,5,3,two,1,10.23,A,mount,P,staying still; against arena wall,male can't get under,female,N/A
+1284,5,3,two,1,10.52,G,mount,Q,ran around until male fell off,,female,0.87
+1285,5,3,two,1,10.57,I,mount,X,staying still,trying to mate from left side,female,1.15
+1286,5,3,two,1,10.63,A,mount,X,ran away,,female,1.21
+1287,5,3,two,1,10.72,G,mount,T,walked around until 7. fell off,,female,2.14
+1288,5,3,two,1,10.77,D,mating,O,,,female,1.55
+1289,5,3,two,1,11.28,A,mount,M,ran away,,female,2.73
+1290,5,3,two,1,11.38,J,mount,T,,,female,2.8
+1291,5,3,two,1,11.4,K,mount,X,,,female,1.98
+1292,5,3,two,1,8.7,A,mating,W,,,female,N/A
+1293,5,3,two,1,11.52,I,mount,R,ran away,,female,1.77
+1294,5,3,two,1,11.52,I,mount,Q,walking around,trying to mate from the left side,female,1.87
+1295,5,3,two,1,11.55,I,mount,Q,walking around,trying to mate from the left side,female,1.9
+1296,5,3,two,1,8.77,H,mating,W,staying still; then walking around,,female,0.07
+1297,5,3,two,1,12.18,I,mount,Q,staying still against arena wall; then started running around until male fell off,trying to mate from the left side,female,2.53
+1298,5,3,two,1,12.37,I,mount,M,staying still against arena wall,trying to mate from the left side,female,3.82
+1299,5,3,two,1,12.38,I,mount,P,ran away,,female,N/A
+1300,5,3,two,1,12.42,I,mount,X,,,female,3
+1301,5,3,two,1,12.47,I,mount,T,,,female,3.89
+1302,5,3,two,1,10.08,I,mount,W,running around,.8 can't get under,female,1.31
+1303,5,3,two,1,12.58,I,mount,Q,ran away,trying to mate from the left side,female,2.93
+1304,5,3,two,1,12.63,J,mount,T,ran away,,female,4.05
+1305,5,3,two,1,13.2,I,mount,M,stayed still for a bit then ran away,male was fed and couldn't get under,female,4.65
+1306,5,3,two,1,11.47,I,mount,W,staying still,trying to mate from the left side,female,2.7
+1307,5,3,two,1,13.72,F,mount,S,ran away,,female,5.14
+1308,5,3,two,1,13.72,H,mount,X,stayed still for a bit then ran away,male couldn't get under,female,4.3
+1309,5,3,two,1,13.73,I,mount,X,running around,.8 can't get under and also attemping mating from left side,female,4.31
+1310,5,3,two,1,13.83,F,mating,N,stayed still,,female,4.75
+1311,5,3,two,1,14.03,I,mount,R,running around,trying to mate from the left side,female,4.28
+1312,5,3,two,1,14.17,I,mount,P,staying still,.8 can't get under,female,N/A
+1313,5,3,two,1,14.23,F,mating,V,,,female,5.65
+1314,5,3,two,1,14.3,L,mount,M,staying still,,female,5.75
+1315,5,3,two,1,14.4,I,mount,V,walking around,trying to mate from the left side,female,0.17
+1316,5,3,two,1,11.72,I,mount,W,stayed still for a bit then ran away,trying to mate from the left side,female,2.95
+1317,5,3,two,1,14.77,I,mount,R,walking around then ran away,trying to mate from the left side,female,5.02
+1318,5,3,two,1,14.78,G,mount,S,ran away,,female,6.2
+1319,5,3,two,1,15.12,G,mount,T,NA,,female,6.54
+1320,5,3,two,1,15.2,B,mount,T,NA,,female,6.62
+1321,5,3,two,1,15.22,E,mount,M,NA then started walking at 3:15 PM,got off at 3:18 PM,female,6.67
+1322,5,3,two,1,15.23,L,mount,V,NA,started walking at 3:18 PM got off at 3:20 PM,female,1
+1323,5,3,two,1,15.27,I,mount,T,NA,,female,6.69
+1324,5,3,two,1,15.28,L,mating,N,walked around with :1 on top,,female,1.45
+1325,5,3,two,1,15.33,A,mount,U,NA,,female,6.78
+1326,5,3,two,1,15.37,L,mount,T,NA,,female,6.79
+1327,5,3,two,1,15.37,I,mount,U,walked around with .8 on top,,female,6.82
+1328,5,3,two,1,12.53,J,mount,W,ran away,,female,3.76
+1329,5,3,two,1,15.38,E,mount,M,NA,,female,6.83
+1330,5,3,two,1,15.42,I,mount,S,walked around with .8 on top,,female,6.84
+1331,5,3,two,1,15.43,G,mount,N,NA,,female,0.15
+1332,5,3,two,1,15.43,D,mount,Q,NA,,female,5.78
+1333,5,3,two,1,15.45,G,mount,N,walked around,,female,0.17
+1334,5,3,two,1,15.45,M,mount,V,NA,,female,1.22
+1335,5,3,two,1,15.47,I,mount,S,NA then started walking,got off at 3:31 PM,female,6.89
+1336,5,3,two,1,15.5,L,mount,V,NA,,female,1.27
+1337,5,3,two,1,15.52,A,mount,R,NA,,female,5.77
+1338,5,3,two,1,15.57,A,mount,V,NA,,female,1.34
+1339,5,3,two,1,15.58,B,mount,M,NA,,female,7.03
+1340,5,3,two,1,15.6,A,mount,V,NA then started walking,9. was on top of .7,female,1.37
+1341,5,3,two,1,15.65,B,mount,R,NA,,female,5.9
+1342,5,3,two,1,15.67,A,mating,V,NA,,female,1.44
+1343,5,3,two,1,15.68,O,mount,R,NA,,female,5.93
+1344,5,3,two,1,15.7,B,mount,N,NA,,female,0.42
+1345,5,3,two,1,15.72,I,mount,Q,"moved away, .8 did not get on",,female,6.07
+1346,5,3,two,1,15.77,F,mount,O,NA,,female,5
+1347,5,3,two,1,15.77,D,mount,P,NA,,female,N/A
+1348,5,3,two,1,15.82,H,mount,Q,NA,4. was on wall,female,6.17
+1349,5,3,two,1,16.12,L,mount,T,NA,,female,7.54
+1350,5,3,two,1,16.13,H,mount,V,shook,,female,0.46
+1351,5,3,two,1,16.18,I,mount,M,NA then walked into 1,,female,7.63
+1352,5,3,two,1,16.2,H,mount,O,NA until other bugs approached then 2. ran away,,female,5.43
+1353,5,3,two,1,16.27,H,mount,V,NA,,female,0.6
+1354,5,3,two,1,16.3,J,mount,R,NA,,female,6.55
+1355,5,3,two,1,16.32,J,mount,S,NA,,female,7.74
+1356,5,3,two,1,16.33,D,mount,V,NA,,female,0.66
+1357,5,3,two,1,16.35,T,mount,R,NA,5. was on wall,female,6.6
+1358,5,3,two,1,16.35,H,mount,V,ran out from under,,female,0.68
+1359,5,3,two,1,16.38,L,mount,Q,NA,,female,6.73
+1360,5,3,two,1,16.42,R,mount,X,walked around,,female,7
+1361,5,3,two,1,16.43,H,mount,T,NA,7. was on wall,female,7.85
+1362,5,3,two,1,16.48,J,mount,U,NA,,female,7.93
+1363,5,3,two,1,16.52,I,mount,V,"walked around, into corner","got under at 4:34 PM, .7 mounted at 4:36 PM and 9. got out",female,0.85
+1364,5,3,two,1,16.53,X,mount,S,NA,,female,7.95
+1365,5,3,two,1,16.63,J,mount,Q,NA,,female,6.98
+1366,5,3,two,1,16.65,I,mount,Q,"walked around, climbed wall at 4:41 PM and.8 got off",,female,7
+1367,5,3,two,1,16.68,I,mount,Q,NA,got iff at 4:43 PM,female,7.03
+1368,5,3,two,1,16.73,I,mount,R,NA,,female,6.98
+1369,5,3,two,1,16.73,I,mount,U,NA,,female,8.18
+1370,5,3,two,1,16.78,D,mount,T,NA,,female,8.2
+1371,5,3,two,2,33.42,L,mount,X,,,female,24
+1372,5,3,two,2,33.43,I,mount,X,,,female,24.01
+1373,5,3,two,1,17.08,I,mount,U,NA,,female,8.53
+1374,5,3,two,1,17.24,C,mount,S,NA,,female,8.66
+1375,5,3,two,1,17.43,I,mount,S,NA,,female,8.85
+1376,5,3,two,1,17.04,I,mount,O,moved around,,female,6.27
+1377,5,3,two,1,17.37,F,mount,O,NA,,female,6.6
+1378,5,3,two,2,31.24,J,mount,V,NA,,female,15.57
+1379,5,3,two,2,34.53,I,mount,V,,,female,18.86
+1380,5,3,two,2,35.13,I,mount,R,"running around, disturbing everyone else in the shelter",male trying to mate from the left side,female,25.38
+1381,5,3,two,2,35.45,J,mount,R,running around then joined big group,,female,25.7
+1382,5,3,two,2,36.25,I,mount,R,walked around with .8 on top,,female,26.5
+1383,5,3,two,1,17.12,I,mount,U,NA,,female,8.57
+1384,5,3,two,2,37.43,B,mount,R,NA,,female,27.68
+1385,5,3,two,2,34.3,D,mount,O,,,female,23.53
+1386,5,3,two,2,37.78,B,mount,R,NA,,female,28.03
+1387,5,3,two,2,38.1,I,mount,R,NA,"got under on left hand side then stacked at 2:08 PM started walking with .8 on top at 2:09 PM, got under again at 2:11 PM got off at 2:12 PM",female,28.35
+1388,5,3,two,2,38.2,B,mount,R,NA,,female,28.45
+1389,5,3,two,2,34.32,G,mount,O,,,female,23.55
+1390,5,3,two,2,38.68,B,mount,R,na,,female,28.93
+1391,5,3,two,2,37.55,D,mating,O,NA,,female,26.78
+1392,5,3,two,1,18.7,I,mount,U,NA,,female,10.15
+1393,5,3,two,2,39.07,I,mount,R,NA,,female,29.32
+1394,5,3,two,2,38.23,J,mount,O,NA,"still on at 2:19 PM and 2. shook, got off at 2:23 PM",female,0.68
+1395,5,3,two,1,19.01,I,mount,U,NA,,female,10.46
+1396,5,3,two,2,33.73,C,mating,U,,,female,25.18
+1397,5,3,two,2,39.23,K,mount,R,ran away,5. had approached :0,female,29.48
+1398,5,3,two,2,37,E,mount,U,NA,,female,3.27
+1399,5,3,two,2,39.37,I,mount,R,walked around with .8 on top,,female,29.62
+1400,5,3,two,2,38.7,B,mount,O,shook then stopped,,female,1.15
+1401,5,3,two,2,38.8,I,mount,U,"NA, started walking at 2:49PM",,female,5.07
+1402,5,3,two,2,39.67,I,mount,R,NA,,female,29.92
+1403,5,3,two,2,40.33,I,mount,R,walked around with .8 on top,,female,30.58
+1404,5,3,two,2,39.13,K,mount,O,2. ran then stopped,,female,1.58
+1405,5,3,two,2,39.18,I,mount,U,NA,,female,5.45
+1406,5,3,two,2,39.2,K,mount,U,ran out from under,,female,5.47
+1407,5,3,two,2,40.47,E,mount,R,ran into group,,female,30.72
+1408,5,3,two,2,34.73,I,mount,V,,,female,19.06
+1409,5,3,two,2,39.28,K,mating,U,"NA, started walkig at 3:18 PM",,female,5.55
+1410,5,3,two,2,40.5,J,mount,V,NA,,female,24.83
+1411,5,3,two,2,39.53,K,mount,U,NA,8. on wall,female,0.25
+1412,5,3,two,2,40.75,H,mount,R,shook,,female,31
+1413,5,3,two,2,41.06,J,mount,R,shook,possibly a mating that was interrupted by .9 mounting,female,31.31
+1414,5,3,two,2,40.58,J,mount,V,9. ran into group,,female,24.91
+1415,5,3,two,3,50.25,D,mating,V,NA,,female,34.58
+1416,5,3,two,2,41.15,C,mount,X,,,female,31.73
+1417,5,3,two,1,17.29,I,mount,Q,moved around,,female,7.64
+1418,5,3,two,2,41.11,K,mount,R,NA,,female,31.36
+1419,5,3,two,1,18.84,I,mount,Q,NA,,female,9.19
+1420,5,3,two,2,41.89,I,mount,R,shook,,female,32.14
+1421,5,3,two,2,41.97,I,mount,R,NA,male stayed stacked on top,female,32.22
+1422,5,3,two,2,39.38,I,mount,O,NA,":0 walked over them, .8 got under once but for less than 30 sec, kept trying to get under but 2. put butt on ground, possibly mated on the left at 3:28 PM but .8 kept trying to get under again after, got off at 3:34 PM",female,1.83
+1423,5,3,two,3,57.08,I,mount,R,NA,,female,47.33
+1424,5,3,two,2,40.38,J,mount,O,2. ran away into enterance then ran into group in 1,,female,2.83
+1425,5,3,two,1,18.87,I,mount,Q,NA ,,female,9.22
+1426,5,3,two,2,41.04,I,mating,O,walked forward periodically,5. bumped back of .8,female,3.49
+1427,5,3,two,3,58.53,K,mount,Q,shook,,female,48.88
+1428,5,3,two,3,58.63,H,mount,Q,NA,,female,48.98
+1429,5,3,two,3,58.6,I,mount,R,5. ran away,,female,48.85
+1430,5,3,two,1,17.24,I,mount,P,NA,,female,N/A
+1431,5,3,two,2,41.1,I,mating,O,walked around,:0 bumped back of .8 at 5:43,female,0.06
+1432,5,3,two,2,41.2,J,mount,O,NA,female got out from under at 12:59,female,0.1
+1433,5,3,two,3,59.35,I,mount,Q,"started walking at 11:22 PM, pushed .8 into wall at 11:30 AM",got off at 11:31 AM,female,49.7
+1434,5,3,two,3,59.55,I,mount,Q,4. walked around,got off at 11:39 AM,female,49.9
+1435,5,3,two,3,59.63,K,mount,Q,NA,.8 still on 4.,female,49.98
+1436,5,3,two,1,17.01,I,mount,T,NA,,female,8.43
+1437,5,3,two,3,60.07,F,mount,Q,NA,,female,50.42
+1438,5,3,two,1,17.26,E,mount,P,moved around,,female,N/A
+1439,5,3,two,3,58.7,K,mount,R,NA,,female,48.95
+1440,5,3,two,3,59.12,I,mount,R,ran away,,female,49.37
+1441,5,3,two,3,59.68,H,mount,P,moved into group,,female,N/A
+1442,5,3,two,3,60.35,F,mating,P,NA,,female,N/A
+1443,5,3,two,3,59.25,I,mount,R,started walking at 11:17 AM,,female,49.5
+1444,5,3,two,3,60.48,I,mount,P,NA,got off at 12:32 PM,female,0.13
+1445,5,3,two,3,57.65,I,mount,X,NA,,female,48.23
+1446,5,3,two,3,60.13,F,mount,Q,NA,,female,50.48
+1447,5,3,two,3,60.23,F,mount,Q,NA,,female,50.58
+1448,5,3,two,3,59.65,K,mount,R,Ran away,,female,49.9
+1449,5,3,two,3,60.58,I,mount,P,ran away,,female,0.23
+1450,5,3,two,3,59.17,J,mount,O,"went into group, walked at 11:16 AM",,female,18.07
+1451,5,3,two,3,59.32,J,mating,O,walked around,,female,18.22
+1452,5,3,two,3,60.33,F,mount,Q,NA,,female,50.68
+1453,5,3,two,3,60.68,B,mount,Q,NA,,female,51.03
+1454,5,3,two,2,40.43,I,mount,U,NA,,female,1.15
+1455,5,3,two,1,17.61,I,mount,S,NA,,female,9.03
+1456,5,3,two,3,59.42,K,mating,O,NA,,female,0.1
+1457,5,3,two,3,59.72,H,mount,O,2. exited shelter,,female,0.3
+1458,5,3,two,3,59.73,F,mount,O,ran away,2. had approached .5,female,0.31
+1459,5,3,two,3,60.4,F,mount,R,NA,,female,50.65
+1460,5,3,two,3,61.2,I,mount,O,NA,,female,1.78
+1461,5,3,two,3,61.23,J,mount,O,NA,,female,1.81
+1462,5,3,two,3,62.3,I,mount,O,ran away,mounted her while she was feeding ,female,2.88
+1463,5,3,two,3,60.45,F,mount,R,ran away,,female,50.7
+1464,5,3,two,1,17.65,I,mount,S,NA ,,female,9.07
+1465,5,3,two,3,60.6,J,mount,R,ran into enterance then into group,,female,50.85
+1466,5,3,two,3,60.78,F,mount,R,NA,5. on wall,female,51.03
+1467,5,3,two,3,60.6,I,mount,P,walked around,got off at 12:40 PM,female,0.25
+1468,5,3,two,2,40.45,I,mount,U,NA,got off at 4:30 PM and 8. ran away,female,1.17
+1469,5,3,two,3,57.28,J,mount,V,NA,,female,7.03
+1470,5,3,two,3,62.37,A,mating,R,ran into shelter with .0 on her,,female,52.62
+1471,5,3,two,1,13.23,I,mount,W,running around then pinned against arena corner,male was fed and couldn't get under,female,4.46
+1472,5,3,two,1,18.09,I,mount,N,NA,,female,2.81
+1473,5,3,two,2,40.57,I,mount,U,NA,got off at 4:36 PM,female,1.29
+1474,5,3,two,3,57.4,J,mount,V,NA,,female,7.15
+1475,5,3,two,3,63.18,I,mount,V,staying still; then walking around,trying to mate from left side,female,12.93
+1476,5,3,two,3,63.5,F,mount,V,running around arena,male couldn't get under,female,13.25
+1477,5,3,two,3,62.65,K,mount,R,ran away,,female,0.28
+1478,5,3,two,3,62.7,K,mount,R,ran away,,female,0.33
+1479,5,3,two,3,62.32,I,mount,O,trying to resume feeding,keeps trying to mount her as she's feeding,female,2.9
+1480,5,3,two,3,62.35,I,mount,O,,,female,2.93
+1481,5,3,two,3,62.4,I,mount,O,running around arena,,female,2.98
+1482,5,3,two,1,17.69,I,mount,S,NA,6. ran away and exit 2,female,9.11
+1483,5,3,two,3,62.78,F,mount,R,ran away,,female,0.41
+1484,5,3,two,3,63.28,B,mount,R,ran away,,female,0.91
+1485,5,3,two,1,14.45,I,mount,W,na,trying to mate from the left side and can't get under,female,5.68
+1486,5,3,two,1,15.38,A,mount,W,NA,,female,6.61
+1487,5,3,two,1,18.44,C,mating,W,,,female,9.67
+1488,5,3,two,2,30.8,J,mount,W,moved away slightly,slightly difficult to see if it's 0: or :0 but seems like 0:,female,12.36
+1489,5,3,two,3,63.63,B,mount,R,ran away after,male got off quickly,female,1.26
+1490,5,3,two,3,52.44,B,mating,W,NA,,female,34
+1491,5,3,two,3,63.63,I,mount,R,stayed still,tried from left side,female,1.26
+1492,5,3,two,3,63.37,B,mount,W,stayed still,male got off on his own,female,10.93
+1493,5,3,two,2,33.75,H,mount,S,,,female,25.17
+1494,5,3,two,1,18.78,I,mount,N,NA,,female,3.5
+1495,5,3,two,2,33.78,H,mating,S,,,female,25.2
+1496,5,3,two,1,17.22,I,mount,M,NA,,female,8.67
+1497,5,3,two,3,64.35,I,mount,W,"staying stil, then walking around",trying from left side,female,11.91
+1498,5,3,two,3,64.43,I,mount,W,ran away,,female,11.99
+1499,5,3,two,3,62.27,H,mating,S,staying still,this broke up the large aggregation ,female,28.49
+1500,5,3,two,3,62.57,I,mount,O,running around arena,from left side,female,3.15
+1501,5,3,two,3,62.67,F,mount,S,stayed still,,female,0.4
+1502,5,3,two,3,63.8,I,mount,S,staying still,trying from left side,female,1.53
+1503,5,3,two,3,64.47,I,mount,W,staying still,trying from left side,female,12.03
+1504,5,3,two,4,74.08,I,mount,S,ran away,,female,11.81
+1505,5,3,two,4,74.35,I,mount,S,moved away,,female,12.08
+1506,5,3,two,4,81.28,I,mount,S,NA,,female,19.01
+1507,5,3,two,3,60.32,C,mating,T,ran into corner,,female,51.74
+1508,5,3,two,4,72.36,I,mount,M,NA,"male got off at 00:18:19, male was mating on left",female,63.81
+1509,5,3,two,3,65.53,I,mount,T,NA,stayed still then moved around after,female,43.31
+1510,5,3,two,4,81.53,J,mount,S,NA,,female,19.26
+1511,5,3,two,1,18.82,I,mount,N,NA,,female,3.54
+1512,5,3,two,2,40.68,I,mount,U,NA,,female,1.4
+1513,5,3,two,3,64.57,I,mount,W,staying still,trying from left side,female,12.13
+1514,5,3,two,3,65.79,I,mount,T,NA,,female,23.67
+1515,5,3,two,4,72.63,I,mount,M,NA,,female,64.08
+1516,5,3,two,3,67.81,I,mount,T,NA,,female,48.78
+1517,5,3,two,4,75.03,I,mount,T,NA,,female,55.62
+1518,5,3,two,4,75.1,I,mount,T,moved away,,female,50.8
+1519,5,3,two,3,62.63,I,mount,O,ran away after,from left side,female,3.21
+1520,5,3,two,4,81.7,I,mount,S,NA,,female,19.43
+1521,5,3,two,3,63.57,K,mount,V,ran away,,female,13.32
+1522,5,3,two,3,63.6,D,mount,V,ran away and out of shelter,,female,13.35
+1523,5,3,two,4,84.55,I,mount,V,NA,"entered 1 at 12:40 PM, got off at 12:40 PM",female,34.3
+1524,5,3,two,4,84.68,I,mount,V,ran into group,,female,34.43
+1525,5,3,two,4,84.68,D,mount,V,shook,,female,34.43
+1526,5,3,two,3,60.72,I,mount,Q,"started walking at 12:44 PM, climbed wall at 12:48 PM","got under on left at 12:46 PM, ",female,51.07
+1527,5,3,two,3,63.68,D,mount,O,ran away,,female,4.26
+1528,5,3,two,3,64.07,I,mount,R,ran away,,female,1.7
+1529,5,3,two,4,75.24,I,mount,T,NA,,female,46.67
+1530,5,3,two,3,61.13,I,mount,P,walked around,,female,0.78
+1531,5,3,two,3,63.15,K,mount,P,ran away into corner of arena,,female,2.8
+1532,5,3,two,4,86.1,I,mount,P,NA,,female,25.75
+1533,5,3,two,3,61.52,I,mount,Q,started walking ,got off at 1:34 PM,female,51.87
+1534,5,3,two,3,64.67,I,mount,W,staying still; ran away after,trying to mate from left side,female,12.23
+1535,5,3,two,4,82,I,mount,S,NA,,female,19.73
+1536,5,3,two,4,86.15,I,mount,P,NA,,female,25.8
+1537,5,3,two,4,84.7,D,mount,V,ran into group,,female,34.45
+1538,5,3,two,4,82.1,I,mount,S,NA,,female,19.83
+1539,5,3,two,4,84.7,I,mount,V,ran into corner,got off at 12:47 PM,female,34.45
+1540,5,3,two,4,82.2,D,mount,S,6. moved around,,female,19.93
+1541,5,3,two,4,86.72,I,mount,V,NA,,female,36.47
+1542,5,3,two,4,82.37,I,mount,S,shook,,female,20.1
+1543,5,3,two,4,82.47,I,mating,S,6. moved around,,female,20.2
+1544,5,3,two,3,64.27,I,mount,R,ran away,trying from left side,female,1.9
+1545,5,3,two,4,82.73,G,mount,S,shook,,female,0.26
+1546,5,3,two,4,87.08,I,mount,V,"started walking at 3:06 PM, was walking among walls at 3:09 PM and pushed .8 against wall, got off at 3:09 PM",,female,36.83
+1547,5,3,two,4,87.62,I,mount,V,started walking at 3:38 PM then .8 got off,,female,37.37
+1548,5,3,two,4,88.17,I,mount,V,walked around,got off at 4:13 PM,female,37.92
+1549,5,3,two,3,64.8,I,mount,W,staying still,trying from left side,female,12.36
+1550,5,3,two,4,84.27,G,mount,S,NA,,female,1.8
+1551,5,3,two,3,64.63,I,mount,R,staying still,,female,2.26
+1552,5,3,two,4,86.52,I,mount,S,walked around,,female,4.05
+1553,5,3,two,4,72.64,I,mount,M,shook,,female,64.09
+1554,5,3,two,4,88.22,I,mount,V,walked around,got off at 4:15 PM,female,37.97
+1555,5,3,two,4,88.25,I,mount,V,walked around,got off at 4:16 PM,female,38
+1556,5,3,two,4,89.4,F,mating,V,moved into group of bugs,male got off at 26:36,female,39.15
+1557,5,3,two,4,81.55,I,mount,M,NA,,female,73
+1558,5,3,two,4,82.62,I,mount,M,NA,,female,74.07
+1559,5,3,two,4,86.77,I,mount,S,started walking at 2:47 PM,,female,4.3
+1560,5,3,two,4,75.46,I,mount,T,NA,,female,65.61
+1561,5,3,two,4,82.58,J,mount,T,NA,,female,69.76
+1562,5,3,two,3,60.68,A,mount,X,NA,,female,51.26
+1563,5,3,two,3,65.02,F,mating,W,NA,,female,12.58
+1564,5,3,two,4,82.72,J,mount,T,NA,,female,43.67
+1565,5,3,two,3,61.83,J,mount,Q,NA,,female,52.18
+1566,5,3,two,3,50.02,I,mount,N,NA,,female,34.74
+1567,5,3,two,5,105.55,K,mount,V,walked around,,female,16.15
+1568,5,3,two,3,63.43,B,mount,N,stayed still,male got off quickly,female,48.15
+1569,5,3,two,3,64.77,C,mount,R,ran away,,female,2.4
+1570,5,3,two,4,75.44,B,mount,X,NA,,female,66.02
+1571,5,3,two,4,74.4,I,mount,N,NA,,female,59.12
+1572,5,3,two,4,83.2,I,mount,T,,trying to mate from left side,female,58.43
+1573,5,3,two,3,65.03,K,mount,R,NA,,female,2.66
+1574,5,3,two,2,41.28,J,mating,U,moved into group of bugs,male got off at 19:27,female,2
+1575,5,3,two,3,65.09,F,mount,W,NA,,female,0.07
+1576,5,3,two,2,41.39,J,mating,U,ran away,male got off at 27:43,female,0.11
+1577,5,3,two,4,81.28,I,mount,N,NA,,female,66
+1578,5,3,two,4,83.23,J,mount,M,ran away,,female,74.68
+1579,5,3,two,4,75.51,K,mating,X,NA,,female,66.09
+1580,5,3,two,5,106.17,H,mount,X,ran away,,female,30.66
+1581,5,3,two,2,41.81,K,mount,U,NA,male got off quickly,female,0.42
+1582,5,3,two,3,63.68,J,mount,O,ran away and buried herself into aggregation,,female,4.26
+1583,5,3,two,4,87.52,I,mount,S,NA,,female,5.05
+1584,5,3,two,4,87.65,I,mount,S,walked around,got off at 3:43 PM,female,5.18
+1585,5,3,two,4,85.82,G,mount,R,NA,,female,23.45
+1586,5,3,two,4,86.18,I,mount,P,shook,,female,25.83
+1587,5,3,two,5,105.6,K,mount,V,NA,,female,16.2
+1588,5,3,two,5,106.62,I,mount,X,walked around,,female,31.11
+1589,5,3,two,4,81.62,K,mount,W,shook,,female,16.6
+1590,5,3,two,5,105.63,F,mount,V,walked around,,female,16.23
+1591,5,3,two,4,87.78,I,mount,S,walked around,,female,5.31
+1592,5,3,two,3,63.73,J,mount,O,ran away,,female,4.31
+1593,5,3,two,5,106.52,I,mount,V,walked around,9. still walkig around,female,17.12
+1594,5,3,two,4,88.05,I,mount,R,walked around,,female,25.68
+1595,5,3,two,4,88.13,I,mount,S,NA,,female,5.66
+1596,5,3,two,5,108.05,E,mount,V,NA,,female,18.65
+1597,5,3,two,4,86.67,I,mount,P,NA,got off at 2:42 PM,female,26.32
+1598,5,3,two,4,81.62,A,mount,W,NA,,female,16.6
+1599,5,3,two,5,108.13,I,mount,V,NA,,female,18.73
+1600,5,3,two,5,107.73,L,mount,P,NA,,female,47.38
+1601,5,3,two,5,107.55,L,mount,X,NA,,female,32.04
+1602,5,3,two,4,82.17,L,mount,W,NA,,female,17.15
+1603,5,3,two,4,83.17,E,mating,W,ran outside of shelter with .4 on her,,female,18.15
+1604,5,3,two,4,89.87,F,mount,R,NA,male got off quickly,female,27.5
+1605,5,3,two,5,105.32,A,mount,R,NA,,female,42.95
+1606,5,3,two,5,107.58,C,mount,X,ran around shelter,,female,32.07
+1607,5,3,two,4,82.8,I,mount,N,NA,,female,67.52
+1608,5,3,two,5,108.1,I,mount,X,NA,,female,32.59
+1609,5,3,two,5,108.47,I,mount,X,NA,,female,32.96
+1610,5,3,two,4,88.83,K,mount,S,moved away to wall,,female,6.36
+1611,5,3,two,5,108.62,A,mount,X,NA,,female,33.11
+1612,5,3,two,5,108.35,I,mount,P,NA,,female,48
+1613,5,3,two,5,106.6,H,mount,R,NA,,female,44.23
+1614,5,3,two,5,108.47,L,mount,P,NA,,female,48.12
+1615,5,3,two,5,108.23,I,mount,V,NA,,female,18.83
+1616,5,3,two,4,86.4,I,mount,W,turned in spot then started walking,".8 got under on left at 2:30 PM, got off at 2:31 PM",female,3.23
+1617,5,3,two,4,89.07,I,mount,S,moved into group of bugs,,female,6.6
+1618,5,3,two,4,89.42,I,mount,S,moved into group of bugs,,female,6.95
+1619,5,3,two,5,108.28,I,mount,V,started walking at 12:18 PM,got off at 12:20 PM,female,18.88
+1620,5,3,two,5,108.43,I,mount,V,NA,,female,19.03
+1621,5,3,two,4,88.82,I,mount,W,NA,,female,5.65
+1622,5,3,two,5,108.75,L,mount,V,ran away,,female,19.35
+1623,5,3,two,5,108.83,L,mount,V,NA,,female,19.43
+1624,5,3,two,5,108.65,L,mount,X,NA,,female,33.14
+1625,5,3,two,5,106.38,H,mount,W,NA,,female,23.21
+1626,5,3,two,3,65.21,I,mount,O,NA,,female,5.79
+1627,5,3,two,3,65.27,I,mount,O,NA,,female,5.85
+1628,5,3,two,5,104.57,I,mount,M,shook,,female,96.02
+1629,5,3,two,4,83.3,J,mount,T,ran away,,female,48.26
+1630,5,3,two,4,83.35,I,mount,T,,trying to mate from left side,female,87.56
+1631,5,3,two,4,80.11,I,mount,O,NA,,female,20.69
+1632,5,3,two,5,109.1,L,mount,V,ran away,,female,19.7
+1633,5,3,two,5,102.72,I,mount,N,shook,,female,87.44
+1634,5,3,two,5,109.18,L,mount,V,na,,female,19.78
+1635,5,3,two,5,106.48,D,mount,N,NA,,female,91.2
+1636,5,3,two,5,107.27,I,mount,W,"ran away, started walking at 11:20 AM",got off at 11:24 AM,female,24.1
+1637,5,3,two,5,108.13,L,mount,W,NA,,female,24.96
+1638,5,3,two,4,89.73,I,mount,S,walks into group of bugs,got off at 12:59,female,7.26
+1639,5,3,two,5,106.82,H,mount,R,shook,,female,44.45
+1640,5,3,two,5,107.7,A,mount,R,walked around shelter,,female,45.33
+1641,5,3,two,5,105.5,I,mating,M,walked around,"got under on the left side, got off at 9:35 AM and didn't try to re mount",female,96.95
+1642,5,3,two,5,105.68,I,mount,M,NA,,female,0.18
+1643,5,3,two,4,83.45,I,mount,T,stayed still,trying to mate from left side,female,88.49
+1644,5,3,two,4,86.08,E,mount,T,NA,,female,88.67
+1645,5,3,two,5,105.73,I,mount,M,shook,,female,0.23
+1646,5,3,two,5,99.4,I,mount,T,NA,,female,69.07
+1647,5,3,two,5,108.4,G,mount,W,ran away,,female,25.23
+1648,5,3,two,5,109.22,G,mount,V,ran away,,female,19.82
+1649,5,3,two,4,81.75,G,mount,O,NA,,female,22.33
+1650,5,3,two,5,109.82,I,mating,V,trying very hard to shake .8 off ,from left side but looked like a mating??,female,20.42
+1651,5,3,two,5,108.72,I,mount,P,NA,,female,48.37
+1652,5,3,two,4,84.07,I,mount,O,NA,,female,24.65
+1653,5,3,two,5,105.45,J,mount,S,walked around,,female,22.98
+1654,5,3,two,5,105.73,D,mount,S,NA,,female,23.26
+1655,5,3,two,5,99.67,B,mount,T,NA,,female,88.44
+1656,5,3,two,5,108.65,I,mount,X,NA,,female,33.14
+1657,5,3,two,5,107.52,H,mount,M,NA,,female,2.02
+1658,5,3,two,5,106.58,D,mount,N,NA,,female,91.3
+1659,5,3,two,4,85.38,B,mount,O,ran out of shelter,,female,25.96
+1660,5,3,two,5,108.48,D,mount,W,NA,,female,25.31
+1661,5,3,two,5,108.5,G,mount,W,NA,,female,25.33
+1662,5,3,two,5,110.15,G,mount,V,stayed still then ran away after,.6 left on his own,female,0.33
+1663,5,3,two,5,108.78,I,mount,W,NA,,female,25.61
+1664,5,3,two,5,111.2,A,mating,V,staying still,,female,1.38
+1665,5,3,two,5,109.12,L,mount,W,,,female,25.95
+1666,5,3,two,5,109.72,A,mating,M,staying still; then started walking around after a while,lasting a long time (>3 minutes),female,4.22
+1667,5,3,two,5,99.96,I,mount,T,NA,,female,92.11
+1668,5,3,two,5,109.47,E,mount,W,pressed against arena wall,was already pressed prior to the mount,female,26.3
+1669,5,3,two,5,110.45,K,mating,M,staying still,,female,0.73
+1670,5,3,two,5,110.48,G,mount,M,staying still,male left on his own quickly,female,0.76
+1671,5,3,two,5,106.65,D,mount,N,NA,,female,91.37
+1672,5,3,two,5,110.27,J,mount,W,ran away,,female,27.1
+1673,5,3,two,5,111.07,G,mating,M,stayed still,,female,1.35
+1674,5,3,two,5,110.3,G,mount,W,ran away,,female,27.13
+1675,5,3,two,5,111.67,J,mount,M,stayed still during mount then ran away,,female,0.6
+1676,5,3,two,5,108.25,G,mount,R,ran away,,female,45.88
+1677,5,3,two,5,112.47,I,mount,M,staying still,trying to mate from left side,female,1.4
+1678,5,3,two,5,111.15,I,mount,W,ran away,,female,27.98
+1679,5,3,two,2,42.76,I,mount,U,moved away,"male got off at 06:01, possibly a mating but doesn't look like it",female,1.37
+1680,5,3,two,5,108.73,E,mount,P,NA,,female,48.38
+1681,5,3,two,5,118.5,I,mount,M,NA,,female,7.43
+1682,5,3,two,5,111.3,J,mount,V,running around until male fell off,,female,0.1
+1683,5,3,two,5,107.65,E,mount,S,NA,,female,25.18
+1684,5,3,two,6,129.27,K,mount,M,NA,still on 0.,female,18.2
+1685,5,3,two,6,129.32,I,mount,M,NA,,female,18.25
+1686,5,3,two,6,129.47,L,mount,M,NA,,female,18.4
+1687,5,3,two,5,107.62,E,mount,O,NA,,female,48.2
+1688,5,3,two,2,43.38,I,mount,U,NA,male got off at 09:36,female,1.99
+1689,5,3,two,6,129.58,I,mount,M,NA,,female,18.51
+1690,5,3,two,6,129.75,G,mount,M,shook,0. exit 1 (ran away),female,18.68
+1691,5,3,two,6,130.37,L,mount,M,NA,0. on .3,female,19.3
+1692,5,3,two,6,130.57,I,mount,M,walking around,,female,19.5
+1693,5,3,two,5,111.3,I,mount,P,stayed still then ran after male left,trying to mate from left side,female,50.95
+1694,5,3,two,6,130.62,I,mount,M,ran away,,female,19.55
+1695,5,3,two,2,43.48,I,mount,U,moved away,"male got off at 17:17, might be a mating",female,2.09
+1696,5,3,two,5,108.53,A,mount,R,ran around in circles,,female,46.16
+1697,5,3,two,6,130.68,K,mount,M,NA,,female,19.61
+1698,5,3,two,5,108.58,I,mount,R,NA,,female,46.21
+1699,5,3,two,6,130.73,I,mount,M,ran away,,female,19.66
+1700,5,3,two,5,108.72,I,mount,R,NA,,female,46.35
+1701,5,3,two,6,131.42,D,mating,M,NA,"0. approached enterance of 1, .3 came out to mate",female,20.35
+1702,5,3,two,6,131.58,I,mount,M,NA,".8 very curled but 0. pressed flat to ground, got off at 11:40 AM",female,0.16
+1703,5,3,two,6,131.67,I,mount,M,0. climbed wall,got off at 11:42 AM,female,0.25
+1704,5,3,two,5,108.22,I,mount,O,NA,,female,48.8
+1705,5,3,two,5,109.5,L,mount,O,pressed against shelter wall,was already pressed prior to the mount,female,50.08
+1706,5,3,two,5,110.38,A,mating,R,"ran into shelter 1, then back out",,female,1.66
+1707,5,3,two,4,85.37,D,mount,Q,NA,,female,75.72
+1708,5,3,two,4,86.28,I,mount,Q,ran into group of bugs,,female,76.63
+1709,5,3,two,5,110.42,I,mount,R,running around,.8 is grabbing onto her from the left side (not mating) while .0 is still mating with her,female,1.7
+1710,5,3,two,6,129.67,C,mount,R,shook and moved around,,female,20.95
+1711,5,3,two,6,131.7,I,mount,M,started walking at 11:44 AM,got under at 11:43 AM but 0. moved off wall and pressed flat to ground,female,0.28
+1712,5,3,two,6,132.07,D,mount,R,ran into corner,,female,23.35
+1713,5,3,two,6,132.25,D,mount,R,ran away,,female,23.53
+1714,5,3,two,6,132.35,I,mount,R,walking around,,female,23.63
+1715,5,3,two,6,132.82,I,mount,R,NA,,female,24.1
+1716,5,3,two,6,132.13,I,mount,M,"climbed wall, started walking at 12:12 PM and .8 fell off",,female,0.71
+1717,5,3,two,6,133.23,I,mount,R,NA,,female,24.51
+1718,5,3,two,6,132.28,D,mount,M,climbed wall,,female,0.86
+1719,5,3,two,5,106,I,mount,T,ran into shelter,,female,116.22
+1720,5,3,two,5,109.5,K,mount,O,ran away,,female,50.08
+1721,5,3,two,5,109.82,E,mount,O,stayed still then ran away after,,female,50.4
+1722,5,3,two,5,108.68,E,mount,X,NA,,female,33.17
+1723,5,3,two,6,130.35,L,mount,P,NA,,female,70
+1724,5,3,two,6,131.68,H,mount,P,NA,,female,71.33
+1725,5,3,two,6,133.27,I,mount,R,climbed wall,,female,24.55
+1726,5,3,two,6,132.57,I,mount,M,climbed wall,,female,1.15
+1727,5,3,two,6,133.32,I,mount,R,NA,stayed on until 1:26 PM,female,24.6
+1728,5,3,two,6,133.45,I,mount,R,NA,,female,24.73
+1729,5,3,two,6,133.58,K,mount,R,NA,,female,24.86
+1730,5,3,two,6,132.6,I,mount,M,NA,,female,1.18
+1731,5,3,two,6,132.63,I,mount,M,NA,,female,1.21
+1732,5,3,two,6,133.28,I,mount,M,ran away,,female,1.86
+1733,5,3,two,6,133.58,D,mount,R,NA,,female,24.86
+1734,5,3,two,6,133.65,D,mount,R,NA,,female,24.93
+1735,5,3,two,6,134.73,D,mount,R,NA,,female,26.01
+1736,5,3,two,6,135.45,I,mount,R,5. tried to run away but stopped when .8 got on,,female,26.73
+1737,5,3,two,5,106.02,J,mount,T,ran into corner,,female,117.72
+1738,5,3,two,5,111.27,L,mount,O,ran away at first then stayed still,male left on his own quickly,female,51.85
+1739,5,3,two,2,43.92,I,mating,U,turned in place,male got off at 10:36,female,2.53
+1740,5,3,two,3,62.27,L,mount,U,,,female,18.35
+1741,5,3,two,6,133.6,I,mount,M,"walked forward and pushed butt tp ground, shook",,female,2.18
+1742,5,3,two,6,134.37,I,mount,P,NA,,female,74.02
+1743,5,3,two,5,107.68,L,mount,S,fell off shelter wall,,female,25.21
+1744,5,3,two,6,134.65,I,mount,P,shook,,female,74.3
+1745,5,3,two,4,89.05,I,mount,Q,NA,,female,79.4
+1746,5,3,two,5,111.43,G,mount,O,stayed still during mount then ran away,,female,52.01
+1747,5,3,two,5,108.2,I,mount,S,NA,,female,25.73
+1748,5,3,two,5,108.28,L,mount,S,NA,,female,25.81
+1749,5,3,two,5,108.68,I,mount,S,started walking at 12:42 PM,,female,26.21
+1750,5,3,two,5,108.8,E,mount,S,walked around,,female,26.33
+1751,5,3,two,5,107.42,B,mount,N,shook and walked around,,female,92.14
+1752,5,3,two,5,111.82,I,mount,W,walking around,trying to mate from left side,female,28.65
+1753,5,3,two,3,63.17,B,mount,U,stayed still,.1 got off on his own,female,19.25
+1754,5,3,two,5,108.65,L,mount,N,ran away,,female,93.37
+1755,5,3,two,5,110.12,I,mount,N,walking around,trying to mate from left side,female,94.84
+1756,5,3,two,5,106.45,E,mount,Q,NA,,female,96.8
+1757,5,3,two,5,113.03,I,mount,Q,NA,,female,103.38
+1758,5,3,two,3,63.45,F,mount,U,stayed still,male got ff quickly,female,19.53
+1759,5,3,two,5,112.08,I,mount,W,staying still; now walking around; ,trying to mate from left side,female,28.91
+1760,5,3,two,5,112.23,G,mount,W,stayed still during mount then walked away,,female,29.06
+1761,5,3,two,5,112.27,I,mount,W,staying still,trying to mate from left side,female,29.1
+1762,5,3,two,5,112.15,I,mount,V,shook him off then ran away,,female,0.95
+1763,5,3,two,5,112.72,I,mount,W,staying still,trying to mate from left side,female,29.55
+1764,5,3,two,3,65.43,I,mount,U,NA,,female,21.51
+1765,5,3,two,4,83.1,A,mating,U,,,female,39.18
+1766,5,3,two,5,107.23,B,mount,U,ran away,,female,24.13
+1767,5,3,two,5,107.28,C,mount,U,ran into corner,,female,24.18
+1768,5,3,two,6,135.47,I,mount,R,"5. tried to run away but stopped when .8 got on, started walking at 3:29 PM",,female,26.75
+1769,5,3,two,6,135.57,D,mount,R,NA,,female,26.85
+1770,5,3,two,5,107.6,L,mount,U,NA,,female,24.5
+1771,5,3,two,6,136.55,I,mount,R,NA,,female,27.83
+1772,5,3,two,5,111.82,B,mount,O,ran out of shelter,,female,52.4
+1773,5,3,two,5,113.57,B,mount,U,moved around,,female,30.47
+1774,5,3,two,5,114.36,I,mount,U,NA ,,female,31.26
+1775,5,3,two,5,109.43,K,mount,X,stayed still then ran away after,,female,33.92
+1776,5,3,two,5,113.13,I,mount,O,moved around,,female,53.71
+1777,5,3,two,5,114.37,I,mount,O,NA,,female,54.95
+1778,5,3,two,6,136.57,I,mount,R,NA,,female,27.85
+1779,5,3,two,6,129.43,J,mount,W,NA,,female,46.26
+1780,5,3,two,6,136.73,I,mount,R,NA,,female,28.01
+1781,5,3,two,6,129.48,F,mount,W,shook,,female,46.31
+1782,5,3,two,5,115.3,I,mount,O,NA,,female,55.88
+1783,5,3,two,6,130.7,D,mount,O,NA,,female,71.28
+1784,5,3,two,6,130.2,A,mount,U,NA,,female,47.1
+1785,5,3,two,5,106.43,J,mount,T,NA,,female,113.69
+1786,5,3,two,5,106.65,D,mount,T,shook,,female,113.19
+1787,5,3,two,5,109.73,E,mount,T,ran away,,female,89.42
+1788,5,3,two,5,110.25,K,mount,N,stayed still then ran away after,,female,94.97
+1789,5,3,two,5,112.25,I,mount,V,wedged herself against arena wall,trying to mate from left side,female,1.05
+1790,5,3,two,6,129.77,J,mount,W,NA,,female,46.6
+1791,5,3,two,6,133.75,K,mount,M,NA,,female,2.33
+1792,5,3,two,6,135.2,C,mount,M,"ran away, .2 got off and stacked on .4",,female,3.78
+1793,5,3,two,6,135.65,J,mount,M,ran away,,female,4.23
+1794,5,3,two,5,108.82,L,mount,S,NA,,female,26.35
+1795,5,3,two,6,136.78,I,mount,R,NA,5. had approached .8 and .8 turned around and mounted 5.,female,28.06
+1796,5,3,two,6,133.1,E,mount,Q,NA,,female,123.45
+1797,5,3,two,5,110.35,I,mount,S,running around,trying to mate from left side,female,27.88
+1798,5,3,two,5,111.48,D,mount,S,running around until male fell off,,female,29.01
+1799,5,3,two,6,130.42,G,mount,V,NA,,female,19.22
+1800,5,3,two,6,132.67,L,mount,O,NA,,female,73.25
+1801,5,3,two,5,111.65,I,mount,X,ran away,trying to mate from left side,female,36.14
+1802,5,3,two,6,134.35,I,mount,X,NA,,female,58.84
+1803,5,3,two,5,109.8,H,mount,T,pressed against shelter wall,,female,94.64
+1804,5,3,two,5,110.67,A,mating,T,stayed still then walked around a bit,,female,117.34
+1805,5,3,two,5,110.72,G,mount,T,running around,mounted her while she was still mating with .0,female,0.05
+1806,5,3,two,5,111.08,I,mount,T,running around,trying to mate from left side,female,0.41
+1807,5,3,two,5,111.5,I,mount,S,,trying to mate from left side,female,29.03
+1808,5,3,two,5,113.67,I,mount,S,moved around,,female,31.2
+1809,5,3,two,5,111.7,I,mount,N,ran away,trying to mate from left side,female,96.42
+1810,5,3,two,6,133.1,C,mount,Q,NA,looked like .2 was trying to get to 4.,female,123.45
+1811,5,3,two,6,132.68,L,mount,O,moved into group of bugs,,female,73.26
+1812,5,3,two,6,130.72,D,mount,U,NA,,female,47.62
+1813,5,3,two,6,130.5,G,mount,S,NA,,female,48.03
+1814,5,3,two,6,132.03,H,mount,U,NA,,female,48.93
+1815,5,3,two,6,134.08,I,mount,O,NA,,female,74.66
+1816,5,3,two,6,134.22,I,mount,O,NA,,female,74.8
+1817,5,3,two,5,111.57,I,mount,T,ran away,trying to mate from left side,female,0.9
+1818,5,3,two,5,112.68,L,mount,T,ran into large aggregation,male left on his own,female,2.01
+1819,5,3,two,6,135.68,J,mating,M,"shook and entered 2, walked into corner",,female,4.26
+1820,5,3,two,5,116.56,G,mating,T,NA,,female,5.89
+1821,5,3,two,5,116.66,I,mount,T,NA,,female,0.1
+1822,5,3,two,6,120.04,I,mount,T,NA,,female,3.48
+1823,5,3,two,6,129.33,I,mount,N,NA,,female,114.05
+1824,5,3,two,6,135.83,J,mount,M,NA,,female,0.15
+1825,5,3,two,6,133.82,L,mount,T,ran into group of bugs,,female,17.26
+1826,5,3,two,6,142,I,mount,T,NA,difficult to see if .8 mounted 7. or the bug beside it,female,25.44
+1827,5,3,two,6,142.46,I,mount,T,NA,,female,25.9
+1828,5,3,two,6,143.01,I,mount,T,shook,,female,26.45
+1829,5,3,two,6,143.05,I,mount,T,NA,,female,26.49
+1830,5,3,two,6,143.11,J,mount,T,shook,,female,26.55
+1831,5,3,two,6,143.21,I,mount,T,NA,,female,26.65
+1832,5,3,two,6,143.78,I,mount,T,NA,,female,27.22
+1833,5,3,two,6,137.07,I,mount,X,NA,,female,61.56
+1834,5,3,two,6,137.19,I,mount,X,NA,,female,61.68
+1835,6,3,twelve,1,8.53,F,mating,Q,staying still,,female,N/A
+1836,6,3,twelve,1,8.55,D,mating,W,,,female,N/A
+1837,6,3,twelve,1,8.7,A,mating,M,staying still,,female,N/A
+1838,6,3,twelve,1,9.07,D,mating,V,staying still,,female,N/A
+1839,6,3,twelve,1,9.12,B,mating,M,staying still,,female,0.42
+1840,6,3,twelve,1,9.13,K,mating,X,staying still,,female,N/A
+1841,6,3,twelve,1,0.08,L,mount,O,NA,,female,N/A
+1842,6,3,twelve,1,9.42,L,mating,R,staying still,,female,N/A
+1843,6,3,twelve,1,9.6,L,mount,W,staying still,,female,1.05
+1844,6,3,twelve,1,9.6,F,mount,W,was being mounted by :1 at the time,:1 came off and mounted .5 back,female,1.05
+1845,6,3,twelve,1,10.35,F,mating,X,staying still,,female,1.22
+1846,6,3,twelve,1,10.5,L,mount,P,pressed against wall,,female,N/A
+1847,6,3,twelve,1,10.78,E,mating,N,staying still,,female,N/A
+1848,6,3,twelve,1,11.05,H,mount,S,staying still,,female,N/A
+1849,6,3,twelve,1,11.1,H,mount,S,staying still; then entered 8,,female,N/A
+1850,6,3,twelve,1,11.15,J,mount,R,ran away,,female,1.73
+1851,6,3,twelve,1,11.17,H,mount,S,running away,,female,N/A
+1852,6,3,twelve,1,11.18,J,mount,X,walking around,.9 not getting under properly,female,0.83
+1853,6,3,twelve,1,11.22,C,mount,N,ran away,,female,0.44
+1854,6,3,twelve,1,11.23,J,mount,X,staying still,.9 not getting under properly,female,0.88
+1855,6,3,twelve,1,11.27,C,mating,S,walking around a bit,,female,N/A
+1856,6,3,twelve,1,11.4,G,mating,P,,,female,N/A
+1857,6,3,twelve,1,11.47,C,mount,U,ran away,,female,N/A
+1858,6,3,twelve,1,11.6,E,mount,S,running all over arena,briefly entered shelter 9 then ran back out,female,0.33
+1859,6,3,twelve,1,11.62,C,mating,R,staying still,,female,2.2
+1860,6,3,twelve,1,11.63,A,mount,P,ran away,,female,0.23
+1861,6,3,twelve,1,11.73,F,mount,R,staying still,.2 was still on her too,female,0.11
+1862,6,3,twelve,1,12.02,B,mating,R,walking around,,female,0.4
+1863,6,3,twelve,1,12.1,J,mount,W,ran away,.9 not doing a good job attempting to mate,female,3.55
+1864,6,3,twelve,1,12.35,G,mount,M,na,,female,3.23
+1865,6,3,twelve,1,12.35,K,mount,S,ran away,,female,1.08
+1866,6,3,twelve,1,12.4,K,mount,X,na,,female,2.05
+1867,6,3,twelve,1,12.4,H,mating,Q,staying still,,female,3.87
+1868,6,3,twelve,1,12.47,E,mount,M,ran away,,female,3.35
+1869,6,3,twelve,1,12.47,K,mount,M,ran away,,female,3.35
+1870,6,3,twelve,1,12.5,K,mount,X,na,,female,2.15
+1871,6,3,twelve,1,12.57,C,mating,T,staying still,,female,N/A
+1872,6,3,twelve,1,12.63,C,mount,T,walking around,male just continued staying on her as she walked around,female,0.06
+1873,6,3,twelve,1,12.68,J,mount,X,staying still,male can't get under,female,2.33
+1874,6,3,twelve,1,12.7,G,mount,S,running around; then broke free and ran away,,female,1.43
+1875,6,3,twelve,1,12.72,K,mating,Q,staying still,,female,0.32
+1876,6,3,twelve,1,12.75,G,mating,U,na,,female,N/A
+1877,6,3,twelve,1,12.77,J,mating,Q,staying still; then walking around ,,female,0.05
+1878,6,3,twelve,1,12.8,C,mount,Q,ran away,,female,0.03
+1879,6,3,twelve,1,13.17,K,mount,M,na,,female,4.05
+1880,6,3,twelve,1,13.22,H,mount,M,na,,female,4.1
+1881,6,3,twelve,1,13.32,H,mount,M,na,.7 couldn't get under,female,4.2
+1882,6,3,twelve,1,13.35,L,mating,X,walking around; went to feeder and attemped to feed?,,female,3
+1883,6,3,twelve,1,13.4,B,mount,W,na,,female,4.85
+1884,6,3,twelve,1,14.1,A,mount,N,walked around,,female,3.32
+1885,6,3,twelve,1,14.23,C,mount,M,na,,female,5.11
+1886,6,3,twelve,1,14.27,J,mount,T,shook,got off at 2:18 PM,female,1.7
+1887,6,3,twelve,1,9.4,K,mating,O,staying still,,female,N/A
+1888,6,3,twelve,1,14.3,C,mount,O,ran away,,female,4.9
+1889,6,3,twelve,1,14.32,J,mount,Q,walked into 8,,female,1.55
+1890,6,3,twelve,1,14.35,L,mount,T,walked around,,female,1.78
+1891,6,3,twelve,1,14.4,C,mount,W,walked around,,female,5.85
+1892,6,3,twelve,1,14.42,C,mount,X,tried to get away then stopped,,female,1.07
+1893,6,3,twelve,1,14.52,G,mount,U,na,,female,1.77
+1894,6,3,twelve,1,14.52,A,mount,V,na,,female,5.45
+1895,6,3,twelve,1,14.53,G,mount,U,"entered 6, pushed against wall to get .6 off",,female,1.78
+1896,6,3,twelve,1,14.55,L,mount,U,walked around,,female,1.8
+1897,6,3,twelve,1,14.55,I,mount,M,walked around,,female,5.43
+1898,6,3,twelve,1,14.67,K,mount,T,walked around,,female,2.1
+1899,6,3,twelve,1,14.83,G,mount,T,na,,female,2.26
+1900,6,3,twelve,1,15.13,H,mount,Q,ran out from under,,female,2.36
+1901,6,3,twelve,1,15.15,H,mount,R,na,,female,3.13
+1902,6,3,twelve,1,15.17,G,mount,S,na,,female,3.9
+1903,6,3,twelve,1,15.22,K,mount,U,moved around,,female,2.47
+1904,6,3,twelve,1,15.22,L,mount,N,walked around,,female,4.44
+1905,6,3,twelve,1,15.25,G,mount,U,walked around,,female,2.5
+1906,6,3,twelve,1,15.3,F,mount,X,na,,female,1.95
+1907,6,3,twelve,1,15.38,H,mount,U,na,,female,2.63
+1908,6,3,twelve,1,15.4,J,mount,N,ran away,,female,4.62
+1909,6,3,twelve,1,15.78,C,mount,S,na,,female,4.51
+1910,6,3,twelve,1,14.32,F,mount,O,na,,female,4.92
+1911,6,3,twelve,1,16.25,E,mount,R,Na,,female,4.23
+1912,6,3,twelve,1,16.33,K,mount,S,na,,female,5.06
+1913,6,3,twelve,1,16.4,J,mount,V,ran away,,female,7.33
+1914,6,3,twelve,1,16.45,C,mount,R,na,,female,4.43
+1915,6,3,twelve,1,16.63,G,mount,P,ran away,,female,5.23
+1916,6,3,twelve,1,16.73,G,mount,N,moved around and exited shelter,,female,5.95
+1917,6,3,twelve,1,16.75,G,mount,N,exited shelter,,female,5.97
+1918,6,3,twelve,1,16.77,G,mount,U,walked around,,female,4.02
+1919,6,3,twelve,1,16.78,G,mount,R,ran into group,8. was beside 5. and ran away to touch 7.,female,4.76
+1920,6,3,twelve,1,16.1,C,mount,O,ran away with .2 ontop,,female,6.7
+1921,6,3,twelve,2,34.48,G,mount,T,NA,,female,21.91
+1922,6,3,twelve,2,34.5,G,mount,T,NA,,female,21.93
+1923,6,3,twelve,2,36.23,I,mount,P,walked around,3. had approached and touched .8 before mount happened,female,24.83
+1924,6,3,twelve,2,36.43,G,mount,T,NA,,female,23.86
+1925,6,3,twelve,2,36.62,G,mount,S,NA,male got off on his own at 12:39 PM,female,25.35
+1926,6,3,twelve,2,38.22,E,mount,P,ran away,.4 hung on back but didn't get on top,female,26.82
+1927,6,3,twelve,2,39.13,A,mount,P,walked around into group of bugs (4. and 2.),,female,27.73
+1928,6,3,twelve,1,17.06,G,mount,O,NA,,female,7.66
+1929,6,3,twelve,1,17.07,G,mount,O,NA,,female,7.67
+1930,6,3,twelve,1,17.19,L,mount,O,,,female,7.79
+1931,6,3,twelve,1,17.44,L,mount,O,shook,male got off quickly,female,8.04
+1932,6,3,twelve,1,17.48,L,mount,O,NA,male got off quickly,female,8.08
+1933,6,3,twelve,1,17.49,L,mount,O,NA,,female,8.09
+1934,6,3,twelve,2,40.35,R,mount,U,NA,8. tried to enter and 5. came out to mount,female,27.6
+1935,6,3,twelve,1,17.56,L,mount,O,NA,,female,8.16
+1936,6,3,twelve,3,58.5,P,mount,U,NA,,female,45.75
+1937,6,3,twelve,3,59.4,G,mount,W,NA,,female,50.85
+1938,6,3,twelve,3,59.62,I,mount,W,NA,,female,51.07
+1939,6,3,twelve,2,41.09,G,mount,T,NA,male got off at 5:55,female,28.52
+1940,6,3,twelve,2,41.02,J,mount,S,ran away,,female,29.75
+1941,6,3,twelve,3,60.62,H,mount,P,walked around,,female,49.22
+1942,6,3,twelve,3,61.05,H,mount,P,walking around,.7 not under or mating but staying on for a long time,female,49.65
+1943,6,3,twelve,3,61.17,L,mount,W,pressed against shelter wall,,female,52.62
+1944,6,3,twelve,3,61.2,I,mating,M,staying still,,female,52.08
+1945,6,3,twelve,3,61.22,H,mount,P,staying still,mounted while 3. was feeding,female,49.82
+1946,6,3,twelve,1,17.72,L,mount,O,NA,,female,8.32
+1947,6,3,twelve,3,61.3,D,mount,M,ran away and out of shelter,,female,0.1
+1948,6,3,twelve,1,17.75,L,mount,O,walked around,,female,8.35
+1949,6,3,twelve,1,17.89,L,mount,O,ran away,,female,8.49
+1950,6,3,twelve,3,61.6,L,mating,M,staying still,,female,0.4
+1951,6,3,twelve,3,60.33,G,mount,T,NA,,female,47.76
+1952,6,3,twelve,3,61.82,A,mount,T,"was already pressed agianst wall, male couldn't get under",,female,49.25
+1953,6,3,twelve,1,17.01,C,mount,Q,NA,male got off quickly,female,4.24
+1954,6,3,twelve,3,62.43,D,mount,M,ran away,,female,0.83
+1955,6,3,twelve,3,60.4,I,mount,S,NA,,female,49.13
+1956,6,3,twelve,3,62.57,J,mount,S,running around very frantically,male can't get under,female,51.3
+1957,6,3,twelve,1,23.42,A,mating,Q,NA,,female,10.65
+1958,6,3,twelve,3,62.68,D,mating,M,staying still,,female,1.08
+1959,6,3,twelve,3,62.7,G,mating,P,staying still,,female,51.3
+1960,6,3,twelve,3,62.6,F,mount,S,ran around until male fell off then left,,female,51.33
+1961,6,3,twelve,3,63.15,K,mount,P,was against wall,,female,0.45
+1962,6,3,twelve,3,61.82,J,mount,T,stayed still,male not under,female,49.25
+1963,6,3,twelve,1,17.92,L,mount,O,NA,,female,8.52
+1964,6,3,twelve,3,63.45,A,mount,W,stayed still against shelter wall then entered 12 after .0 got off,,female,54.9
+1965,6,3,twelve,3,63.47,L,mount,W,stayed still against shelter wall,,female,54.92
+1966,6,3,twelve,3,63.5,L,mount,W,ran into corner,,female,54.95
+1967,6,3,twelve,1,22.86,L,mount,O,NA,,female,13.46
+1968,6,3,twelve,2,41.01,K,mount,X,NA,,female,27.66
+1969,6,3,twelve,3,64.22,G,mount,U,ran away and out of shelter,,female,51.47
+1970,6,3,twelve,2,34.43,L,mount,O,NA,,female,25.03
+1971,6,3,twelve,3,64.3,J,mount,U,pressed against shelter wall,,female,51.55
+1972,6,3,twelve,3,64.32,J,mount,U,ran into corner and pressed against wall,,female,51.57
+1973,6,3,twelve,3,63.15,A,mount,T,pressed against shelter wall,,female,50.58
+1974,6,3,twelve,1,17.13,L,mount,N,walked around,"male got off at 10:36, couldn't really see if he got into mating position",female,6.35
+1975,6,3,twelve,4,81.77,H,mount,N,NA,,female,70.99
+1976,6,3,twelve,4,81.83,H,mount,N,shook,,female,71.05
+1977,6,3,twelve,3,64.08,H,mount,X,staying still but was already pressed against shelter corner,male couldn't get under,female,50.73
+1978,6,3,twelve,4,82.18,H,mount,N,NA,still on 1.,female,71.4
+1979,6,3,twelve,4,82.77,B,mount,N,moved around,,female,71.99
+1980,6,3,twelve,3,66.23,J,mount,P,moved away,,female,3.53
+1981,6,3,twelve,3,64.65,L,mating,T,staying still,,female,52.08
+1982,6,3,twelve,3,66.12,J,mount,M,moved away,,female,3.44
+1983,6,3,twelve,4,73.49,L,mating,T,moved into corner,,female,8.84
+1984,6,3,twelve,4,83.3,L,mount,T,NA,,female,9.81
+1985,6,3,twelve,4,84.38,C,mating,U,shook,male got off at 12:25 PM,female,71.63
+1986,6,3,twelve,2,39.52,G,mount,O,NA,,female,30.12
+1987,6,3,twelve,3,66.13,J,mount,M,moved away,,female,3.45
+1988,6,3,twelve,4,82.8,J,mount,N,moved around,,female,72.02
+1989,6,3,twelve,3,66.13,J,mount,M,moved away,,female,3.45
+1990,6,3,twelve,4,85.13,I,mount,N,walked around,,female,74.35
+1991,6,3,twelve,4,75.94,G,mating,X,started walking at 23:43,,female,62.59
+1992,6,3,twelve,4,86.15,H,mount,U,shook,,female,1.77
+1993,6,3,twelve,4,85.3,C,mount,N,walked around,,female,74.52
+1994,6,3,twelve,4,83.32,J,mount,M,NA,,female,20.64
+1995,6,3,twelve,2,39.57,G,mount,O,walked around in shelter,,female,30.17
+1996,6,3,twelve,4,84.8,J,mount,M,moved against shelter wall,,female,22.12
+1997,6,3,twelve,4,85.28,J,mount,M,ran into corner of shelter,,female,22.6
+1998,6,3,twelve,4,86.4,J,mount,M,walked around,,female,23.72
+1999,6,3,twelve,4,86.7,J,mount,M,moved into group of bugs,,female,24.02
+2000,6,3,twelve,4,87.1,E,mount,M,shook,had approached .4 before mount,female,24.42
+2001,6,3,twelve,4,86.17,H,mount,N,NA,,female,75.39
+2002,6,3,twelve,4,76.1,D,mount,X,moved away,"male detached at 31:55, possible mating ",female,0.16
+2003,6,3,twelve,4,82.35,F,mount,X,NA,,female,6.41
+2004,6,3,twelve,4,85.32,R,mount,X,NA,got off at 1:21 PM,female,9.38
+2005,6,3,twelve,5,105.22,G,mount,X,NA,,female,29.28
+2006,6,3,twelve,4,73.63,H,mount,R,walked around,male got off at 20:14,female,61.61
+2007,6,3,twelve,4,73.81,H,mount,R,walked into corner with other bug,male got off at 29:09,female,61.79
+2008,6,3,twelve,2,44.24,A,mount,Q,NA,,female,20.82
+2009,6,3,twelve,2,39.8,G,mount,O,NA,,female,30.4
+2010,6,3,twelve,2,40.03,D,mount,O,ran away,,female,30.63
+2011,6,3,twelve,5,105.32,G,mount,X,shook,,female,29.38
+2012,6,3,twelve,5,105.35,G,mount,X,ran away,,female,29.41
+2013,6,3,twelve,4,73.91,H,mount,R,NA,,female,61.89
+2014,6,3,twelve,3,63.07,L,mating,S,walking around; entered 12,,female,51.8
+2015,6,3,twelve,4,83.65,L,mating,T,NA,,female,10.16
+2016,6,3,twelve,4,84.37,L,mount,T,NA,,female,0.72
+2017,6,3,twelve,5,105.4,C,mount,X,NA,,female,29.46
+2018,6,3,twelve,4,89.17,L,mount,T,NA,hard to see bug's number,female,5.52
+2019,6,3,twelve,3,62.32,A,mount,Q,"tried to run away at first, now staying still",,female,38.9
+2020,6,3,twelve,5,106.3,I,mount,X,shook,flipped over on back,female,30.36
+2021,6,3,twelve,2,41.04,D,mount,V,NA,,female,31.97
+2022,6,3,twelve,5,107.32,F,mount,W,NA,,female,98.77
+2023,6,3,twelve,3,62.65,B,mount,Q,staying still but right side against wall,male couldn't get under,female,39.23
+2024,6,3,twelve,3,66.27,G,mount,Q,NA,male got off quickly,female,42.85
+2025,6,3,twelve,4,80.13,F,mount,S,moved into corner,,female,17.06
+2026,6,3,twelve,4,76.94,G,mount,Q,NA,male got off quickly,female,53.52
+2027,6,3,twelve,4,87.82,E,mount,N,moved around,,female,77.04
+2028,6,3,twelve,5,106.37,A,mount,X,NA,right outside entrance,female,30.43
+2029,6,3,twelve,4,79.75,C,mount,N,NA,,female,68.97
+2030,6,3,twelve,4,94.73,H,mount,R,moved away,"male turned around and shook a few times, got off at 19:02",female,82.71
+2031,6,3,twelve,5,108.03,K,mount,N,walked around,,female,97.25
+2032,6,3,twelve,5,108.55,F,mount,W,NA,,female,100
+2033,6,3,twelve,5,108.35,K,mount,N,"was on wall, got off",,female,97.57
+2034,6,3,twelve,4,94.89,H,mount,R,NA,,female,82.87
+2035,6,3,twelve,5,106.82,I,mount,X,ran away,,female,30.88
+2036,6,3,twelve,5,108.38,F,mount,N,NA,,female,97.6
+2037,6,3,twelve,5,105.4,H,mount,R,NA,"still on 5., got off 9:27am",female,93.38
+2038,6,3,twelve,4,77.09,G,mating,Q,NA,male got off at 6:18,female,53.67
+2039,6,3,twelve,5,105.58,H,mount,R,ran away,.7 quickly got off,female,93.56
+2040,6,3,twelve,5,99.51,J,mount,U,moved into corner,,female,15.13
+2041,6,3,twelve,4,77.26,G,mount,Q,NA,male got off quickly,female,0.17
+2042,6,3,twelve,5,99.55,J,mount,U,NA,,female,15.17
+2043,6,3,twelve,5,109.68,J,mount,W,staying still but against wall,,female,101.13
+2044,6,3,twelve,5,109.75,J,mount,W,staying still against wall,,female,101.2
+2045,6,3,twelve,2,40.08,L,mount,O,NA,stayed on for very long time,female,30.68
+2046,6,3,twelve,4,89.03,G,mount,Q,NA,,female,11.94
+2047,6,3,twelve,4,87.3,D,mount,M,shook,,female,24.62
+2048,6,3,twelve,4,80.16,F,mating,S,NA,male got off at 23:06,female,17.09
+2049,6,3,twelve,5,107.22,H,mount,X,"walked around, exited shelter",,female,31.28
+2050,6,3,twelve,5,108.28,D,mount,X,NA,,female,32.34
+2051,6,3,twelve,5,109.52,H,mount,U,running around in shelter; ran into corner and male couldn't get under,,female,25.14
+2052,6,3,twelve,5,108.7,K,mount,X,ran away,,female,32.76
+2053,6,3,twelve,5,111.08,F,mating,W,walked around and left shelter,,female,102.53
+2054,6,3,twelve,4,87.37,K,mount,M,ran around in shelter,,female,24.69
+2055,6,3,twelve,5,105.75,G,mount,Q,NA,,female,28.66
+2056,6,3,twelve,4,87.73,K,mount,M,NA,,female,25.05
+2057,6,3,twelve,5,107.2,L,mount,Q,pressed against shelter wall,,female,30.11
+2058,6,3,twelve,2,41.12,D,mount,V,both exited shelter,,female,32.05
+2059,6,3,twelve,5,107.35,L,mount,Q,pushed against shelter wall,,female,30.26
+2060,6,3,twelve,4,89.63,F,mating,S,moved into corner,male got off at 5:46,female,9.47
+2061,6,3,twelve,5,108.63,D,mount,N,NA,,female,97.85
+2062,6,3,twelve,5,108.77,D,mount,N,walked around,,female,97.99
+2063,6,3,twelve,5,107.4,L,mount,Q,shook,,female,30.31
+2064,6,3,twelve,5,107.55,L,mating,Q,"started walking at 11:35 AM, pushed against wall and shook",male got off on their own at 11:38 AM,female,30.46
+2065,6,3,twelve,5,103.29,A,mount,S,NA,,female,13.66
+2066,6,3,twelve,5,109.07,A,mount,Q,na,,female,1.52
+2067,6,3,twelve,5,107.23,H,mount,V,NA,,female,98.16
+2068,6,3,twelve,5,109.63,L,mount,Q,"running around, ran out of shelter",male is very big and cannot bend under,female,2.08
+2069,6,3,twelve,5,110.37,H,mating,M,staying still,,female,47.69
+2070,6,3,twelve,6,130.68,A,mount,W,NA,,female,19.6
+2071,6,3,twelve,5,111.52,L,mount,N,ran out of shelter,,female,100.74
+2072,6,3,twelve,5,106.55,F,mount,S,moved around,,female,16.92
+2073,6,3,twelve,6,130.83,A,mount,W,NA,,female,19.75
+2074,6,3,twelve,5,111.18,G,mount,M,stayed still but ran away after,,female,0.81
+2075,6,3,twelve,5,111.33,G,mount,M,ran into corner of shelter,,female,0.96
+2076,6,3,twelve,5,107.5,I,mount,S,NA,got off quickly,female,17.87
+2077,6,3,twelve,6,131.2,I,mount,W,shook,,female,20.12
+2078,6,3,twelve,5,113.45,B,mating,M,NA,,female,3.08
+2079,6,3,twelve,5,110.42,B,mount,S,running around in shelter,,female,20.79
+2080,6,3,twelve,6,123.81,G,mount,M,NA,,female,10.36
+2081,6,3,twelve,6,130.33,H,mount,M,NA,,female,16.88
+2082,6,3,twelve,5,111.48,J,mount,S,ran away and out of shelter,,female,21.85
+2083,6,3,twelve,6,131.08,D,mount,M,ran away,,female,17.63
+2084,6,3,twelve,6,131.08,J,mount,M,NA,,female,17.63
+2085,6,3,twelve,5,110.47,G,mating,X,"staying still, then entered shetler 3",,female,34.53
+2086,6,3,twelve,6,131.2,J,mount,M,NA,,female,17.75
+2087,6,3,twelve,6,131.23,J,mount,M,moved around,,female,17.78
+2088,6,3,twelve,4,90.27,L,mount,T,ran away,,female,6.62
+2089,6,3,twelve,5,109.67,B,mount,U,was going to enter shelter but ran away when .1 mounted her,,female,25.29
+2090,6,3,twelve,6,131.65,C,mount,M,ran away,,female,18.2
+2091,6,3,twelve,6,132.07,F,mount,M,NA,,female,18.62
+2092,6,3,twelve,5,111.68,B,mount,S,ran away and out of shelter,,female,22.05
+2093,6,3,twelve,6,134.35,I,mount,W,NA,,female,23.27
+2094,6,3,twelve,5,110.63,J,mount,U,running around; ran out of shelter; then ran away,,female,26.25
+2095,6,3,twelve,6,123.53,D,mount,U,NA,,female,39.15
+2096,6,3,twelve,2,40.23,L,mount,O,NA,stayed on until 4:22 PM,female,30.83
+2097,6,3,twelve,6,133.17,B,mount,U,started walking at 1:10 PM and .1 got off,,female,48.79
+2098,6,3,twelve,5,106.43,A,mount,R,NA,,female,94.41
+2099,6,3,twelve,6,132.32,C,mount,M,NA,,female,18.87
+2100,6,3,twelve,2,40.47,B,mount,O,shook and ran around shelter,,female,31.07
+2101,6,3,twelve,6,132.42,C,mount,M,NA,,female,18.97
+2102,6,3,twelve,2,41.06,C,mating,O,walked around,,female,31.66
+2103,6,3,twelve,1,17.02,L,mount,W,started walking at 2:11,male got off at 2:26,female,8.47
+2104,6,3,twelve,5,111.53,L,mount,N,staying still,male is very big and cannot bend under,female,100.75
+2105,6,3,twelve,3,61.23,J,mount,O,staying still,male not under,female,20.17
+2106,6,3,twelve,3,61.35,E,mount,O,ran away,,female,20.29
+2107,6,3,twelve,3,61.48,C,mount,O,staying still,,female,20.42
+2108,6,3,twelve,3,63.18,E,mount,O,staying still; pressed against wall,,female,22.12
+2109,6,3,twelve,5,110.2,L,mount,Q,staying still,male really large from being fed and can't get under,female,2.65
+2110,6,3,twelve,3,63.72,C,mount,O,stayed still but was pressed against wall,,female,22.66
+2111,6,3,twelve,3,64.27,C,mount,O,ran into corner and pressed against wall,,female,23.21
+2112,6,3,twelve,4,84.75,G,mount,O,NA,,female,43.69
+2113,6,3,twelve,4,86.4,G,mount,O,NA,,female,45.34
+2114,6,3,twelve,4,89.12,G,mount,O,NA,,female,48.06
+2115,6,3,twelve,5,106.13,G,mount,O,NA,quickly got off,female,65.07
+2116,6,3,twelve,5,106.15,G,mount,O,NA,,female,65.09
+2117,6,3,twelve,5,109.78,C,mount,O,stayed still,male left on his own,female,68.72
+2118,6,3,twelve,5,111.2,L,mount,Q,,:1 very large from mating and can't bend under,female,3.65
+2119,6,3,twelve,6,134.72,A,mount,O,NA,,female,93.66
+2120,6,3,twelve,5,111.42,L,mount,Q,ran away,,female,3.87
+2121,6,3,twelve,6,122.84,D,mount,S,moved into corner,male got off at 23:48,female,33.21
+2122,6,3,twelve,5,106.68,I,mount,T,NA,,female,23.03
+2123,6,3,twelve,5,110.62,C,mount,X,staying still but against wall,,female,0.15
+2124,6,3,twelve,5,111.45,B,mount,V,stayed still but against wall,,female,102.38
+2125,6,3,twelve,5,111.73,B,mount,V,staying still; then ran away after male got off,"male not under, just staying on female",female,102.66
+2126,6,3,twelve,6,135.22,D,mount,O,NA,,female,94.16
+2127,6,3,twelve,5,111.47,L,mount,Q,ran away and out of shelter,,female,3.92
+2128,6,3,twelve,6,132.48,C,mount,M,NA,,female,19.03
+2129,6,3,twelve,6,133.38,B,mount,M,walked around ,,female,19.93
+2130,6,3,twelve,6,133.4,H,mount,M,NA,,female,19.95
+2131,6,3,twelve,4,83.02,G,mount,P,NA,,female,20.32
+2132,6,3,twelve,3,52.59,L,mount,unknown,NA,,female,N/A
+2133,6,3,twelve,6,130.82,N,mount,S,NA,,female,41.19
+2134,6,3,twelve,6,131.18,I,mount,S,NA,,female,41.55
+2135,6,3,twelve,5,96.8,I,mating,N,moved into corner,male got off at 1:01,female,86.02
+2136,6,3,twelve,5,111.57,K,mount,Q,ran away and out of shelter,,female,4.02
+2137,6,3,twelve,5,111.6,L,mount,Q,ran into corner of shelter,male can't get under,female,4.05
+2138,6,3,twelve,5,111.72,L,mount,Q,staying still but against wall,male can't get under,female,4.17
+2139,6,3,twelve,5,110.78,E,mount,X,walked around until .4 fell off,,female,0.31
+2140,6,3,twelve,5,113.12,B,mount,X,moved away,,female,2.65
+2141,6,3,twelve,4,75.18,H,mount,unknown,shook,,female,N/A
+2142,6,3,twelve,5,108.35,I,mount,R,NA,,female,96.33
+2143,6,3,twelve,5,108.68,C,mount,R,walked into corner,,female,96.66
+2144,6,3,twelve,5,109,L,mating,R,staying still,,female,96.98
+2145,6,3,twelve,5,106.75,L,mount,T,NA,,female,23.1
+2146,6,3,twelve,5,109.5,I,mount,R,ran around and into corner of shelter,,female,0.5
+2147,6,3,twelve,6,135.1,D,mount,R,NA,,female,26.1
+2148,6,3,twelve,5,107.07,L,mount,T,NA,,female,23.42
+2149,6,3,twelve,5,112.78,K,mount,Q,running around,,female,5.23
+2150,6,3,twelve,6,135.37,E,mount,O,NA,,female,94.31
+2151,6,3,twelve,6,132.63,C,mount,T,walked into enterance,,female,48.98
+2152,6,3,twelve,6,131.22,I,mount,S,moved around,,female,41.59
+2153,6,3,twelve,6,131.75,I,mount,S,NA,,female,42.12
+2154,6,3,twelve,6,134.5,C,mount,U,NA,,female,50.12
+2155,6,3,twelve,6,134.65,C,mount,U,NA,,female,50.27
+2156,6,3,twelve,6,130.8,A,mount,N,ran away,,female,34
+2157,6,3,twelve,6,132.35,U,mount,X,NA,.6 was beside 1: and ran away,female,21.88
+2158,6,3,twelve,6,135.15,C,mount,M,NA,,female,21.7
+2159,6,3,twelve,6,133.5,A,mount,S,NA,,female,43.87
+2160,6,3,twelve,6,135.35,A,mount,M,NA,,female,21.9
+2161,6,3,twelve,6,123.61,C,mount,W,moved away and shook,,female,12.53
+2162,6,3,twelve,6,123.61,C,mount,W,moved away,,female,12.53
+2163,6,3,twelve,6,134.78,G,mount,U,NA,,female,50.4

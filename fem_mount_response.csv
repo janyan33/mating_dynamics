@@ -1,0 +1,359 @@
+,Behaviour,patch_behaviour
+1,Ran away,ran_away
+2,Pressing firmly against shelter wall,wall_press
+3,Walk around,moved
+4,,n/a
+5,Ran away into 2,ran_away
+6,Shake and ran away,shook
+7,1: is tightly against wall,wall_press
+8,Continued feeding,n/a
+9,Pushed against wall,wall_press
+10,Both ran away and exited 10,ran_away
+11,moved away,moved
+12,ran out of shelter,ran_away
+13,Staying still,n/a
+14,N/A,n/a
+15,Ran away and exited 12,ran_away
+16,Nothing,n/a
+17,Ran away and exited 7,ran_away
+18,n/A,n/a
+19,Running away,ran_away
+20,Ran away into :0 who mounted her ,ran_away
+21,Ran away and pinched against wall,ran_away
+22,Move away a little,moved
+23,Ran away and into 11,ran_away
+24,Ran away and out of shelter,ran_away
+25,Pressed against wall,wall_press
+26,Pinched against arena wall then ran away,ran_away
+27,Quickly got off,n/a
+28,Walking around,moved
+29,Firmly pressed against wall,wall_press
+30,Running around,ran_away
+31,Still firmly pressed against wall,wall_press
+32,ran away towards aggregate ,wall_press
+33,9. shaking,shook
+34,1: ran away into corner,ran_away
+35,ran into group of bugs,ran_away
+36,NA,n/a
+37,ran away towards exit ,ran_away
+38,unknown,n/a
+39,ran away,ran_away
+40,pressed against wall,wall_press
+41,run away,ran_away
+42,na,n/a
+43,pinned against wall,wall_press
+44,Run around,ran_away
+45,walking around,moved
+46,Ran away and left shelter,ran_away
+47,Ran away and into shelter 5,ran_away
+48,firmly pressed against wall,wall_press
+49,8. pushed their back into wall,wall_press
+50,8. pushed back into the wall,wall_press
+51,Ran away and left shelter 1,ran_away
+52,Tried to run away,ran_away
+53,ran away from bit group,ran_away
+54,Ran out of shelter,ran_away
+55,ran away and joined :0,ran_away
+56,Run away ,ran_away
+57,run away ,ran_away
+58,2. ran away,ran_away
+59,Ran away in shelter,ran_away
+60,Walking around in shelter,moved
+61,Left shelter,ran_away
+62,Walked away,moved
+63,Ran around,ran_away
+64,8. flipped .9 over to be on top then ran away,ran_away
+65,6. walked into enterance and exited,moved
+66,moved out of group away from 0.,moved
+67,was against shelter wall so .4 couldn't get under,wall_press
+68,8. ran away and into shelter 2,ran_away
+69,ran away and squished herself under shelter,ran_away
+70,ran away and out of shelter,ran_away
+71,"moved on top of unknown bug in top right corner, touched .6 who moved away",moved
+72,ran against arena wall,wall_press
+73,pinned tightly against wall,wall_press
+74,curled body then ran away,ran_away
+75,walked away after,n/a
+76,curled body,moved
+77,7. ran away,ran_away
+78,ran away and left shelter,ran_away
+79,"ran away, vigorously shook .3 off",shook
+80,1: tried to run,ran_away
+81,:1 pushed against wall,wall_press
+82,walked away,moved
+83,shook body and ran around,shook
+84,ran away ,ran_away
+85,6. exited shelter,ran_away
+86,tried to run away,ran_away
+87,3. exited with .8 on back,moved
+88,3. ran onto side of shelter,wall_press
+89,6. walked around with .7 on top,moved
+90,0: moved around shelter,moved
+91,1. walked with .6 on back,moved
+92,1. ran away,ran_away
+93,9. ran away,ran_away
+94,7. walked and pushed into wall,wall_press
+95,8. stayed on 9.,n/a
+96,Na,n/a
+97,pressed against arena wall,wall_press
+98,walked around,moved
+99,running around shelter,ran_away
+100,pushed against the arena wall,wall_press
+101,5. moved away towards 2 unknowns at bottom,moved
+102,shaking,shook
+103,9. ran away onto wall,wall_press
+104,pushed against shelter wall,wall_press
+105,1. shook,shook
+106,walked into shelter 2,moved
+107,ran into entrance,ran_away
+108,shook,shook
+109,stayed still,n/a
+110,walked with .0 on back,moved
+111,1: ran away,ran_away
+112,stayed still then ran away after,n/a
+113,stayed still but is already pressed against wall,wall_press
+114,many bugs move away in response,moved
+115,na ,n/a
+116,8. walked forward,moved
+117,"walked into corner by .7, all 3 stayed grouped together",moved
+118,"bug in front shakes, bug at the back turns away then touches",moved
+119,8. continued to run in 1 ,ran_away
+120,"ran into corner, by 8.",ran_away
+121,"na, was shaking at the time",n/a
+122,ran away into group of bugs on right,ran_away
+123,turned around in spot,moved
+124,ran into 1 ,ran_away
+125,ran away and out of sheter,ran_away
+126,walking around and shaking while .7 on her,shook
+127,ran away and into shelter 8,ran_away
+128,running around and shaking vigorously,shook
+129,ran around until .1 fell off,ran_away
+130,was being mounted by .4,n/a
+131,"ran away first, then when 5. got on her she was pressed against the wall under :1 left then she ran away",wall_press
+132,9. ran to enterance of shelter,ran_away
+133,walked with .7 on top,moved
+134,walked around with .7 on top,moved
+135,running around until .7 got off,ran_away
+136,ran away and then pressed against wall,wall_press
+137,ran away and pressed against wall,wall_press
+138,ran around and out of shelter,ran_away
+139,stayed still then ran away,n/a
+140,moved into corner,wall_press
+141,walked into 3,moved
+142,NA then moved and started shaking at 13:02,n/a
+143,ran around and entered 9,ran_away
+144,"running around, flipped upside down",ran_away
+145,ran inside shelter 7,ran_away
+146,walking around; entered 1,moved
+147,ran away and into shelter 7,ran_away
+148,stayed still for a bit then ran away,n/a
+149,ran away and into shelter 2,ran_away
+150,tried to run away and pressed against wall,wall_press
+151,was against a shelter wall,wall_press
+152,ran away and into shelter 11,ran_away
+153,pressed against wall then ran away,wall_press
+154,shaking vigorously ,shook
+155,shook him off,shook
+156,ran away and into corner,ran_away
+157,running around frantically,ran_away
+158,"stayed still, then reentered shelter 9",n/a
+159,ran out from under,ran_away
+160,pushed against arena wall,wall_press
+161,ran away into another corner of the shelter,wall_press
+162,ran into corner,wall_press
+163,Moved around,moved
+164,"ran away, flipped upside down, frantically trying to flip backk over",ran_away
+165,ran around very fast,ran_away
+166,ran around then into shelter 1 where .3 fell off,ran_away
+167,running around vigorously ,ran_away
+168,running all over arena,ran_away
+169,"pressed against wall, then ran away",wall_press
+170,"curled against wall, then ran away when .5 stopped",wall_press
+171,staysed still then ran away,n/a
+172,ran away to other side of shetler,ran_away
+173,pressed against the arena wall,wall_press
+174,walking around then walked away,moved
+175,running around,ran_away
+176,shaking and walking around,shook
+177,stayed still against arena wall,wall_press
+178,mount,na
+179,walking around and into corner,moved
+180,ran out of shelter ,ran_away
+181,curled body? Then walked away,moved
+182,5. moved away ,moved
+183,"walking around, running away",ran_away
+184,moved around,moved
+185,tried to run but male hung on ,ran_away
+186,moved away ,moved
+187,noved away,moved
+188,tried to move,moved
+189,nothing initially then ran away,n/a
+190,ran around in shelter,ran_away
+191,burrowed into group,wall_press
+192,ran away in the shelter and then rejoined the large aggregation,ran_away
+193,climbed onto wall,wall_press
+194,walked with .4 on top,moved
+195,move away,moved
+196,walked around a bit,moved
+197,ran out of shelter into enterance,ran_away
+198,went to corner of the arena,wall_press
+199,walked back into shelter,moved
+200,walked further into group of bugs,wall_press
+201,walking around in shelter,moved
+202,"walked around, shook, pressed .7 into wall and floor",wall_press
+203,ran into corner and pressed against wall,wall_press
+204,5. shook .2 off,shook
+205,ran away and shook,shook
+206,ran to other side of shelter and shook,shook
+207,was still getting mated with by .5,n/a
+208,walked into wall ,wall_press
+209,pressed into corner,wall_press
+210,ran into group of bugs In top right corner,ran_away
+211,ran away into shelter,ran_away
+212,walked into shelter then shook,shook
+213,moved into top right corner,moved
+214,move away ,moved
+215,ran deeper into big group,ran_away
+216,walking aroind in shetler,moved
+217,shook and walked into group,shook
+218,running around and shaking,shook
+219,ran into enterance,ran_away
+220,"running around, went to corner of shelter; pressed against corner",wall_press
+221,ran into corner .0 got off at 9:12 AM,ran_away
+222,walking around arena,moved
+223,ran and pressed against shelter wall,wall_press
+224,1: ran into group of bugs,ran_away
+225,walked into shelter 1,moved
+226,walking aound,moved
+227,walked around and entered 1,moved
+228,ran away and against wall,wall_press
+229,pressed against floor,wall_press
+230,running around until .3 fell off,ran_away
+231,staying still,n/a
+232,staying still; against arena wall,wall_press
+233,ran around until male fell off,ran_away
+234,walked around until 7. fell off,moved
+235,staying still against arena wall; then started running around until male fell off,ran_away
+236,staying still against arena wall,wall_press
+237,walking around then ran away,moved
+238,NA then started walking at 3:15 PM,n/a
+239,walked around with .8 on top,moved
+240,NA then started walking,n/a
+241,"moved away, .8 did not get on",moved
+242,NA then walked into 1,n/a
+243,NA until other bugs approached then 2. ran away,n/a
+244,"walked around, into corner",moved
+245,"walked around, climbed wall at 4:41 PM and.8 got off",moved
+246,"running around, disturbing everyone else in the shelter",ran_away
+247,running around then joined big group,ran_away
+248,shook then stopped,shook
+249,"NA, started walking at 2:49PM",n/a
+250,2. ran then stopped,ran_away
+251,ran into group,ran_away
+252,9. ran into group,ran_away
+253,2. ran away into enterance then ran into group in 1,ran_away
+254,NA ,n/a
+255,5. ran away,ran_away
+256,"started walking at 11:22 PM, pushed .8 into wall at 11:30 AM",moved
+257,4. walked around,moved
+258,moved into group,moved
+259,started walking at 11:17 AM,n/a
+260,"went into group, walked at 11:16 AM",wall_press
+261,2. exited shelter,ran_away
+262,ran into enterance then into group,ran_away
+263,running around then pinned against arena corner,wall_press
+264,staying still; then walking around,n/a
+265,running around arena,ran_away
+266,trying to resume feeding,n/a
+267,moved away slightly,n/a
+268,ran away after,n/a
+269,"staying stil, then walking around",n/a
+270,"started walking at 12:44 PM, climbed wall at 12:48 PM",n/a
+271,ran away into corner of arena,ran_away
+272,started walking ,moved
+273,staying still; ran away after,n/a
+274,6. moved around,moved
+275,"started walking at 3:06 PM, was walking among walls at 3:09 PM and pushed .8 against wall, got off at 3:09 PM",n/a
+276,started walking at 3:38 PM then .8 got off,n/a
+277,started walking at 2:47 PM,n/a
+278,ran away and buried herself into aggregation,wall_press
+279,ran around shelter,ran_away
+280,moved away to wall,wall_press
+281,turned in spot then started walking,moved
+282,moved into group of bugs,wall_press
+283,started walking at 12:18 PM,moved
+284,"ran away, started walking at 11:20 AM",ran_away
+285,walks into group of bugs,moved
+286,walked around shelter,moved
+287,stayed still during mount then ran away,n/a
+288,running around until male fell off,ran_away
+289,stayed still then ran after male left,n/a
+290,ran around in circles,ran_away
+291,0. climbed wall,ran_away
+292,pressed against shelter wall,wall_press
+293,shook and moved around,shook
+294,started walking at 11:44 AM,n/a
+295,"climbed wall, started walking at 12:12 PM and .8 fell off",ran_away
+296,climbed wall,ran_away
+297,ran into shelter,ran_away
+298,5. tried to run away but stopped when .8 got on,ran_away
+299,ran away at first then stayed still,ran_away
+300,"walked forward and pushed butt tp ground, shook",shook
+301,fell off shelter wall,n/a
+302,started walking at 12:42 PM,n/a
+303,shook and walked around,shook
+304,staying still; now walking around; ,n/a
+305,stayed still during mount then walked away,n/a
+306,shook him off then ran away,shook
+307,"5. tried to run away but stopped when .8 got on, started walking at 3:29 PM",ran_away
+308,wedged herself against arena wall,wall_press
+309,"ran away, .2 got off and stacked on .4",ran_away
+310,ran into large aggregation,ran_away
+311,was being mounted by :1 at the time,n/a
+312,staying still; then entered 8,n/a
+313,running away,ran_away
+314,running around; then broke free and ran away,ran_away
+315,walked into 8,moved
+316,tried to get away then stopped,ran_away
+317,"entered 6, pushed against wall to get .6 off",wall_press
+318,moved around and exited shelter,moved
+319,exited shelter,ran_away
+320,ran away with .2 ontop,ran_away
+321,walked around into group of bugs (4. and 2.),moved
+322,"was already pressed agianst wall, male couldn't get under",wall_press
+323,running around very frantically,ran_away
+324,ran around until male fell off then left,ran_away
+325,was against wall,wall_press
+326,stayed still against shelter wall then entered 12 after .0 got off,wall_press
+327,stayed still against shelter wall,wall_press
+328,staying still but was already pressed against shelter corner,wall_press
+329,walked around in shelter,moved
+330,moved against shelter wall,wall_press
+331,ran into corner of shelter,wall_press
+332,walked into corner with other bug,moved
+333,"tried to run away at first, now staying still",ran_away
+334,staying still but right side against wall,wall_press
+335,"was on wall, got off",n/a
+336,staying still but against wall,wall_press
+337,staying still against wall,wall_press
+338,"walked around, exited shelter",moved
+339,running around in shelter; ran into corner and male couldn't get under,wall_press
+340,both exited shelter,moved
+341,"running around, ran out of shelter",ran_away
+342,stayed still but ran away after,n/a
+343,running around in shelter,ran_away
+344,was going to enter shelter but ran away when .1 mounted her,ran_away
+345,running around; ran out of shelter; then ran away,ran_away
+346,started walking at 1:10 PM and .1 got off,n/a
+347,shook and ran around shelter,shook
+348,started walking at 2:11,n/a
+349,staying still; pressed against wall,wall_press
+350,stayed still but was pressed against wall,wall_press
+351,stayed still but against wall,wall_press
+352,staying still; then ran away after male got off,n/a
+353,walked around ,moved
+354,walked around until .4 fell off,moved
+355,walked into corner,wall_press
+356,ran around and into corner of shelter,wall_press
+357,walked into enterance,moved
+358,moved away and shook,shook

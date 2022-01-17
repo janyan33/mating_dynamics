@@ -12,7 +12,7 @@ library(DHARMa)
 library(emmeans)
 library(janitor)
 library(car)
-source("scripts/igraphplot2.R") ## ADD LATER
+#source("scripts/igraphplot2.R") ## ADD LATER
 
 ## Importing and organizing data
 mate_mount_data <- read.csv("data/mate_mount_data.csv") %>% 
@@ -113,12 +113,17 @@ attr_fem <- attr %>%
             filter(sex == "Female")
 
 attr_fem$block <- as.factor(attr_fem$block)
+levels(attr_fem$treatment) <- c("Two shelter", "Twelve shelter")
 
 ############################## MOUNTING ANALYSES ############################### 
 ## Mounting rate figure
-ggplot(data = attr_fem, aes(y = mounts_in_rate, x = treatment)) + geom_boxplot() + theme(text = element_text(size = 20)) + 
-       geom_jitter(position = position_jitter(width = 0.15, height = 0), color = "sandybrown", alpha = 0.5, size = 1.5) + 
-       labs(y = "", x = "") + scale_y_continuous(breaks = c(5, 10, 15))
+ggplot(data = attr_fem, aes(y = mounts_in_rate, x = treatment, fill = sex, color = sex)) + 
+       geom_boxplot(alpha = 0.6, outlier.colour = "black") +
+       scale_fill_manual(values = c("sandybrown", "skyblue3")) +
+       scale_color_manual(values = c("sandybrown", "skyblue3")) +
+       theme(text = element_text(size = 20), legend.position = "none") + 
+       geom_jitter(position = position_jitter(width = 0.15, height = 0), size = 1.5) + 
+       labs(y = "Mounts received per day", x = "") + scale_y_continuous(breaks = c(2, 4, 6, 8, 10, 12, 14))
 
 ## Mounting rate model
 mount_model <- lmer(data = attr_fem, mounts_in_rate ~ treatment + (1|block))
@@ -130,14 +135,17 @@ plot(mount_model)
 residuals_mount_model <- simulateResiduals(mount_model)
 plot(residuals_mount_model)
 
-
 ############################## MATING ANALYSES ################################
 ## Mating rate figure
-ggplot(data = attr_fem, aes(y = mating_rate, x = treatment)) + geom_boxplot() + theme(text = element_text(size = 20)) + 
-       geom_jitter(position = position_jitter(width = 0.15, height = 0), color = "sandybrown", alpha = 0.5, size = 1.5) + 
-       labs(y = "", x = "") + scale_y_continuous(breaks = c(0.5, 1, 1.5, 2, 2.5, 3))
+ggplot(data = attr_fem, aes(y = mating_rate, x = treatment, fill = sex, color = sex)) + 
+  geom_boxplot(alpha = 0.6, outlier.colour = "black") +
+  scale_fill_manual(values = c("sandybrown", "skyblue3")) +
+  scale_color_manual(values = c("sandybrown", "skyblue3")) +
+  theme(text = element_text(size = 20), legend.position = "none") + 
+  geom_jitter(position = position_jitter(width = 0.15, height = 0), size = 1.5) + 
+  labs(y = "Inseminations per day", x = "") + scale_y_continuous(breaks = c(0.5, 1, 1.5, 2., 2.5, 3))
 
-## Mounting rate model
+## Mating rate model
 mating_model <- lmer(data = attr_fem, mating_rate ~ treatment + (1|block))
 summary(mating_model)
 Anova(mating_model)
